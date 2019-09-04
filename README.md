@@ -1,2 +1,2 @@
 # jntry.work
-Repository containing content for jntry.work
+Repository of content and code for jntry.work
