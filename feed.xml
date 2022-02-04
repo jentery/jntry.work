@@ -5,8 +5,8 @@
     <description></description>
     <link>http://jntry.work//</link>
     <atom:link href="http://jntry.work//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 02 Feb 2022 09:22:34 -0800</pubDate>
-    <lastBuildDate>Wed, 02 Feb 2022 09:22:34 -0800</lastBuildDate>
+    <pubDate>Thu, 03 Feb 2022 15:51:55 -0800</pubDate>
+    <lastBuildDate>Thu, 03 Feb 2022 15:51:55 -0800</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
 
     
@@ -14,13 +14,13 @@
         <title>Currently (2022-23)</title>
         <description>&lt;p&gt;I’m on sabbatical until July 1st to complete a monograph on the sounds of playable fiction. I am also writing an open access textbook for undergraduate students with interests in media studies and fiction.&lt;/p&gt;
 
-&lt;p&gt;After sabbatical, I’m scheduled to teach four English courses at UVic: “Contemporary Media and Fiction” and “Player Stories: On Games and Interactive Fiction” in Fall 2022 and then “Cultural Studies” and “Speculative Fiction: Special Studies in a Genre” in Spring 2023.&lt;/p&gt;
+&lt;p&gt;After sabbatical, I’m scheduled to teach four English courses at UVic: “Contemporary Media and Fiction” (ENGL 230) and “Player Stories: On Games and Interactive Fiction” (ENGL 506) in Fall 2022 and then “Cultural Studies” (ENGL 466) and “Games and Interactive Fiction: Special Studies in a Genre” (ENGL 391) in Spring 2023. “Player Stories” will be a graduate seminar, and a &lt;a href=&quot;https://www.uvic.ca/humanities/english/assets/docs/Course%20Descriptions/2022-23description-expanded.pdf&quot;&gt;description of it&lt;/a&gt; is now online.&lt;/p&gt;
 
 &lt;p&gt;I hope you’re keeping as well as can be right now. Thanks for stopping by.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/currently.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used and modified with permission. I created this page on 11 May 2021 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/currently.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used and modified with permission. I created this page on 11 May 2021 and last updated it on 3 February 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Jan 2022 00:00:00 -0800</pubDate>
         <link>http://jntry.work//currently/</link>
@@ -388,6 +388,109 @@ I’m asking you to access most materials online via their URLs or a passcode-pr
         <pubDate>Tue, 29 Dec 2020 00:00:00 -0800</pubDate>
         <link>http://jntry.work//aesthetics/</link>
         <guid isPermaLink="true">http://jntry.work//aesthetics/</guid>
+      </item>
+    
+      <item>
+        <title>Praxis Studio</title>
+        <description>&lt;p&gt;The Praxis Studio for Comparative Media Studies is a humanities research lab dedicated to the aesthetics and politics of media across formats. It is a space with an infrastructure. It is also a culture, or—as our researchers are wont to describe it—a “pond” for experimental methods that blend media theory with media practice.&lt;/p&gt;
+
+&lt;p&gt;The Studio was once the &lt;a href=&quot;/mlab&quot;&gt;Maker Lab&lt;/a&gt;. I changed the name and unbranded our research in 2019, and we relocated that same year, with a shift toward &lt;a href=&quot;/minimalcomputing&quot;&gt;minimal computing&lt;/a&gt; techniques along the way. This means we invest in research activities that demand fewer resources, not to mention less technical labor and maintenance, than the MLab’s previous physical computing, fabrication, and multimodal communication projects.&lt;/p&gt;
+
+&lt;p&gt;The Studio is also intended to support students first and foremost. Whereas the MLab privileged milestone-driven research toward a specific “kit” or exhibition, the Praxis team follows lines of inquiry clustered loosely around annual themes. Students may develop their own research with feedback from the group, &lt;em&gt;and&lt;/em&gt; they may collaborate on projects in partnership with local communities and networks such as &lt;a href=&quot;/spokenweb&quot;&gt;SpokenWeb&lt;/a&gt;. All Praxis work belongs to our researchers (not to the Studio), and no position is unpaid. I also do my best to host visiting speakers and facilitate Studio events like our 2021-22 “Player Stories” series about how people study play, document it, and narrate their experiences with games.&lt;/p&gt;
+
+&lt;p&gt;Below is an official description of the Praxis Studio, together with links to its website, its Twitter handle, and related information about Studio grants, events, and partnerships.&lt;/p&gt;
+
+&lt;p&gt;While directing the Studio, I’ve had the honor of collaborating with this incredible crew: Samuel Adesubokan, Tracey El Hajj, Julie M. Funk, Braeden Hallman, Stefan Higgins, Madyson Huck, Hector Lopez, Faith Ryan, Alana Sayers, Lexy Townsend, and Asia Tyson. A thousand thanks to you all! And additional thanks to Asia for giving me permission to include the image below of her Praxis work on player stories and game audio. Here, Asia is studying the game, &lt;em&gt;Inside&lt;/em&gt;, developed and published by Playdead.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/praxis3.png&quot; alt=&quot;The Praxis Studio for Comparative Media Studies&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;The Praxis Studio for Comparative Media Studies&lt;/strong&gt;  &lt;br /&gt;
+September 2019 - present | Humanities Lab | UVic’s Clearihue Building&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;https://uvicpraxis.github.io/&quot;&gt;website&lt;/a&gt; (HTML); &lt;a href=&quot;https://twitter.com/uvicpraxis&quot;&gt;@uvicpraxis&lt;/a&gt; (Twitter); &lt;a href=&quot;/blog.html#internal-grant-for-experimental-worldbuilding&quot;&gt;grant&lt;/a&gt; for experimental worldbuilding (HTML); &lt;a href=&quot;https://uvicpraxis.github.io/playerStories.html&quot;&gt;“Player Stories”&lt;/a&gt; speaker series (HTML); &lt;a href=&quot;/blog.html#spokenweb-receives-sshrc-grant&quot;&gt;SpokenWeb partnership&lt;/a&gt; (HTML)&lt;/p&gt;
+
+&lt;p&gt;Supported by the Canada Foundation for Innovation, Social Sciences and Humanities Research Council of Canada, British Columbia Knowledge Development Fund, and UVic’s Faculty of Humanities and Department of English&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Who We Are&lt;/strong&gt;     &lt;br /&gt;
+We are a group of researchers who study the aesthetics and politics of media by blending theory and history with storytelling and prototyping. We value decolonization, situated knowledge, the space of place, and integrative approaches to media: old + new, analog + digital, still + moving, popular + experimental, immersive + meta.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What We Do&lt;/strong&gt;  &lt;br /&gt;
+We identify pressing topics in media studies, articulate them as studio themes, research and write about them, prototype scenarios for them, and facilitate events to engage them. Our themes have included:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Player Stories: examining how people document and narrate their experiences with games&lt;/li&gt;
+  &lt;li&gt;Uncanning Sounds: bringing literary audio from the past into the present&lt;/li&gt;
+  &lt;li&gt;Experimental Worldbuilding: imagining better worlds for games and playable fictions&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;What We Aren’t&lt;/strong&gt;  &lt;br /&gt;
+We are not a blog, brand, dev team, fab lab, digital humanities project, or humanities computing centre. We do not offer courses, either, but if you want to learn about digital tools and methodologies, then we recommend contacting our amazing colleagues at the &lt;a href=&quot;https://onlineacademiccommunity.uvic.ca/dsc/&quot;&gt;Digital Scholarship Commons&lt;/a&gt; (DSC), &lt;a href=&quot;https://ocam.library.uvic.ca/index.php&quot;&gt;Obsolete Computing and Media&lt;/a&gt; (OCaM), and the &lt;a href=&quot;https://www.uvic.ca/humanities/hcmc/&quot;&gt;Humanities Computing and Media Centre&lt;/a&gt; (HCMC).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Support and History&lt;/strong&gt; &lt;br /&gt;
+We are housed in the Faculty of Humanities at the University of Victoria; we partner with English, Visual Arts, the HCMC, and Cultural, Social, and Political Thought; and we collaborate with the DSC and Special Collections. We are members of the &lt;a href=&quot;https://spokenweb.ca/&quot;&gt;SpokenWeb&lt;/a&gt; project, and our research is supported by the Social Sciences and Humanities Research Council of Canada (SSHRC), the Canada Foundation for Innovation (CFI), and the SpokenWeb SSHRC partnership network. We began as The Maker Lab in the Humanities in 2012 and became The Praxis Studio for Comparative Media Studies in 2019. All work belongs to our researchers (not to the studio), and no position is unpaid.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Contact Us&lt;/strong&gt;  &lt;br /&gt;
+We’re located in UVic’s Clearihue building. You can email our director, Jentery Sayers (he/him/his), at &lt;a href=&quot;mailto:jentery@uvic.ca&quot;&gt;jentery@uvic.ca&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/praxis.png&quot;&gt;image&lt;/a&gt; of a cassette care of the RVA Punk compilation,&lt;/em&gt; Watch Us Go To Work. &lt;em&gt;Main &lt;a href=&quot;/images/posts/praxis3.png&quot;&gt;image&lt;/a&gt; of Asia Tyson editing&lt;/em&gt; Inside &lt;em&gt;gameplay care of Asia Tyson and used with permission. I created this page on 25 January 2022 and last updated it on 3 February 2022.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 02 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://jntry.work//praxis/</link>
+        <guid isPermaLink="true">http://jntry.work//praxis/</guid>
+      </item>
+    
+      <item>
+        <title>SpokenWeb</title>
+        <description>&lt;p&gt;The &lt;a href=&quot;/praxis&quot;&gt;Praxis Studio&lt;/a&gt; partnered with the SpokenWeb research network in 2019 and has since continued to develop pedagogical materials for teaching and learning about literary sound recordings and audio in the humanities. Some examples include Julie Funk’s research on machine listening (and listening like a machine), Samuel Adesubokan’s annotations of talking drum performances by the Peter Adedokun ensemble, Faith Ryan’s treatment of listening as a question of access, and the Studio’s ongoing work to create prompts that introduce undergraduates to the apprehension and interpretation of audio in fiction.&lt;/p&gt;
+
+&lt;p&gt;Below is a link to SpokenWeb, followed by an official description of both the network and its pedagogy task force, of which I’m a member. I also point to an interview that SpokenWeb’s Emma Telaro conducted with Julie, Faith, and me and to some audio-related talks the Studio’s researchers gave in recent years.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to SpokenWeb’s principal investigator, Jason Camlot, not only for his leadership but also for inviting the Praxis Studio to join SpokenWeb; to Karis Shearer, Deanna Fong, Michelle Levy, Emily Murphy, Jason Wiens, and everyone on SpokenWeb’s pedagogy task force; and to SpokenWeb and SSHRC for supporting the following research assistants at UVic: Samuel Adesubokan, Julie Funk, Stefan Higgins, Madyson Huck, Faith Ryan, and Asia Tyson.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/spokenweb2.png&quot; alt=&quot;Screen cap of SpokenWeb website, where Emma Telaro interviewed the Praxis Studio for Comparative Media Studies. The title of the interview is, &amp;quot;On Literary Machine Listening and Pedagogy: The Praxis Studio with Julie Funk, Faith Ryan, and Jentery Sayers,&amp;quot; and next to the title are pictures of Julie, Faith, and Jentery&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;SpokenWeb&lt;/strong&gt;  &lt;br /&gt;
+Research partnership network based at Concordia University | Jason Camlot, PI | Praxis Studio, partner since September 2019&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;https://spokenweb.ca/&quot;&gt;project website&lt;/a&gt; (HTML); &lt;a href=&quot;https://spokenweb.ca/about-us/team/&quot;&gt;team members&lt;/a&gt; (HTML); &lt;a href=&quot;https://spokenweb.ca/on-literary-machine-listening-and-pedagogy-the-praxis-studio-with-julie-funk-faith-ryan-and-jentery-sayers/&quot;&gt;interview&lt;/a&gt; with the Praxis Studio (HTML); Julie Funk’s &lt;a href=&quot;https://spokenweb.ca/events/virtual-listening-practice-guided-by-julie-funk/&quot;&gt;workshop&lt;/a&gt; on machine listening (HTML); the Praxis team’s &lt;a href=&quot;/blog.html#designing-prompts-for-literary-audio-studies&quot;&gt;talk&lt;/a&gt; on designing prompts for literary audio studies (HTML); my &lt;a href=&quot;/blog.html#delia-derbyshire&quot;&gt;talk and listening session&lt;/a&gt; on Delia Derbyshire’s compositions (HTML with MP3s); my &lt;a href=&quot;/blog.html#prototyping-pedagogy&quot;&gt;keynote&lt;/a&gt; at Concordia on sound and pedagogy (HTML); my &lt;a href=&quot;/blog.html#working-with-historical-audio&quot;&gt;plenary&lt;/a&gt; at UBCO on working with historical audio (HTML)&lt;/p&gt;
+
+&lt;p&gt;This research was supported by the Social Sciences and Humanities Research Council of Canada (SSHRC), in particular through the SpokenWeb SSHRC partnership network.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;About SpokenWeb&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Since the introduction of portable tape recording media technologies in the 1960s, writers and artists have been documenting their performances of literary works, events and conversations with creative abandon. Yet, most of these audio archives remain inaccessible or in peril of imminent decay, or, if digitized, are still largely disconnected from each other.&lt;/p&gt;
+
+&lt;p&gt;The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.&lt;/p&gt;
+
+&lt;p&gt;These approaches include 1) new forms of historical and critical scholarly engagement; 2) digital preservation and aggregation techniques, asset management and infrastructure to support sustainable access; 3) techniques and tools for searching, visualizing, analyzing and enhancing critical engagement (for features relevant to humanities research and pedagogy); and 4) innovative ways of mobilizing digitized spoken and literary recordings within pedagogical, performative and public contexts.&lt;/p&gt;
+
+&lt;p&gt;The SpokenWeb program begins with the preservation and description of sonic artifacts that have captured literary events of the past, and quickly moves into a wide range of approaches and activities activate these artifacts in the present.&lt;/p&gt;
+
+&lt;p&gt;(The SpokenWeb’s &lt;a href=&quot;https://spokenweb.ca/about-us/spokenweb/&quot;&gt;“About” page&lt;/a&gt; is the source of this description.)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pedagogy Task Force&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Pedagogy Task Force aims to produce research outputs (conferences, publications, and workshops) that enhance engagement with existing digital audio archives or analog collections. Our research and projects can be described by the following five categories: 1) development of pedagogical training modules &amp;amp; resources that can be shared amongst partners as well as with the public, 2) development of digital tools for use in classroom and public pedagogy, 3) development of a bank of pedagogical activities and resources that can be used by members of the SpokenWeb team and by teachers in a variety of settings, 4) knowledge production and mobilization on pedagogical theory and practice, and 5) identification and tagging of pedagogical content of recordings within the SpokenWeb member collections.&lt;/p&gt;
+
+&lt;p&gt;(The SpokenWeb’s &lt;a href=&quot;https://spokenweb.ca/about-us/governance/&quot;&gt;“Governance” page&lt;/a&gt; is the source of this description.)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;SpokenWeb &lt;a href=&quot;/images/posts/spokenweb.png&quot;&gt;logo&lt;/a&gt; and main &lt;a href=&quot;/images/posts/spokenweb2.png&quot;&gt;image&lt;/a&gt; care of the SpokenWeb project. I created this page on 25 January 2022 and last updated it on 3 February 2022.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 01 Sep 2019 00:00:00 -0700</pubDate>
+        <link>http://jntry.work//spokenweb/</link>
+        <guid isPermaLink="true">http://jntry.work//spokenweb/</guid>
       </item>
     
       <item>
@@ -4014,6 +4117,14 @@ I'm returning to the classroom for the first time since 12 March 2020, when UVic
 
 ***
 
+# [Designing Prompts for Literary Audio Studies](#designing-prompts-for-literary-audio-studies)
+
+*20 May 2021*
+
+Yesterday, I presented with Samuel K. Adesubokan, Julie Funk, and Faith Ryan at the [2021 SpokenWeb Symposium](archive/talks/spokenweb21/spokenWebSymposium2021.pdf). The topic of our talk was [&quot;Designing Prompts for Literary Audio Studies,&quot;](archive/talks/spokenweb21/) which was part of a plenary panel on &quot;Teaching with Sound / Sound and Pedagogy.&quot; We had the pleasure of presenting alongside Nicole Brittingham Furlonge, and Aphrodite Salas was kind enough to moderate. Many thanks to the SpokenWeb team for hosting us during this terrific event. 
+
+***
+
 # [Scholarly Podcasts](#scholarly-podcasts)
 
 *17 April 2021* 
@@ -4026,7 +4137,15 @@ The *BC Studies* journal published a [four-episode podcast](https://bcstudies.co
 
 *26 March 2021* 
 
-Yesterday I gave a talk online as part of Lawrence Technology University's [&quot;Humanity + Technology&quot;](https://www.ltu.edu/humantech/) series. I spoke about how &quot;prototyping the past&quot; might apply to the practice of worldbuilding. The talk was [recorded](https://www.youtube.com/watch?v=nNN4B-eaTrc), and I published my [slides](/archive/talks/ltu/). Thanks to Paul Jaussen, Franco Delogu, Emily Kutil, and LTU's College of Architecture and Design for inviting me, and for archiving all the &quot;Humanity + Tech&quot; events, including wonderful talks by [Alenda Chang](https://www.ltu.edu/humantech/findingnature.asp) and [Katherine Hayles](https://www.ltu.edu/humantech/hayles.asp).
+Yesterday I gave a talk online as part of Lawrence Technology University's [&quot;Humanity + Technology&quot;](https://www.ltu.edu/humantech/) series. I spoke about how &quot;prototyping the past&quot; might apply to the practice of worldbuilding. The talk was [recorded](https://www.youtube.com/watch?v=nNN4B-eaTrc), and I published my [slides](/archive/talks/ltu/). Thanks to Paul Jaussen, Franco Delogu, Emily Kutil, and LTU's College of Architecture and Design for inviting me, and for archiving all the &quot;Humanity + Tech&quot; events, including talks by [Alenda Chang](https://www.ltu.edu/humantech/findingnature.asp) and [Katherine Hayles](https://www.ltu.edu/humantech/hayles.asp).
+
+***
+
+# [SpokenWeb Interviews the Praxis Studio](#spokenweb-interviews-the-praxis-studio)
+
+*27 February 2021*
+
+Many thanks to SpokenWeb researcher, Emma Telaro, for [interviewing](https://spokenweb.ca/on-literary-machine-listening-and-pedagogy-the-praxis-studio-with-julie-funk-faith-ryan-and-jentery-sayers/) Julie Funk, Faith Ryan, and me about our [Praxis Studio](/praxis/) research on all things audio. It was a great discussion! Julie unpacked the significance of machine listening to literary and cultural studies, Faith engaged disability studies and listening as a form of access, and I talked about works of audio I enjoy teaching. 
 
 ***
 
@@ -4034,7 +4153,7 @@ Yesterday I gave a talk online as part of Lawrence Technology University's [&quo
 
 *1 September 2020*
 
-UVic awarded me an internal grant to conduct research on experimental worldbuilding in games and speculative fiction. All the funds will support graduate students in the [Praxis Studio](https://uvicpraxis.github.io/). We'll spend the next two years examining how compelling worlds are not only imagined but also constructed for players, with an emphasis on the politics and design of indie games. Many thanks to UVic for this opportunity. It's the spark we all needed right now.    
+UVic awarded me an internal grant to conduct research on experimental worldbuilding in games and speculative fiction. All the funds will support graduate students in the [Praxis Studio](/praxis/). We'll spend the next two years examining how compelling worlds are not only imagined but also constructed for players, with an emphasis on the politics and design of indie games. Many thanks to UVic for this opportunity. It's the spark we all needed right now.    
 
 ***
 
@@ -4058,7 +4177,7 @@ Following UVic's recommendations, I'm transitioning my teaching and lab research
 
 *25 September 2019* 
 
-Congratulations to Jason Camlot and the [SpokenWeb team](https://spokenweb.ca/about-us/team/) on receiving a SSHRC Partnership Grant, which &quot;aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond&quot; ([&quot;About SpokenWeb&quot;](https://spokenweb.ca/about-us/spokenweb/)). I'm thrilled to be a collaborator on this fantastic project, and everyone at the [Praxis Studio](https://uvicpraxis.github.io/) is looking forward to contributing to it. 
+Congratulations to Jason Camlot and the [SpokenWeb team](https://spokenweb.ca/about-us/team/) on receiving a SSHRC Partnership Grant, which &quot;aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond&quot; ([&quot;About SpokenWeb&quot;](https://spokenweb.ca/about-us/spokenweb/)). I'm thrilled to be a collaborator on this fantastic project, and everyone at the [Praxis Studio](/praxis/) is looking forward to [contributing](/spokenweb/) to the SpokenWeb's pedagogy initiatives.  
 
 ***
 
@@ -4066,7 +4185,7 @@ Congratulations to Jason Camlot and the [SpokenWeb team](https://spokenweb.ca/ab
 
 *24 September 2019*
 
-It's [official](https://twitter.com/uvicpraxis/status/1176608050263687168): The Maker Lab in the Humanities is now the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. We've wanted to change the MLab's name for some time now, and the timing is perfect, as we'll also relocate to UVic's Clearihue building, which houses the University's Faculty of Humanities. Thanks to the Faculty and the Department of English for their continued support. We will no longer update the [MLab's website](https://maker.uvic.ca/), but I will continue to direct our research under the Lab's new name. Exciting times! 
+It's [official](https://twitter.com/uvicpraxis/status/1176608050263687168): The Maker Lab in the Humanities is now the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. We've wanted to change the MLab's name for some time now, and the timing is perfect, as we'll also relocate to UVic's Clearihue building, which houses the University's Faculty of Humanities. Thanks to the Faculty and the Department of English for their continued support. We will no longer update the [MLab's website](https://maker.uvic.ca/), but I will continue to direct [our research](/praxis/) under the Lab's new name. Exciting times! 
 
 ***
 
@@ -4174,21 +4293,16 @@ Thea Cacchioni (Gender Studies) and I were recently invited to co-chair the 2017
 
 The University of Victoria awarded me tenure with promotion this term. I'm now an associate professor of English, and I'm thrilled. Relieved, in fact. Many thanks to my family for their unwavering support along the way, to my department, and to everyone who reviewed and processed my dossier. 
 
-***
-
-&lt;!-- *** 
+*** 
 
 # [Prototyping Pedagogy](#prototyping-pedagogy)
 
 *5 December 2016*
 
-archive/talks/concordia/ 
-
-Lorem ipsum dolor sit amet, an sed modo veri epicuri, tamquam recusabo mnesarchum ea ius. Mei no utamur saperet delicatissimi, ea modo partem vidisse est, sed nullam feugiat salutandi eu. Eu mel everti copiosae. In pri mundi docendi praesent. Vis idque indoctum id, vel malorum habemus ei, id quo wisi gloriatur. Ei eos quot tation. Aeterno concludaturque quo id. Assum eripuit admodum ne per, at zril libris mel, possim mollis persius ea pro. Mandamus hendrerit sea no, choro postulant salutatus vix eu. 
+I visited Concordia University in beautiful Montreal this weekend to give a keynote on sound and pedagogy at the [Literary Audio Symposium](https://spokenweb.ca/symposia/#/literary-audio-symposium). I titled the talk, [&quot;Prototyping Pedagogy,&quot;](archive/talks/concordia/) and Tanya Clement, Al Filreis, Jonathan Sterne, and David Seubert also gave [keynotes](archive/talks/concordia/litaud.jpg). Thanks to everyone at Concordia for hosting me. I look forward to seeing what Jason Camlot and the SpokenWeb team do next as part of this truly inventive project. 
 
 ***
 
---&gt;
 # [Two More Years of MLab Activities](#two-more-years-of-mlab-activities)
 
 *7 November 2016* 
@@ -4419,7 +4533,7 @@ I had the pleasure of giving a keynote at the University of Kansas's [&quot;Retu
 
 *3 August 2013* 
 
-This weekend, I was a plenary speaker at the [&quot;Editing Modernism On and Off the Page&quot;](https://fccs.ok.ubc.ca/2013/07/10/ubc-hosts-editing-modernism-on-and-off-the-page-summer-institute/) institute on UBC's beautiful Okanagan campus. My talk was about [&quot;Editing, Annotating, and Discovering Historical Audio&quot;](/archive/talks/temic2013/). I drew heavily from material in my dissertation, and after the talk I was fortunate to hear George Bowering, Frank Davey, Daphne Marlatt, Fred Wah, and Sharon Thesen each read their own work. Many thanks to Karis Shearer for inviting me to UBCO. 
+This weekend, I was a plenary speaker at the [&quot;Editing Modernism On and Off the Page&quot;](https://fccs.ok.ubc.ca/2013/07/10/ubc-hosts-editing-modernism-on-and-off-the-page-summer-institute/) institute on UBC's beautiful Okanagan campus. My talk was about [&quot;Editing, Annotating, and Discovering Historical Audio.&quot;](/archive/talks/temic2013/) I drew heavily from material in my dissertation, and after the talk I was fortunate to hear George Bowering, Frank Davey, Daphne Marlatt, Fred Wah, and Sharon Thesen each read their own work. Many thanks to Karis Shearer for inviting me to UBCO. 
 
 ***
 
@@ -4521,7 +4635,7 @@ Many thanks to the College and Dean Cauce for their work, their support, and thi
 
 ---
 
-*[Sketch](/images/pages/notes.png) by Beckett. Used with permission. Content on this page, some of which was originally written in WordPress or GitHub, dates back to 1 July 2011. I last updated the page on 30 January 2022.*</description>
+*[Sketch](/images/pages/notes.png) by Beckett. Used with permission. Content on this page, some of which was originally written in WordPress or GitHub, dates back to 1 July 2011. I last updated the page on 3 February 2022.*</description>
             <link>http://jntry.work//blog.html</link>
           </item>
         
