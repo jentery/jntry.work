@@ -5,26 +5,237 @@
     <description></description>
     <link>http://jntry.work//</link>
     <atom:link href="http://jntry.work//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 Aug 2022 15:12:43 -0700</pubDate>
-    <lastBuildDate>Mon, 29 Aug 2022 15:12:43 -0700</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <pubDate>Mon, 07 Aug 2023 20:13:25 -0700</pubDate>
+    <lastBuildDate>Mon, 07 Aug 2023 20:13:25 -0700</lastBuildDate>
+    <generator>Jekyll v4.3.1</generator>
 
     
       <item>
-        <title>Currently (2022-23)</title>
-        <description>&lt;p&gt;At the moment I’m writing a monograph about the sounds of playable fiction (where audio design meets narrative design), and I’m pecking away at an open access textbook that integrates media studies with the interpretation of contemporary fiction.&lt;/p&gt;
+        <title>Currently (2023-24)</title>
+        <description>&lt;p&gt;I am writing a book to demonstrate how genres constitute play in video games. My research articulates media theories of metagaming with activity theories of genre, and I am especially interested in the argument that video games don’t have rules (see, for instance, &lt;a href=&quot;https://manifold.umn.edu/projects/metagaming&quot;&gt;Boluk and LeMieux&lt;/a&gt;). Video games differ from board and tabletop games in this way. They forgo rules, which are voluntary, for mechanics, which are not. Genres fill the “participation gap” that emerges during this shift to mechanics. The genre set subsumes the rule set, if you will, as video games rely on &lt;a href=&quot;https://genreacrossborders.org/gxb-glossary/uptake&quot;&gt;“uptake”&lt;/a&gt; to socialize not only narratives and mechanics but also play, platforms, and players. Of course, what unfolds in the world of a video game matters for discussions of genre, yet so, too, do the extradiegetic media produced by players and industry alike. My book attends to such media as I examine numerous games from the last decade to better understand the play of genre as play today.&lt;/p&gt;
 
-&lt;p&gt;I’m teaching three UVic English courses this year: &lt;a href=&quot;https://jentery.github.io/engl230v3/&quot;&gt;“Contemporary Media and Fiction”&lt;/a&gt; (ENGL 230) and &lt;a href=&quot;https://jentery.github.io/506v3/&quot;&gt;“Player Stories: On Games and Interactive Fiction”&lt;/a&gt; (ENGL 506) in Fall 2022 and then &lt;a href=&quot;https://jentery.github.io/engl391/&quot;&gt;“Games and Interactive Fiction: Special Studies in a Genre”&lt;/a&gt; (ENGL 391) in Spring 2023. Drop me a line if you’re a student with questions about any of these courses.&lt;/p&gt;
+&lt;p&gt;The book began in the late 2010s as a monograph about audio and genre in video games. I still account for sound in some of my analysis; however, I now treat it as a feature of genre.&lt;/p&gt;
 
-&lt;p&gt;I hope you’re keeping as well as can be right now. Thanks for stopping by.&lt;/p&gt;
+&lt;p&gt;Elsewhere in 2023-24, I am teaching &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/HyVj9LZJi?bc=true&amp;amp;bcCurrent=MDIA200%20-%20Media%20in%20the%2021st%20Century&amp;amp;bcGroup=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&quot;&gt;Media Studies 200&lt;/a&gt;, “Media in the 21st Century,” in both the Fall and Spring as well as &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/BJDpPJQCq?group=English%20(ENSH)&amp;amp;bc=true&amp;amp;bcCurrent=ENSH401%20-%20Web%20Design&amp;amp;bcGroup=English%20(ENSH)&amp;amp;bcItemType=courses&quot;&gt;English 401&lt;/a&gt;, “Web Design,” in the Fall while directing &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/index.php&quot;&gt;Media Studies&lt;/a&gt; in its inaugural year at UVic. I plan to publish my course materials for Media Studies 200 as an open-access textbook or similar pedagogical resource, likely in 2024-25 or 2025-26.&lt;/p&gt;
+
+&lt;p&gt;Get in touch with suggestions or questions. I’m always happy to talk more about teaching and research. I hope the summer’s been kind to you.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/currently.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used and modified with permission. I created this page on 11 May 2021 and last updated it on 29 August 2022.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/currently.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used and modified with permission. I created this page on 11 May 2021 and last updated it on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
-        <pubDate>Mon, 17 Jan 2022 00:00:00 -0800</pubDate>
+        <pubDate>Mon, 07 Aug 2023 00:00:00 -0700</pubDate>
         <link>http://jntry.work//currently/</link>
         <guid isPermaLink="true">http://jntry.work//currently/</guid>
+      </item>
+    
+      <item>
+        <title>Recent Work</title>
+        <description>&lt;p&gt;Here are descriptions and links for some of my recent work. I will eventually create pages for each of these projects. I hope these snippets are useful to you in the meantime.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;“Professor Bot: An Exercise in Algorithmic Accountability”&lt;/strong&gt; (forthcoming): an assignment and summary I wrote for Annette Vee, Tim Laquintano, and Carly Schnitzler’s &lt;a href=&quot;https://wac.colostate.edu/repository/collections/cfp-textgened/&quot;&gt;&lt;em&gt;Teaching with Text Generation Technologies&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This low-tech, tool-agnostic, small-stakes assignment prompts students to attend to issues of power and governance at play in artificial intelligence (AI), with an emphasis on what students do not know and may thus want to learn about algorithmic decision-making. Students first consider a hypothetical scenario where AI is assessing university entrance essays. They then consult publications on algorithmic accountability to articulate questions they would want to ask key decision-makers about the AI decision-making process. They conclude the exercise by reflecting on what they learned about algorithmic accountability, transparency, and social responsibility.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Media Studies&lt;/strong&gt; (2023): a new &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/index.php&quot;&gt;UVic program&lt;/a&gt; I’m directing&lt;/p&gt;
+
+&lt;p&gt;Media Studies is an interdisciplinary certificate program at the University of Victoria (UVic). It offers you a credential in media literacy to expand your career options and enrich your studies in any discipline. Our courses focus on experiential learning and the people skills of media, communication and culture. The program is open to all UVic students, and there are no prerequisites to enter it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Web Design&lt;/strong&gt; (2023): a &lt;a href=&quot;https://jentery.github.io/401/&quot;&gt;course&lt;/a&gt; for 23 students I’m teaching in UVic’s Professional Communication program&lt;/p&gt;
+
+&lt;p&gt;In this course, I will teach you how to produce accessible websites in HTML and CSS without the need for databases or content management systems. You’ll learn a basic vocabulary for web design alongside many techniques involved in publishing your own content. You’ll work on a series of exercises and projects that will develop your knowledge as a writer and web designer, and ultimately you’ll create two simple websites. Roughly 60% of the course material will be grounded in style (CSS), encoding (HTML), and publishing, with the other 40% dedicated to composing compelling content you want to see in the world. Throughout the course, we’ll combine an awareness of values in design with attention to the technical particulars of web development.&lt;/p&gt;
+
+&lt;p&gt;All class sessions will be held in a Mac computer lab. I will assume you’ve never taken a course on web design or publishing (including HTML and CSS) and that you’ve never made your own website.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Games and Interactive Fiction (Studies in Genre)&lt;/strong&gt; (2023): a &lt;a href=&quot;https://jentery.github.io/engl391/&quot;&gt;special topics course&lt;/a&gt; for 45 students I taught before “Games and Interactive Fiction” was added to UVic’s calendar of courses in 2023-24&lt;/p&gt;
+
+&lt;p&gt;Video games prompt us to play, but how do we tell stories with them? And how do genres shape that storytelling? We’ll survey the articulation of video game genres (such as point-and-click, puzzle, role-playing, sim, and platformer) with literary genres (like fantasy, science fiction, mystery, adventure, and horror) to consider how genre affects our understanding, if not our experiences, of narrative and play. We’ll attend to short, story-rich games that experiment with genre, and I’ll ask you to select a game to study throughout the term.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;“Autoethnographies of Mediation”&lt;/strong&gt; (2022): an &lt;a href=&quot;https://hcommons.org/deposits/item/hc:50815/&quot;&gt;essay&lt;/a&gt; I wrote with Julie Funk for James O’Sullivan’s &lt;em&gt;Bloomsbury Handbook to the Digital Humanities&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Humanities research with computing is frequently associated with three approaches to technologies: building infrastructure, designing tools, and developing techniques. The infrastructural approach is common among some libraries and labs, for example, where “infrastructure” implies not only equipment, platforms, and collections but also where and how they are housed and supported (Canada Foundation for Innovation 2008, 7). Tools, meanwhile, are usually designed and crafted with infrastructure. They turn “this” into “that”: from input to output, data to visualization, source code to browser content (Fuller 2005, 85). Techniques are then partly automated by tools. Aspects of a given process performed manually may become a procedure run by machines (Hayles 2010; Chun 2014). Although these three approaches are important to humanities computing, today they face numerous challenges, which are likely all too familiar to readers of this handbook.&lt;/p&gt;
+
+&lt;p&gt;As we confront these challenges—one of us (Julie) a PhD student in science and technology studies, and the other (Jentery) an associate professor of English—we are experimenting with another approach to computing in the humanities, namely autoethnography, which is by no means new to the academy. Carolyn Ellis and Arthur P. Bochner provide a capacious but compelling definition of autoethnography, and we adopt it for the purposes of this chapter: “an autobiographical genre of writing and research that displays multiple layers of consciousness, connecting the personal to the cultural” (2000, 739). Our only edit is minor: “multiple layers of &lt;em&gt;mediation and&lt;/em&gt; consciousness.” For us, adding mediation to the mix of autoethnography is one way to engage computing (in particular) and technologies (in general) as relations. This means tools and infrastructures are more like negotiations than objects or products, and techniques are processes at once embodied (personal) and shared by groups and communities (cultural).&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;“Minimal Computing from the Labor Perspective”&lt;/strong&gt; (2022): an &lt;a href=&quot;http://www.digitalhumanities.org/dhq/vol/16/2/000600/000600.html&quot;&gt;essay&lt;/a&gt; I wrote with Tiffany Chan for  Roopika Risam and Alex Gil’s special issue of &lt;em&gt;DHQ&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The process of making digital objects available and discoverable demands a great deal of labor, from digitization, to creating metadata, to preservation, to importing it into a digital asset management system, and finally to presenting it. We begin this essay with a case study of one such system, called “Vault,” in the University of Victoria Libraries, and the work required to migrate from a Software as a Service (SAAS) model (called ContentDM) to a free and open-source software (FOSS) model (a customized instance of Samvera).&lt;/p&gt;
+
+&lt;p&gt;Vault illustrates what we call “minimal computing from the labor perspective,” which seeks to reduce the opacity of software through “low-tech” practices such as pseudocode, thereby reducing the alienation of practitioners from their projects. Drawing from feminist ecological work on capitalism, affective labor, and care, we advocate for the “degrowth” of digital projects by resisting tendencies to reinvest surplus labor and value into increased productivity. Instead, degrowth as minimal computing prompts practitioners to articulate a project’s needs and desires; what work is required and from whom; and how or whether to sustain this labor for the future.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Contemporary Media and Fiction&lt;/strong&gt; (2020-22): a &lt;a href=&quot;https://jentery.github.io/engl230v3/&quot;&gt;course&lt;/a&gt; for 60 students I taught on three occasions prior to the launch of UVic’s Media Studies program in 2023-24&lt;/p&gt;
+
+&lt;p&gt;How do we not only read stories but also see, hear, watch, and play them? This course introduces you to media studies and how audio, images, text, and interfaces are designed for contemporary fiction. We’ll study comics, animations, short fiction, dramatic podcasts, and games, and you’ll learn how to write about media and fiction for a critical audience by integrating a range of media into your work. Since this course is an introduction, I’ll assume you’ve never taken a class in media studies.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Contemporary American Fiction&lt;/strong&gt; (2021): a &lt;a href=&quot;https://jentery.github.io/engl429C/&quot;&gt;course&lt;/a&gt; I teach here and there&lt;/p&gt;
+
+&lt;p&gt;This course surveys American fiction since the 1980s, attending to key issues and styles at play during the period, with an emphasis on prominent authors and novels. It is not a special topics course, but we will discuss the aesthetics and politics of home, family, and kinship in novels that engage critically with norms in America. You’ll learn what’s unique about American fiction since 1980, how to talk about the last 40 forty years as a literary period, and how to write about contemporary fiction for popular and academic audiences.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;The House on Mango Street&lt;/em&gt; (1984), by Sandra Cisneros&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Beloved&lt;/em&gt; (1987), by Toni Morrison&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Geek Love&lt;/em&gt; (1989), by Katherine Dunn&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Salvage the Bones&lt;/em&gt; (2011), by Jesmyn Ward&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Homegoing&lt;/em&gt; (2016), by Yaa Gyasi&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Prototyping Pasts and Futures&lt;/strong&gt; (2018): a &lt;a href=&quot;https://jentery.github.io/ts200v2/&quot;&gt;course&lt;/a&gt; for 60 students I taught twice in UVic’s Technology and Society Program&lt;/p&gt;
+
+&lt;p&gt;An offering in the Technology and Society minor at UVic, this course is about the entanglement of Western technologies with society and culture. We’ll examine some histories of these entanglements, discuss their effects today, and also speculate about their trajectories. One important question will persist throughout the term: How can and should we intervene in technologies as practices? Rather than treating technologies as tools we use or objects we examine from the outside, we’ll prototype with and through them as modes of inquiry. You’ll turn patents into 3-D forms, compose and implement use scenarios, “datify” old tech, and imagine a device you want to see in the world. You’ll document your research and development process along the way, reflect on what you learned, present your prototypes and findings, and also build a vocabulary of keywords for technology and society. I will not assume that you’re familiar with fields such as science and technology studies, media studies, critical design, or experimental art, and the prototyping exercises will rely on low-tech approaches. Technical competency required: know how to send an email.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/recentwork.png&quot;&gt;image&lt;/a&gt; (PNG), edited in Photoshop, features cables in my drawer. I created this page on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
+        <link>http://jntry.work//recentwork/</link>
+        <guid isPermaLink="true">http://jntry.work//recentwork/</guid>
+      </item>
+    
+      <item>
+        <title>Player Stories</title>
+        <description>&lt;p&gt;A player story is a framework and format the &lt;a href=&quot;/praxis&quot;&gt;Praxis Studio&lt;/a&gt; developed to evaluate what genres do in video games. It is grounded in &lt;a href=&quot;https://en.wikipedia.org/wiki/Activity_theory&quot;&gt;activity theory&lt;/a&gt;, treats video games as &lt;a href=&quot;/images/posts/gameactivitysystem.png&quot;&gt;activity systems&lt;/a&gt;, and documents the following player experiences:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Playing and reacting to video games,&lt;/li&gt;
+  &lt;li&gt;Making meaning with them,&lt;/li&gt;
+  &lt;li&gt;Being affected by them,&lt;/li&gt;
+  &lt;li&gt;Metagaming them, and&lt;/li&gt;
+  &lt;li&gt;Arguing with them.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A player story is, in the words of &lt;a href=&quot;https://gws.as.uky.edu/users/klgr261&quot;&gt;Kishonna Gray&lt;/a&gt;, a “narrative description” of a video game as a constellation of activities. Player stories are both personal and social, and their authors toggle between immersion and critical distance. They resemble Let’s Plays and Twitch streams in some ways, but parts of them are usually scripted. In the Studio, we’ve relied on two ways to produce player stories: video essays with voice-over narration and written essays with images and/or embedded media. There are certainly other ways to do it, and we’re starting to experiment with them.&lt;/p&gt;
+
+&lt;p&gt;I first taught player stories in a Fall 2022 English graduate seminar. Links to the course website and syllabus are below, followed by a seminar description, some framing material for students, and the prompt for the final assignment. I also point to related talks I gave at UBC’s “Games in Action” conference in November 2022 and for UVic Computer Science in February 2023.&lt;/p&gt;
+
+&lt;p&gt;I invited four guest speakers to join the player stories seminar that term: Whitney “Strix” Beltrán, Maddy Myers, Leonard J. Paul, and Amanda Phillips. They offered us perspectives on how to engage video games through both play and critical practice, and they drew from their experiences across the academy, journalism, podcasting, design, development, and industry.&lt;/p&gt;
+
+&lt;p&gt;If you are looking for an example of a player story, then I recommend watching Asia Tyson’s compelling video, &lt;a href=&quot;https://www.youtube.com/watch?v=RZhCF1zBDoo&quot;&gt;“Completionism, ‘Good’ Endings, and the Detective Genre in &lt;em&gt;NORCO&lt;/em&gt;.”&lt;/a&gt; The image below (used with permission) is a still from that video, which Asia produced while she was a student at UVic and an RA in the Praxis Studio.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/posts/playerstories2.png&quot; alt=&quot;Still of Asia Tyson&apos;s player story about the game, NORCO. It reads, &amp;quot;Part Two: Genre Knowledge.&amp;quot; An image of NORCO&apos;s skyline appears behind the text.&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Player Stories: On Games and Interactive Fiction&lt;/strong&gt;  &lt;br /&gt;
+Fall 2022 | UVic English 506 | Grad seminar for 12 students&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;/archive/syllabi/506v3/&quot;&gt;course website&lt;/a&gt; (HTML); &lt;a href=&quot;/archive/syllabi/506v3/playerStoriesSyllabus2022Sayers.pdf&quot;&gt;syllabus&lt;/a&gt; (PDF); &lt;a href=&quot;/blog.html#games-in-action&quot;&gt;talk&lt;/a&gt; at UBC’s “Games in Action” conference (HTML); &lt;a href=&quot;/blog.html#modelling-games-as-activity-systems&quot;&gt;talk&lt;/a&gt; for UVic Computer Science (HTML); &lt;a href=&quot;/images/posts/gameactivitysystem.png&quot;&gt;diagram&lt;/a&gt; of games as activity systems (PNG); &lt;a href=&quot;https://www.youtube.com/watch?v=RZhCF1zBDoo&quot;&gt;player story&lt;/a&gt; by Asia Tyson (YouTube); the Praxis Studio’s “Player Stories” speaker series: &lt;a href=&quot;/blog.html#wrapping-up-player-stories&quot;&gt;Part 1&lt;/a&gt; and &lt;a href=&quot;/blog.html#wrapping-up-player-stories-part-2&quot;&gt;Part 2&lt;/a&gt; (HTML)&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;About the Seminar&lt;/strong&gt;  &lt;br /&gt;
+Among the most fascinating aspects of games and interactive fiction are the stories people tell with them, and the entertainment industry is well aware of this phenomenon. Millions of Twitch and YouTube viewers now watch recorded and streaming videos of people playing games and narrating their play experiences. Unfortunately, many of these videos also contribute to a toxic culture where play becomes precarious labour for proprietary platforms as well as an instrument for trolling and harassment. Many players who want to share their stories are thus dissuaded from participating, not only because of the technological barrier to entry but also given concerns for their own health and safety. The result online, particularly in venues such as Twitch and YouTube, is a skewed representation of the political, cultural, and aesthetic potential of games and interactive fiction.&lt;/p&gt;
+
+&lt;p&gt;This seminar responds to such toxic culture with four questions, which we will address through a combination of primary and secondary sources. The first considers the attention economics of recorded and streaming video: How do the stories people tell with games and interactive fiction change when they are not immediately, if ever, intended for circulation on “like and subscribe” platforms? The next question is a matter of education: How do players tell stories critically, and to what degree does writing or witnessing a story help them to unlearn toxicity? The third is one of culture: How might player stories feed back into gaming communities, including those known to be toxic? The final question regards memory work: How might stories about play be archived with universities and other public institutions to document games and interactive fiction, which are notoriously subject to planned obsolescence? Or, from another angle, how might player stories persist when games and interactive fiction do not?&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What’s a Player Story?&lt;/strong&gt;   &lt;br /&gt;
+There’s no consensus on what “player story” means or implies in the context of games and interactive fiction. It functions pragmatically in industry as an alternative to “user story,” and it’s used salaciously on &lt;a href=&quot;https://www.wattpad.com/stories/player&quot;&gt;Wattpad&lt;/a&gt; to denote a (sub)genre of fan fiction. Although I’m certainly tempted to teach a course about the latter, we’ll spin player stories in another direction, toward the horizon of game studies. How, for whom, under what assumptions, and to what effects do people document and narrate their experiences of games and interactive fiction? A Let’s Play video or live stream might be a player story in that game studies paradigm. Yet merritt k’s book, &lt;a href=&quot;https://www.instarbooks.com/books/videogames-for-humans.html&quot;&gt;&lt;em&gt;Videogames for Humans&lt;/em&gt;&lt;/a&gt;, demonstrates why neither audio nor video is necessary for such a story.&lt;/p&gt;
+
+&lt;p&gt;What, then, of content and composition? What are player stories about? What do they say, and what do they tell us? Must they unfold in real time, and how might they be reflexive? How do players perform or present themselves in their stories? How do they navigate the personal and cultural dimensions of play, not to mention the narratives at work in games and fiction? How do they influence their communities? Such questions reveal the motivations for this seminar, and experimenting with the praxis of player stories—and what they can do with respect to the toxicity I address above—will be our shared line of inquiry this term. You’ll make your own story by the end of it, about a game or fiction of your choice, using a methodology of your own design. This means you’ll have room to experiment, develop a unique line of inquiry through the seminar, and ultimately define “player story” on your own terms through an example or “prototype.”&lt;/p&gt;
+
+&lt;p&gt;Since your player story will be your final project, we will not dwell much on how to write journal articles or monographs in game studies. We will nevertheless read criticism in the field, and I’ll ask you to engage it in various ways: during seminar discussions, in writing, through play, and via your methodology. I will also ask you to consider the roles of documentation, accountability, accessibility, affect, and narrative in research, each of which remains deeply relevant to scholarship across the humanities, not just in game studies.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Many thanks to Melanie Oberg (University of Alberta), who introduced me to Let’s Plays as part of her graduate research and sparked my interest in player stories back in 2015-16. We’ll read some of her work this term.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Pick a Game or Interactive Fiction&lt;/strong&gt;  &lt;br /&gt;
+A player story needs a primary source, so I created a &lt;a href=&quot;/archive/syllabi/506v3/games.html&quot;&gt;list of roughly 150 games and interactive fictions&lt;/a&gt; to help you choose one. In fact, choosing one is an assignment for Week 6 (October 13th). I’m open to suggestions if nothing on the list interests you or you came to the seminar with a particular game or interactive fiction in mind. The game or fiction you select just needs to be something I have played and studied a bit (or I could play and study this term). Thanks for meeting me halfway.&lt;/p&gt;
+
+&lt;p&gt;Please don’t hesitate to ask if you want me to narrow the list based on your interests, a type of game or play, your technology needs, or . . . I realize the list is pretty long, if not a little extra.&lt;/p&gt;
+
+&lt;p&gt;I’ll encourage to you start playing early in the term. This way you can refine your research, gather plenty of documentation, replay the game or fiction where necessary, and share your work in progress. How you document your play, how you define and compose a player story, and what you ultimately say or argue will be up to you; however, I’ll nudge you to try a few techniques before you select one for your project. Your player stories don’t need to be high-tech. You can use audio or video, if you wish, or just text and images. I’ll cover more of the player story particulars during the three workshops I’ve planned for the term (see Weeks 6, 12, and 13).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Final Project: Your Player Story&lt;/strong&gt;  &lt;br /&gt;
+This is the prompt for your final project in this seminar: your player story. (The prompt was crafted in consultation with students.)&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Aims of Your Player Story&lt;/em&gt;  &lt;br /&gt;
+Let’s say a player story is a format that documents the experience of a game, playing and reacting to it, making meaning of it, being affected by it, and even arguing with it. A player story is, in the words of Kishonna Gray, a “narrative description” that frames a game and contextualizes it. Player stories may be personal, political, creative, critical, social, transformative, educational, entertaining, homemade, and/or professional.&lt;/p&gt;
+
+&lt;p&gt;For this seminar, your player story should:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tell a story about at least one game or interactive fiction (your “source material”),&lt;/li&gt;
+  &lt;li&gt;Document the experience of playing your source material, making meaning of it, being affected by it, and even arguing with it,&lt;/li&gt;
+  &lt;li&gt;Have a clear theme or line of inquiry your audience can follow from start to finish,&lt;/li&gt;
+  &lt;li&gt;Be intentionally designed and scoped such that it does not try to address every aspect of its source material or all topics related to that material,&lt;/li&gt;
+  &lt;li&gt;Demonstrate an awareness of your audience and provide them with access to (some of your) source material, and&lt;/li&gt;
+  &lt;li&gt;Make a meaningful or compelling use of its media (audio, video, images, and/or words) and format (the player story as defined above).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Format for Your Player Story&lt;/em&gt;  &lt;br /&gt;
+Your player story does not have to be high-tech. You are welcome, for instance, to use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2000-5000 words, plus images and/or embedded media (such as video, GIFs, and audio).&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;You are also welcome to use:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;10-30 minutes of video or audio, which may or may not be scripted.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The style of communication will matter here. Please think carefully and deliberately about when the player story is improvisational and when it’s scripted, not to mention how it integrates documentation into its theme or line of inquiry. Please also be mindful of your audience’s time. What is essential to your player story, and what may be included as an appendix or “bonus file”?&lt;/p&gt;
+
+&lt;p&gt;On that note, I encourage you to understand your player story as a project (presented or published in a single file) available in a repository of files. You might submit your final project as a word processor, HTML, video, or audio file, for example, and along with it include documentation, notes, and material from the cutting room floor. Your final project might even point your audience to other materials, especially documentation, in your repository: “If you want to see how I romanced Steve Cortez, then see minute 7 of dancingAtPurgatory.mp4.”&lt;/p&gt;
+
+&lt;p&gt;Your final project should be accompanied by:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;An abstract (no more than 300 words), which you’ll draft for Prompt 7 (see November 24th in the seminar schedule), and&lt;/li&gt;
+  &lt;li&gt;Two specific criteria (see more below) you’d like me to consider while assessing your player story.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;Audience for Your Player Story&lt;/em&gt; &lt;br /&gt;
+You should identify your intended audience in your abstract, and your player story should demonstrate an awareness of them and how you’re addressing them (be it directly or indirectly). Perhaps your player story involves audience engagement, or maybe it doesn’t. This choice is yours, as is your choice of audience. That said, I recommend narrowing your audience as much as possible: not, for example, “scholars of media” or “people who play games,” but rather “scholars interested in the intersections of race and gender with games and roleplay” or “people who play immersive sims like &lt;em&gt;Prey&lt;/em&gt;.” Again, how you engage this audience is up to you.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Assessment of Your Player Story&lt;/em&gt; &lt;br /&gt;
+I will use the Faculty of Graduate Studies’ &lt;a href=&quot;https://www.uvic.ca/calendar/future/grad/index.php#/policy/B13jeiMdE?bc=true&amp;amp;bcCurrent=07%20-%20Grading&amp;amp;bcGroup=Faculty%20Academic%20Regulations&amp;amp;bcItemType=policies&quot;&gt;official grading system&lt;/a&gt; to assess your work according to the following criteria:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Engagement with the course: how well and to what degree your player story engages a theme in this seminar, a topic of seminar discussion, and/or a research area in game studies we considered this term&lt;/li&gt;
+  &lt;li&gt;Selection and creation of content: how persuasively your player story draws from documentation, comments on it (or narrates it), and frames or situates the play experience&lt;/li&gt;
+  &lt;li&gt;Awareness of audience: how aware you and your story are of your intended audience, who should be identified in your abstract (see above)&lt;/li&gt;
+  &lt;li&gt;Quality of the story: how clear, cohesive, refined, and compelling the story is, especially with respect to engaging a theme or line of inquiry&lt;/li&gt;
+  &lt;li&gt;Potential of the project: the degree to which your player story could be expanded into a larger project (perhaps about another game) to further develop its themes and techniques&lt;/li&gt;
+  &lt;li&gt;Two other criteria you will draft during our final workshop (see December 1st in the seminar schedule) and should include alongside your abstract.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;em&gt;What to Submit for Your Player Story&lt;/em&gt; &lt;br /&gt;
+You should submit:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;One file containing your final project (e.g., an MP4 that is 10-30 minutes long or a PDF file containing 2000-5000 words plus images),&lt;/li&gt;
+  &lt;li&gt;One file containing both your abstract (no more than 300 words) and your two assessment criteria, and&lt;/li&gt;
+  &lt;li&gt;Optional: a repository of files containing additional documentation, notes, drafts, and other “bonus” files you’d like to include to provide me with context for your player story’s production.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;For more about the Player Stories seminar, see the &lt;a href=&quot;/archive/syllabi/506v3/&quot;&gt;syllabus&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/playerstories.png&quot;&gt;image&lt;/a&gt; (PNG), edited in Photoshop, of the game,&lt;/em&gt; Disco Elysium, &lt;em&gt;care of Asia Tyson and ZA/UM. Main &lt;a href=&quot;/images/posts/playerstories2.png&quot;&gt;image&lt;/a&gt; (PNG) also care of Asia Tyson and her player story about the game,&lt;/em&gt; NORCO. &lt;em&gt;I created this page on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 01 Sep 2022 00:00:00 -0700</pubDate>
+        <link>http://jntry.work//playerstories-copy/</link>
+        <guid isPermaLink="true">http://jntry.work//playerstories-copy/</guid>
       </item>
     
       <item>
@@ -242,12 +453,12 @@ Published with the &lt;a href=&quot;https://www.mla.org/&quot;&gt;Modern Languag
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/listening2.png&quot; alt=&quot;Screen image of steps to create a podcast in the &amp;quot;Readers Are Listening&amp;quot; seminar. The text says, &amp;quot;Step 0 (Sept. 15): Scan All the Steps Step 1 (Sept. 15): Complete a Technology Survey Step 2 (Sept. 22): Pick a Podcast and Press Record Step 3 (Sept. 29): Record Your First Take Step 4 (Oct. 6th): Describe Your Podcast Step 5 (Oct. 13): Record Some Dialogue Step 6 (Oct. 20th): Revise and Edit Step 7 (Oct. 27): Record an Analysis of Voice or Dialogue Step 8 (Nov. 3): Let's Bib Step 9 (Nov. 10): Take a Break Step 10 (Nov. 17th): Record an Analysis of a Sound Object or Soundscape Step 11 (Nov. 24): Revise, Edit, and Annotate Step 12 (Dec. 1): Record Part of Your Episode and Describe It Step 13 (Dec. 15): Record, Edit, and Polish Your Episode.&amp;quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/listening2.png&quot; alt=&quot;Screen image of steps to create a podcast in the &amp;quot;Readers Are Listening&amp;quot; seminar. The text says, &amp;quot;Step 0 (Sept. 15): Scan All the Steps Step 1 (Sept. 15): Complete a Technology Survey Step 2 (Sept. 22): Pick a Podcast and Press Record Step 3 (Sept. 29): Record Your First Take Step 4 (Oct. 6th): Describe Your Podcast Step 5 (Oct. 13): Record Some Dialogue Step 6 (Oct. 20th): Revise and Edit Step 7 (Oct. 27): Record an Analysis of Voice or Dialogue Step 8 (Nov. 3): Let&apos;s Bib Step 9 (Nov. 10): Take a Break Step 10 (Nov. 17th): Record an Analysis of a Sound Object or Soundscape Step 11 (Nov. 24): Revise, Edit, and Annotate Step 12 (Dec. 1): Record Part of Your Episode and Describe It Step 13 (Dec. 15): Record, Edit, and Polish Your Episode.&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Readers Are Listening&lt;/strong&gt;  &lt;br /&gt;
 Fall 2020 | UVic English 506 | Grad seminar for 12 students&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;/archive/syllabi/506v2/&quot;&gt;course website&lt;/a&gt; (HTML); &lt;a href=&quot;/archive/syllabi/506v2/506Fall2020syllabus.pdf&quot;&gt;syllabus&lt;/a&gt; (PDF); &lt;a href=&quot;/blog.html#delia-derbyshire&quot;&gt;talk&lt;/a&gt; for SpokenWeb (HTML with MP3s); &lt;em&gt;BC Studies&lt;/em&gt; &lt;a href=&quot;https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/&quot;&gt;podcast&lt;/a&gt; about scholarly podcasting (HTML with MP3s)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;/archive/syllabi/506v2/&quot;&gt;course website&lt;/a&gt; (HTML); &lt;a href=&quot;/archive/syllabi/506v2/506Fall2020syllabus.pdf&quot;&gt;syllabus&lt;/a&gt; (PDF); &lt;a href=&quot;/blog.html#delia-derbyshire&quot;&gt;talk&lt;/a&gt; for SpokenWeb (HTML with MP3s); &lt;em&gt;BC Studies&lt;/em&gt; &lt;a href=&quot;https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/&quot;&gt;podcast&lt;/a&gt; about scholarly podcasting (HTML with MP3s); &lt;a href=&quot;/blog.html#audiobooks-in-the-classroom&quot;&gt;interview&lt;/a&gt; with Michelle Levy at SFU about audiobooks in the classroom (HTML with an MP3)&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -302,7 +513,7 @@ The only thing you should purchase (or rent) for this seminar is Toni Morrison�
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/listening.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, of my parents’ rotary phone. Main &lt;a href=&quot;/images/posts/listening2.png&quot;&gt;image&lt;/a&gt; (PNG) of the steps in the schedule for “Readers Are Listening.” I created this page on 20 July 2021 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/listening.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, of my parents’ rotary phone. Main &lt;a href=&quot;/images/posts/listening2.png&quot;&gt;image&lt;/a&gt; (PNG) of the steps in the schedule for “Readers Are Listening.” I created this page on 20 July 2021 and last updated it on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Dec 2020 00:00:00 -0800</pubDate>
         <link>http://jntry.work//listening/</link>
@@ -319,7 +530,7 @@ The only thing you should purchase (or rent) for this seminar is Toni Morrison�
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/aesthetics2.png&quot; alt=&quot;Screen image of the course site for &amp;quot;Media Aesthetics,&amp;quot; showing part of the seminar schedule, with headers that say, &amp;quot;Did you get my message?&amp;quot; &amp;quot;You are here.&amp;quot; &amp;quot;Who's calling?&amp;quot; &amp;quot;Is anyone listening?&amp;quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/aesthetics2.png&quot; alt=&quot;Screen image of the course site for &amp;quot;Media Aesthetics,&amp;quot; showing part of the seminar schedule, with headers that say, &amp;quot;Did you get my message?&amp;quot; &amp;quot;You are here.&amp;quot; &amp;quot;Who&apos;s calling?&amp;quot; &amp;quot;Is anyone listening?&amp;quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Media Aesthetics: Media and Fiction since 1900&lt;/strong&gt;  &lt;br /&gt;
 Spring 2020 | UVic English 506 | Grad seminar for 12 students&lt;/p&gt;
@@ -460,15 +671,14 @@ We’re located in UVic’s Clearihue building. You can email our director, Jent
 &lt;p&gt;&lt;strong&gt;SpokenWeb&lt;/strong&gt;  &lt;br /&gt;
 Research partnership network based at Concordia University | Jason Camlot, PI | Praxis Studio, partner since September 2019&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;https://spokenweb.ca/&quot;&gt;project website&lt;/a&gt; (HTML); &lt;a href=&quot;https://spokenweb.ca/about-us/team/&quot;&gt;team members&lt;/a&gt; (HTML); &lt;a href=&quot;https://spokenweb.ca/on-literary-machine-listening-and-pedagogy-the-praxis-studio-with-julie-funk-faith-ryan-and-jentery-sayers/&quot;&gt;interview&lt;/a&gt; with the Praxis Studio (HTML); Julie Funk’s &lt;a href=&quot;https://spokenweb.ca/events/virtual-listening-practice-guided-by-julie-funk/&quot;&gt;workshop&lt;/a&gt; on machine listening (HTML); the Praxis team’s &lt;a href=&quot;/blog.html#designing-prompts-for-literary-audio-studies&quot;&gt;talk&lt;/a&gt; on designing prompts for literary audio studies (HTML); my &lt;a href=&quot;/blog.html#delia-derbyshire&quot;&gt;talk and listening session&lt;/a&gt; on Delia Derbyshire’s compositions (HTML with MP3s); my &lt;a href=&quot;/blog.html#prototyping-pedagogy&quot;&gt;keynote&lt;/a&gt; at Concordia on sound and pedagogy (HTML); my &lt;a href=&quot;/blog.html#working-with-historical-audio&quot;&gt;plenary&lt;/a&gt; at UBCO on working with historical audio (HTML)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Links&lt;/strong&gt;: &lt;a href=&quot;https://spokenweb.ca/&quot;&gt;project website&lt;/a&gt; (HTML); &lt;a href=&quot;https://spokenweb.ca/about-us/team/&quot;&gt;team members&lt;/a&gt; (HTML); &lt;a href=&quot;https://spokenweb.ca/on-literary-machine-listening-and-pedagogy-the-praxis-studio-with-julie-funk-faith-ryan-and-jentery-sayers/&quot;&gt;interview&lt;/a&gt; with the Praxis Studio (HTML); Julie Funk’s &lt;a href=&quot;https://spokenweb.ca/events/virtual-listening-practice-guided-by-julie-funk/&quot;&gt;workshop&lt;/a&gt; on machine listening (HTML); the Praxis team’s &lt;a href=&quot;/blog.html#designing-prompts-for-literary-audio-studies&quot;&gt;talk&lt;/a&gt; on designing prompts for literary audio studies (HTML); my &lt;a href=&quot;/blog.html#delia-derbyshire&quot;&gt;talk and listening session&lt;/a&gt; on Delia Derbyshire’s compositions (HTML with MP3s); my &lt;a href=&quot;/blog.html#prototyping-pedagogy&quot;&gt;keynote&lt;/a&gt; at Concordia on sound and pedagogy (HTML); my &lt;a href=&quot;/blog.html#working-with-historical-audio&quot;&gt;plenary&lt;/a&gt; at UBCO on working with historical audio (HTML); my &lt;a href=&quot;/blog.html#audio-and-genre-a-video-essay&quot;&gt;talk&lt;/a&gt; at Alberta on audio and genre in games (HTML); my &lt;a href=&quot;/blog.html#audiobooks-in-the-classroom&quot;&gt;interview&lt;/a&gt; with Michelle Levy at SFU about audiobooks in the classroom (HTML with an MP3)&lt;/p&gt;
 
 &lt;p&gt;This research was supported by the Social Sciences and Humanities Research Council of Canada (SSHRC), in particular through the SpokenWeb SSHRC partnership network.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;About SpokenWeb&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Since the introduction of portable tape recording media technologies in the 1960s, writers and artists have been documenting their performances of literary works, events and conversations with creative abandon. Yet, most of these audio archives remain inaccessible or in peril of imminent decay, or, if digitized, are still largely disconnected from each other.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;About SpokenWeb&lt;/strong&gt;  &lt;br /&gt;
+Since the introduction of portable tape recording media technologies in the 1960s, writers and artists have been documenting their performances of literary works, events and conversations with creative abandon. Yet, most of these audio archives remain inaccessible or in peril of imminent decay, or, if digitized, are still largely disconnected from each other.&lt;/p&gt;
 
 &lt;p&gt;The SSHRC-funded SpokenWeb partnership aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond.&lt;/p&gt;
 
@@ -478,15 +688,14 @@ Research partnership network based at Concordia University | Jason Camlot, PI | 
 
 &lt;p&gt;(The SpokenWeb’s &lt;a href=&quot;https://spokenweb.ca/about-us/spokenweb/&quot;&gt;“About” page&lt;/a&gt; is the source of this description.)&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;Pedagogy Task Force&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Pedagogy Task Force aims to produce research outputs (conferences, publications, and workshops) that enhance engagement with existing digital audio archives or analog collections. Our research and projects can be described by the following five categories: 1) development of pedagogical training modules &amp;amp; resources that can be shared amongst partners as well as with the public, 2) development of digital tools for use in classroom and public pedagogy, 3) development of a bank of pedagogical activities and resources that can be used by members of the SpokenWeb team and by teachers in a variety of settings, 4) knowledge production and mobilization on pedagogical theory and practice, and 5) identification and tagging of pedagogical content of recordings within the SpokenWeb member collections.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pedagogy Task Force&lt;/strong&gt;&lt;br /&gt;
+The Pedagogy Task Force aims to produce research outputs (conferences, publications, and workshops) that enhance engagement with existing digital audio archives or analog collections. Our research and projects can be described by the following five categories: 1) development of pedagogical training modules &amp;amp; resources that can be shared amongst partners as well as with the public, 2) development of digital tools for use in classroom and public pedagogy, 3) development of a bank of pedagogical activities and resources that can be used by members of the SpokenWeb team and by teachers in a variety of settings, 4) knowledge production and mobilization on pedagogical theory and practice, and 5) identification and tagging of pedagogical content of recordings within the SpokenWeb member collections.&lt;/p&gt;
 
 &lt;p&gt;(The SpokenWeb’s &lt;a href=&quot;https://spokenweb.ca/about-us/governance/&quot;&gt;“Governance” page&lt;/a&gt; is the source of this description.)&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;SpokenWeb &lt;a href=&quot;/images/posts/spokenweb.png&quot;&gt;logo&lt;/a&gt; and main &lt;a href=&quot;/images/posts/spokenweb2.png&quot;&gt;image&lt;/a&gt; care of the SpokenWeb project. I created this page on 25 January 2022 and last updated it on 3 February 2022.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;SpokenWeb &lt;a href=&quot;/images/posts/spokenweb.png&quot;&gt;logo&lt;/a&gt; and main &lt;a href=&quot;/images/posts/spokenweb2.png&quot;&gt;image&lt;/a&gt; care of the SpokenWeb project. I created this page on 25 January 2022 and last updated it on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Sep 2019 00:00:00 -0700</pubDate>
         <link>http://jntry.work//spokenweb/</link>
@@ -2683,7 +2892,7 @@ Published in &lt;a href=&quot;https://interactions.acm.org/archive/view/november
 
 &lt;p&gt;In the lab I direct, we prototype technologies that no longer exist or no longer function. Within the field of comparative media studies, this approach is somewhat atypical, mostly because historians and theorists usually treat media as objects of study, not materials for inquiry. Each of our prototypes corresponds with a year somewhere between 1840 and 1940. For instance, we recently conducted an early magnetic recording experiment from 1898. It was probably the first sound recording of its kind. We prototyped the components using a combination of sourced and fabricated materials. We then installed the prototype in the Audain Gallery at the University of Victoria (UVic).&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/nofuture3.png&quot; alt=&quot;Photograph of the early magnetic recording exhibit featured in Interactions, a person's hands are photographing a recording on piano wire&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/nofuture3.png&quot; alt=&quot;Photograph of the early magnetic recording exhibit featured in Interactions, a person&apos;s hands are photographing a recording on piano wire&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;(This image of the MLab’s exhibit on early magnetic recording appears in the &lt;em&gt;Interactions&lt;/em&gt; essay. It shows someone photographing a labeled sound recording on wire alongside a closeup of a recording and its label. By Danielle Morgan. Used with permission.)&lt;/p&gt;
 
@@ -2884,7 +3093,7 @@ Summer 2017 | UVic English 507 | Grad seminar for 12 students&lt;/p&gt;
       </item>
     
       <item>
-        <title>What's in a Game?</title>
+        <title>What&apos;s in a Game?</title>
         <description>&lt;p&gt;“What’s in a Game?” prompted students to produce critical media by prototyping their own games. I focused the course on indie games and critical play, and I either required the use of a specific engine (Unity 3D) or ran with student preferences (often Twine or Python). When I taught the course, I did not assume students were gamers, had any experience with game design, or were even interested in games. By the end of the course, they would prototype only a level or scene, with credits and a title screen. They also created manuals for their games as if the games were complete. Then they shared their prototypes and manuals during an end-of-term event, such as “Open the Arcade” in 2017.&lt;/p&gt;
 
 &lt;p&gt;Below are undergraduate and graduate course descriptions and links to two course websites and syllabi. I also link to descriptions of undergraduate prototypes, a UVic News article about the graduate course, the poster for “Open the Arcade,” and slides for a talk I gave at Stanford about how games, simulations, and design fictions figure into my media practice and pedagogy.&lt;/p&gt;
@@ -3028,7 +3237,7 @@ Spring 2015 and Fall 2017 | UVic DH 350 and UVic English 508 | Undergrad course 
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/prototexts2.png&quot; alt=&quot;Photograph of Eugen Gomringer's 'silencio' rendered in concrete, by Danny Martin&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/prototexts2.png&quot; alt=&quot;Photograph of Eugen Gomringer&apos;s &apos;silencio&apos; rendered in concrete, by Danny Martin&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Prototyping Texts&lt;/strong&gt; &lt;br /&gt;
 Spring 2016 and 2017 | UVic English 508 | Grad seminar for 12 students&lt;/p&gt;
@@ -3473,7 +3682,7 @@ Published in &lt;a href=&quot;https://dspace.library.uvic.ca/bitstream/handle/18
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/kits2.png&quot; alt=&quot;Photograph of a box and its compartments made for the MLab's Fluxkits project&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/kits2.png&quot; alt=&quot;Photograph of a box and its compartments made for the MLab&apos;s Fluxkits project&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Kits for Cultural History, or Fluxkits for Scholarly Communication&lt;/strong&gt;   &lt;br /&gt;
 Published in &lt;a href=&quot;http://hyperrhiz.io/hyperrhiz13/&quot;&gt;&lt;em&gt;Hyperrhiz: New Media Cultures&lt;/em&gt; 13&lt;/a&gt; (Rieder, Emmons, Jr., Brown, Jr., and Burgess, eds.) in Fall 2015 | 4126 words, with photographs, video, and files by Nina Belojevic, Tiffany Chan, Nicole Clouston, Katherine Goertz, Shaun Macpherson, Kaitlynn McQueston, Danielle Morgan, and Victoria Murawski | open access&lt;/p&gt;
@@ -3570,7 +3779,7 @@ Since its initial publication, scholars and students alike have turned to &lt;em
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/fab6.png&quot; alt=&quot;Image of wood about to be cut in UVic's fabrication lab&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/fab6.png&quot; alt=&quot;Image of wood about to be cut in UVic&apos;s fabrication lab&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Digital Fabrication Lab (DFL)&lt;/strong&gt;  &lt;br /&gt;
 May 2015 - Present | Arts + Humanities Lab | UVic Visual Arts Building&lt;/p&gt;
@@ -3678,7 +3887,7 @@ Faculty Instructor: Andrea J. Johnson, AIA, LEED BD+C, UMN School of Architectur
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/posts/arguing2.png&quot; alt=&quot;Screen capture of &amp;quot;said Bernard&amp;quot; excerpts, in plain text, of Virginia Woolf's The Waves&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/images/posts/arguing2.png&quot; alt=&quot;Screen capture of &amp;quot;said Bernard&amp;quot; excerpts, in plain text, of Virginia Woolf&apos;s The Waves&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Arguing with Computers&lt;/strong&gt;&lt;br /&gt;
 Spring 2014 and Spring 2015 | UVic English 507 | Grad seminar for 12 students&lt;/p&gt;
@@ -4067,35 +4276,36 @@ by Anne Cong-Huyen&lt;/em&gt; (open access &lt;a href=&quot;https://journals.dar
         
           <item>
             <title>about</title>
-            <description>Hi. My name is Jentery Sayers (he / him). I skip a syllable and say it in two: &quot;JEN-tree.&quot; I spend 14.36% of the day looking for my glasses.
+            <description>&lt;p&gt;Hi. My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JEN-tree.” I spend 16.71% of the day looking for my glasses.&lt;/p&gt;
 
-I'm interested in what media do across forms of fiction, from comics, novels, and radio drama to games, bots, and prototypes. How do audio, images, and text shape and escape our attention? How do we tell stories with them, and how do they tell stories about us?
+&lt;p&gt;I’m interested in what media do across forms of fiction, from comics, novels, and radio drama to games, bots, and prototypes. How do media shape and escape our attention? How do we tell stories with them, and how do they tell stories about us?&lt;/p&gt;
 
-I grew up in Richmond, Virginia and went to VCU for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from UW. 
+&lt;p&gt;I grew up in Richmond, Virginia and went to VCU for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from UW.&lt;/p&gt;
 
-I now work at the University of Victoria (UVic) on &lt;u&gt;W&lt;/u&gt;SÁNEĆ and lək̓ʷəŋən territories. I teach in [English](https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php) and Cultural, Social, and Political Thought (CSPT) and direct the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. I've been at UVic since 2011. 
+&lt;p&gt;I now work at the University of Victoria (UVic) on &lt;u&gt;W&lt;/u&gt;SÁNEĆ and lək̓ʷəŋən territories. I teach in the &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/&quot;&gt;Media Studies&lt;/a&gt; program, which I direct. I also teach literary and cultural studies in &lt;a href=&quot;https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php&quot;&gt;English&lt;/a&gt;, web design in &lt;a href=&quot;https://www.uvic.ca/humanities/english/professionalcommunication/&quot;&gt;Professional Communication&lt;/a&gt;, and media theory in &lt;a href=&quot;https://www.uvic.ca/interdisciplinary/cspt/&quot;&gt;Cultural, Social, and Political Thought&lt;/a&gt; (CSPT). I’ve been at UVic since 2011.&lt;/p&gt;
 
-# This Site 
+&lt;h1 id=&quot;this-site&quot;&gt;This Site&lt;/h1&gt;
 
-I built this site with Sublime and Jekyll (no database, no CMS, no ads). The font is Merriweather, designed by [Eben Sorkin](http://sorkintype.com/fonts.html), and the background color is #CEE0DD (cyan). [Ahmad Ajmi](https://ahmadajmi.com/) created the theme and core files, which I customized. I write the content in Markdown, the metadata in YAML, and the style in Sassy CSS. 
+&lt;p&gt;I built this site with Sublime and Jekyll (no database, no CMS, no ads). The font is Merriweather, designed by &lt;a href=&quot;http://sorkintype.com/fonts.html&quot;&gt;Eben Sorkin&lt;/a&gt;, and the background color is #CEE0DD (cyan). &lt;a href=&quot;https://ahmadajmi.com/&quot;&gt;Ahmad Ajmi&lt;/a&gt; created the theme and core files, which I customized. I write the content in Markdown, the metadata in YAML, and the style in Sassy CSS.&lt;/p&gt;
 
-The content is licensed [CC BY](https://creativecommons.org/licenses/by/4.0/), I time-stamp it when I publish or update it, and I use seven tags to structure it: [books](tag/books/), [committees](tag/committees/), [courses](tag/courses/), [essays](tag/essays/), [infrastructures](tag/infrastructures/), [prototypes](tag/prototypes/), and [resources](tag/resources/). 
+&lt;p&gt;The content is licensed &lt;a href=&quot;https://creativecommons.org/licenses/by/4.0/&quot;&gt;CC BY&lt;/a&gt;, I time-stamp it when I publish or update it, and I use seven tags to structure it: &lt;a href=&quot;tag/books/&quot;&gt;books&lt;/a&gt;, &lt;a href=&quot;tag/committees/&quot;&gt;committees&lt;/a&gt;, &lt;a href=&quot;tag/courses/&quot;&gt;courses&lt;/a&gt;, &lt;a href=&quot;tag/essays/&quot;&gt;essays&lt;/a&gt;, &lt;a href=&quot;tag/infrastructures/&quot;&gt;infrastructures&lt;/a&gt;, &lt;a href=&quot;tag/prototypes/&quot;&gt;prototypes&lt;/a&gt;, and &lt;a href=&quot;tag/resources/&quot;&gt;resources&lt;/a&gt;.&lt;/p&gt;
 
-# Contact Me
+&lt;h1 id=&quot;contact-me&quot;&gt;Contact Me&lt;/h1&gt;
 
-Drop me a line if you're a student with interests in media and fiction or a researcher who may want to collaborate on a project. I'd be glad to chat.  
+&lt;p&gt;Drop me a line if you’re a student with interests in media studies or a researcher who may want to collaborate. I’d be glad to chat.&lt;/p&gt;
 
-I'm at [jentery@uvic.ca](mailto:jentery@uvic.ca) and a few other [places](https://linktr.ee/jentery). You may find me on campus in [Clearihue D331](https://www.uvic.ca/search/maps-buildings/buildings/clearihue.php), and you can send mail (!!!) to:
+&lt;p&gt;I’m at &lt;a href=&quot;mailto:jentery@uvic.ca&quot;&gt;jentery@uvic.ca&lt;/a&gt; and a few other &lt;a href=&quot;https://linktr.ee/jentery&quot;&gt;places&lt;/a&gt;. You may find me on campus in &lt;a href=&quot;https://www.uvic.ca/search/maps-buildings/buildings/clearihue.php&quot;&gt;Clearihue D331&lt;/a&gt;, and you can send mail (!!!) to:&lt;/p&gt;
 
-Jentery Sayers   
-Department of English   
-University of Victoria   
-P.O. Box 1700 STN CSC   
-Victoria, BC V8W 2Y2 
+&lt;p&gt;Jentery Sayers &lt;br /&gt;
+Department of English &lt;br /&gt;
+University of Victoria &lt;br /&gt;
+P.O. Box 1700 STN CSC &lt;br /&gt;
+Victoria, BC V8W 2Y2&lt;/p&gt;
 
---- 
+&lt;hr /&gt;
 
-*[Illustration](images/pages/about.png) of me by Danielle Morgan. Used with permission. I created this page on 4 May 2021 and last updated it on 30 January 2022.* </description>
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;images/pages/about.png&quot;&gt;Illustration&lt;/a&gt; of me by Danielle Morgan. Used with permission. I created this page on 4 May 2021 and last updated it on 6 August 2023.&lt;/em&gt;&lt;/p&gt;
+</description>
             <link>http://jntry.work//about.html</link>
           </item>
         
@@ -4105,369 +4315,466 @@ Victoria, BC V8W 2Y2
         
           <item>
             <title>blog</title>
-            <description>I started blogging with Typepad in 2003. Later I moved to WordPress (mostly public) and then to GitHub (mostly private). Now I'm here, with a static site. The entries below share work in progress and include many posts I migrated from previous blogs. The content dates back to July 2011. I try to update links when necessary. Clicking or tapping a title gives you a permalink. 
+            <description>&lt;p&gt;I started blogging with Typepad in 2003. Later I moved to WordPress (mostly public) and then to GitHub (mostly private). Now I’m here, with a static site. The entries below share work in progress and include posts I migrated from previous blogs. Clicking or tapping a title gives you a permalink.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [School of Video Game Audio](#school-of-video-game-audio)
+&lt;h1 id=&quot;uvic-has-a-media-studies-program-now&quot;&gt;&lt;a href=&quot;#uvic-has-a-media-studies-program-now&quot;&gt;UVic Has a Media Studies Program Now&lt;/a&gt;&lt;/h1&gt;
 
-*2 May 2022* 
+&lt;p&gt;&lt;em&gt;1 July 2023&lt;/em&gt;&lt;/p&gt;
 
-I'm a student again! This year I'm taking a course on Wwise, sound design, and dynamic dialogue with Leonard J. Paul and Jordan Guerette at the [School of Video Game Audio](https://school.videogameaudio.com/apply/) based in Vancouver. I'll be learning to construct an audio demo reel for industry, with feedback along the way from Viviana Caro. I'm excited to get started. 
+&lt;p&gt;It’s official! UVic now has a &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/index.php&quot;&gt;Media Studies&lt;/a&gt; program. Students can earn a certificate in the field by completing only 10.5 units of study, and our new courses include “Media in the 21st Century” (MDIA 200), “Critical Media Practice” (MDIA 300), “Cultures of the Book” (MDIA 350), “Cultures of Sound” (MDIA 375), and “Topics in Media Studies” (MDIA 490). I am honored and excited to be serving as the program’s Acting Director.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Wrapping up Player Stories](#wrapping-up-player-stories)
+&lt;h1 id=&quot;audio-and-genre-a-video-essay&quot;&gt;&lt;a href=&quot;#audio-and-genre-a-video-essay&quot;&gt;Audio and Genre: A Video Essay&lt;/a&gt;&lt;/h1&gt;
 
-*15 April 2022* 
+&lt;p&gt;&lt;em&gt;3 May 2023&lt;/em&gt;&lt;/p&gt;
 
-The [Praxis Studio](/praxis) is wrapping up our 2021-22 [&quot;Player Stories&quot;](https://uvicpraxis.github.io/playerStories.html) series. It's been absolutely fantastic! Many thanks to Misao Dean, Abby Fry, Julie Funk, Braeden Hallman, Sara Humphreys, and Asia Tyson for presenting. Here's a brief description: &quot;Among the most fascinating aspects of games are the stories players tell with them. This speaker series attends to how we study, document, and narrate play.&quot;
+&lt;p&gt;Thanks to Samuel Adesubokan and Asia Tyson for presenting with me during &lt;a href=&quot;https://spokenweb.ca/symposia/#/spokenweb-symposium-2023&quot;&gt;SpokenWeb 2023&lt;/a&gt; at the University of Alberta this week. I produced my first video essay for this conference, on the topic of game audio and activity theories of genre. I hope to polish and publish it relatively soon.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Back in the Classroom](#back-in-the-classroom)
+&lt;h1 id=&quot;audiobooks-in-the-classroom&quot;&gt;&lt;a href=&quot;#audiobooks-in-the-classroom&quot;&gt;Audiobooks in the Classroom&lt;/a&gt;&lt;/h1&gt;
 
-*8 September 2021* 
+&lt;p&gt;&lt;em&gt;1 May 2023&lt;/em&gt;&lt;/p&gt;
 
-I'm returning to the classroom for the first time since 12 March 2020, when UVic transitioned to online formats in response to COVID-19. I'm a bit nervous about it all, but I'm also looking forward to teaching [&quot;Contemporary Media and Fiction&quot;](https://jentery.github.io/engl230v2/) this term. Fingers crossed. 
+&lt;p&gt;Michelle Levy at SFU interviewed me for an episode of the SpokenWeb podcast. It was a fascinating conversation titled, &lt;a href=&quot;https://spokenweb.ca/podcast/episodes/audiobooks-in-the-classroom/&quot;&gt;“Audiobooks in the Classroom”&lt;/a&gt; (54:51). Here’s a description: “What does it mean to ‘read’ an audiobook? What happens when we teach literary audio in the university classroom? How can we prepare our students for success in reading and listening to audio literature? Featuring a round-table conversation with graduate students Ghislaine Comeau, Andy Perluzzo, Ella Jando-Saul and Maia Harris at Concordia University and an interview with Dr. Jentery Sayers from the University of Victoria, this episode, hosted by Dr. Michelle Levy and SFU graduate student Maya Schwartz, thinks through the challenges and opportunities of inviting audiobooks into the literary classroom.” Thank you, Michelle and Maya!&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Designing Prompts for Literary Audio Studies](#designing-prompts-for-literary-audio-studies)
+&lt;h1 id=&quot;on-generative-ai&quot;&gt;&lt;a href=&quot;#on-generative-ai&quot;&gt;On Generative AI&lt;/a&gt;&lt;/h1&gt;
 
-*20 May 2021*
+&lt;p&gt;&lt;em&gt;17 March 2023&lt;/em&gt;&lt;/p&gt;
 
-Yesterday, I presented with Samuel K. Adesubokan, Julie Funk, and Faith Ryan at the [2021 SpokenWeb Symposium](archive/talks/spokenweb21/spokenWebSymposium2021.pdf). The topic of our talk was [&quot;Designing Prompts for Literary Audio Studies,&quot;](archive/talks/spokenweb21/) which was part of a plenary panel on &quot;Teaching with Sound / Sound and Pedagogy.&quot; We had the pleasure of presenting alongside Nicole Brittingham Furlonge, and Aphrodite Salas was kind enough to moderate. Many thanks to the SpokenWeb team for hosting us during this terrific event. 
+&lt;p&gt;Thanks to Neil Ernst, director of UVic’s &lt;a href=&quot;https://onlineacademiccommunity.uvic.ca/matrix/&quot;&gt;Matrix Institute&lt;/a&gt;, for hosting Callum Curtis, Yun Lu, Valerie Irvine, George Tzanetakis, and me to discuss the current state of generative AI. It was a pleasure. Here are &lt;a href=&quot;archive/talks/matrix23/&quot;&gt;my notes and references&lt;/a&gt;. I raised the question of whether language can even be modelled, and I suggested one approach to generative AI may be to keep it social: to organize around it and negotiate with it, if only by slowing it down a bit.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Scholarly Podcasts](#scholarly-podcasts)
+&lt;h1 id=&quot;modelling-games-as-activity-systems&quot;&gt;&lt;a href=&quot;#modelling-games-as-activity-systems&quot;&gt;Modelling Games as Activity Systems&lt;/a&gt;&lt;/h1&gt;
 
-*17 April 2021* 
+&lt;p&gt;&lt;em&gt;9 February 2023&lt;/em&gt;&lt;/p&gt;
 
-The *BC Studies* journal published a [four-episode podcast](https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/) about . . . making scholarly podcasts! Many thanks to producer, Isabelle Ava-Pointon, for interviewing Brenna Clarke Gray, David Gaertner, Michael Faris, Kyle Stedman, Charles Woods, and me as part of it all. These four episodes are a wonderful resource for faculty, students, and staff who are curious about podcasting but unsure where to begin. 
+&lt;p&gt;Many thanks to Sowmya Somanath, Brandon Haworth, Nishant Mehta, and Valerie King in UVic Computer Science for inviting me to give a lecture as part of the Pacific Institute for the Mathematical Sciences’ &lt;a href=&quot;https://www.pims.math.ca/scientific-event/230209-umedms&quot;&gt;“Mathematics of Ethical Decision Making” series.&lt;/a&gt; Midori Ogasawara, Patricia Cochran, and Freya Kodar joined me on the panel, and I spoke about ways to model games as activity systems, a topic that corresponds with my current book project on how genres constitute play in video games.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [From Prototyping to Worldbuilding](#from-prototyping-to-worldbuilding)
+&lt;h1 id=&quot;reframing-failure&quot;&gt;&lt;a href=&quot;#reframing-failure&quot;&gt;Reframing Failure&lt;/a&gt;&lt;/h1&gt;
 
-*26 March 2021* 
+&lt;p&gt;&lt;em&gt;25 January 2023&lt;/em&gt;&lt;/p&gt;
 
-Yesterday I gave a talk online as part of Lawrence Technology University's [&quot;Humanity + Technology&quot;](https://www.ltu.edu/humantech/) series. I spoke about how &quot;prototyping the past&quot; might apply to the practice of worldbuilding. The talk was [recorded](https://www.youtube.com/watch?v=nNN4B-eaTrc), and I published my [slides](/archive/talks/ltu/). Thanks to Paul Jaussen, Franco Delogu, Emily Kutil, and LTU's College of Architecture and Design for inviting me, and for archiving all the &quot;Humanity + Tech&quot; events, including talks by [Alenda Chang](https://www.ltu.edu/humantech/findingnature.asp) and [Katherine Hayles](https://www.ltu.edu/humantech/hayles.asp).
+&lt;p&gt;Many thanks to Michael Donnay and Anna-Maria Sichani for inviting me to participate in the University of London’s School of Advanced Study panel on &lt;a href=&quot;https://www.sas.ac.uk/events/reframing-failure-dh-broken-between-experimentation-and-degradation&quot;&gt;“Reframing Failure.”&lt;/a&gt; I enjoyed my conversation with Jenny Mitcham, Arianna Ciula, Sara Namusoga-Kaale, Frances Corry, and Jane Winters.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [SpokenWeb Interviews the Praxis Studio](#spokenweb-interviews-the-praxis-studio)
+&lt;h1 id=&quot;congrats-to-asia-tyson&quot;&gt;&lt;a href=&quot;#congrats-to-asia-tyson&quot;&gt;Congrats to Asia Tyson&lt;/a&gt;&lt;/h1&gt;
 
-*27 February 2021*
+&lt;p&gt;&lt;em&gt;18 January 2023&lt;/em&gt;&lt;/p&gt;
 
-Many thanks to SpokenWeb researcher, Emma Telaro, for [interviewing](https://spokenweb.ca/on-literary-machine-listening-and-pedagogy-the-praxis-studio-with-julie-funk-faith-ryan-and-jentery-sayers/) Julie Funk, Faith Ryan, and me about our [Praxis Studio](/praxis/) research on all things audio. It was a great discussion! Julie unpacked the significance of machine listening to literary and cultural studies, Faith engaged disability studies and listening as a form of access, and I talked about works of audio I enjoy teaching. 
+&lt;p&gt;Congrats to UVic English major (honours) and Praxis Studio RA, Asia Tyson, on receiving the 2023 &lt;a href=&quot;https://www.uvic.ca/library/about/awards-contests/awards-fellowships/lowens/index.php&quot;&gt;Peter and Ana Lowens University of Victoria Libraries Special Collections Fellowship&lt;/a&gt;. Asia’s research attends to several techno-anarchist zines in UVic’s collections.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [The MLA Published My Third Book](#the-mla-published-my-third-book)
+&lt;h1 id=&quot;uvic-news-in-the-martlet&quot;&gt;&lt;a href=&quot;#uvic-news-in-the-martlet&quot;&gt;UVic News in &lt;em&gt;The Martlet&lt;/em&gt;&lt;/a&gt;&lt;/h1&gt;
 
-*2 December 2020*
+&lt;p&gt;&lt;em&gt;22 December 2022&lt;/em&gt;&lt;/p&gt;
 
-[*Digital Pedagogy in the Humanities*](/digped) is here! Published online and open access by the Modern Language Association, I hope it becomes a useful resource for instructors and many others. A million thanks to my co-editors, Rebecca Frost Davis, Matt Gold, and Kathy Harris, for working with me over the years on this one and for writing a fantastic introduction to the collection. 
+&lt;p&gt;Many thanks to Atum Beckett and &lt;em&gt;The Martlet&lt;/em&gt; for interviewing me about &lt;a href=&quot;https://martlet.ca/changes-coming-to-uvics-faculty-of-humanities-and-english-department/&quot;&gt;changes coming&lt;/a&gt; to UVic’s Faculty of Humanities and English Department. I’m looking forward to next steps.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Internal Grant for Experimental Worldbuilding](#internal-grant-for-experimental-worldbuilding)
+&lt;h1 id=&quot;wrapping-up-player-stories-part-2&quot;&gt;&lt;a href=&quot;#wrapping-up-player-stories-part-2&quot;&gt;Wrapping up Player Stories, Part 2&lt;/a&gt;&lt;/h1&gt;
 
-*1 September 2020*
+&lt;p&gt;&lt;em&gt;18 November 2022&lt;/em&gt;&lt;/p&gt;
 
-UVic awarded me an internal grant to conduct research on experimental worldbuilding in games and speculative fiction. All the funds will support graduate students in the [Praxis Studio](/praxis/). We'll spend the next two years examining how compelling worlds are not only imagined but also constructed for players, with an emphasis on the politics and design of indie games. Many thanks to UVic for this opportunity. It's the spark we all needed right now.    
+&lt;p&gt;The &lt;a href=&quot;/praxis&quot;&gt;Praxis Studio&lt;/a&gt; just wrapped up another engaging series of &lt;a href=&quot;https://uvicpraxis.github.io/playerStories.html&quot;&gt;“Player Stories.”&lt;/a&gt; Many thanks to Whitney “Strix” Beltrán, Maddy Myers, Leonard J. Paul, and Amanda Phillips for taking the time to speak with us about everything from game audio and narrative design to &lt;em&gt;Bayonetta&lt;/em&gt; and &lt;em&gt;Portal&lt;/em&gt;.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Delia Derbyshire](#delia-derbyshire)
+&lt;h1 id=&quot;games-in-action&quot;&gt;&lt;a href=&quot;#games-in-action&quot;&gt;Games in Action&lt;/a&gt;&lt;/h1&gt;
 
-*12 June 2020* 
+&lt;p&gt;&lt;em&gt;7 November 2022&lt;/em&gt;&lt;/p&gt;
 
-Thanks to Jason Camlot, Yuliya Kondratenko, and everyone at SpokenWeb for inviting me to conduct a [virtual listening session](https://spokenweb.ca/events/virtual-listening-practice-guided-by-jentery-sayers/) on the topic of Delia Derbyshire's compositions for the BBC Radiophonic Workshop. I produced some rough and still unfinished [notes](/archive/talks/spokenweb20/) for the session that guided us through multiple (if not contradictory) ways of listening to Derbyshire's work as an entanglement of sound and science fiction. This event was tremendous fun. The discussion was rich, and I enjoyed witnessing people's responses to what they heard.
+&lt;p&gt;I gave an invited talk at UBC’s stellar &lt;a href=&quot;https://gamesinaction.squarespace.com/&quot;&gt;“Games in Action”&lt;/a&gt; conference this weekend. The topic was &lt;a href=&quot;archive/talks/gia/&quot;&gt;“Player Stories without Platforms,”&lt;/a&gt; and in it I did my best to articulate game studies with minimal computing from the labor perspective. Many thanks to Jess Wind and Carina Kom for speaking on the “Technologies of Control and Liberation” panel with me and to Danielle Wong for moderating. Thanks as well to Chris Patterson, David Gaertner, and Grace Wood for inviting me to participate in such a timely and compelling event. &lt;a href=&quot;https://gamesinaction.squarespace.com/&quot;&gt;Recordings&lt;/a&gt; of every “Games in Action” talk and panel are now online.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Response to COVID-19](#response-to-covid-19)
+&lt;h1 id=&quot;social-justice-and-new-media-reading-list&quot;&gt;&lt;a href=&quot;#social-justice-and-new-media-reading-list&quot;&gt;Social Justice and New Media Reading List&lt;/a&gt;&lt;/h1&gt;
 
-*16 March 2020* 
+&lt;p&gt;&lt;em&gt;27 June 2022&lt;/em&gt;&lt;/p&gt;
 
-Following UVic's recommendations, I'm transitioning my teaching and lab research to online formats for the remainder of the term. I hope you are keeping as well as can be right now. 
+&lt;p&gt;Thank you, David Gaertner, for including &lt;a href=&quot;/mtdb&quot;&gt;&lt;em&gt;Making Things and Drawing Boundaries&lt;/em&gt;&lt;/a&gt; on your social justice and new media &lt;a href=&quot;https://novelalliances.com/2022/06/26/20-books-on-new-media-and-social-justice/&quot;&gt;reading list&lt;/a&gt;. I’m honored and in esteemed company. I really appreciate this framing, too: “The following reading list represents a small space . . . for those who are looking to get started: a jumping off point. No more excuses. I’ve been inspired by all of these texts and go back to them often. If you want a job making video games, editing films, building apps, or programming AI, let technology be just one small piece of your training. Let the remainder be an ongoing relationship with power and the politics of storytelling.”&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [SpokenWeb Receives SSHRC Grant](#spokenweb-receives-sshrc-grant)
+&lt;h1 id=&quot;school-of-video-game-audio&quot;&gt;&lt;a href=&quot;#school-of-video-game-audio&quot;&gt;School of Video Game Audio&lt;/a&gt;&lt;/h1&gt;
 
-*25 September 2019* 
+&lt;p&gt;&lt;em&gt;2 May 2022&lt;/em&gt;&lt;/p&gt;
 
-Congratulations to Jason Camlot and the [SpokenWeb team](https://spokenweb.ca/about-us/team/) on receiving a SSHRC Partnership Grant, which &quot;aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond&quot; ([&quot;About SpokenWeb&quot;](https://spokenweb.ca/about-us/spokenweb/)). I'm thrilled to be a collaborator on this fantastic project, and everyone at the [Praxis Studio](/praxis/) is looking forward to [contributing](/spokenweb/) to the SpokenWeb's pedagogy initiatives.  
+&lt;p&gt;I’m a student again! This year I’m taking a course on Wwise, sound design, and dynamic dialogue with Leonard J. Paul and Jordan Guerette at the &lt;a href=&quot;https://school.videogameaudio.com/apply/&quot;&gt;School of Video Game Audio&lt;/a&gt; based in Vancouver. I’ll be learning to construct an audio demo reel for industry, with feedback along the way from Viviana Caro. I’m excited to get started.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [The MLab Is Now the Praxis Studio](#the-mlab-is-now-the-praxis-studio)
+&lt;h1 id=&quot;wrapping-up-player-stories&quot;&gt;&lt;a href=&quot;#wrapping-up-player-stories&quot;&gt;Wrapping up Player Stories&lt;/a&gt;&lt;/h1&gt;
 
-*24 September 2019*
+&lt;p&gt;&lt;em&gt;15 April 2022&lt;/em&gt;&lt;/p&gt;
 
-It's [official](https://twitter.com/uvicpraxis/status/1176608050263687168): The Maker Lab in the Humanities is now the [Praxis Studio](https://uvicpraxis.github.io/) for Comparative Media Studies. We've wanted to change the MLab's name for some time now, and the timing is perfect, as we'll also relocate to UVic's Clearihue building, which houses the University's Faculty of Humanities. Thanks to the Faculty and the Department of English for their continued support. We will no longer update the [MLab's website](https://maker.uvic.ca/), but I will continue to direct [our research](/praxis/) under the Lab's new name. Exciting times! 
+&lt;p&gt;The &lt;a href=&quot;/praxis&quot;&gt;Praxis Studio&lt;/a&gt; is wrapping up our 2021-22 &lt;a href=&quot;https://uvicpraxis.github.io/playerStories.html&quot;&gt;“Player Stories”&lt;/a&gt; series. It’s been absolutely fantastic! Many thanks to Misao Dean, Abby Fry, Julie Funk, Braeden Hallman, Sara Humphreys, and Asia Tyson for presenting. Here’s a brief description: “Among the most fascinating aspects of games are the stories players tell with them. This speaker series attends to how we study, document, and narrate play.”&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [The Pedagogy of Paper Computers](#the-pedagogy-of-paper-computers)
+&lt;h1 id=&quot;congrats-to-carol-linnitt&quot;&gt;&lt;a href=&quot;#congrats-to-carol-linnitt&quot;&gt;Congrats to Carol Linnitt&lt;/a&gt;&lt;/h1&gt;
 
-*22 May 2019*
+&lt;p&gt;&lt;em&gt;10 March 2022&lt;/em&gt;&lt;/p&gt;
 
-This week, I gave a [Connect U 2019](https://www.uvic.ca/connectu/) talk at UVic on the pedagogy of [&quot;Paper Computers,&quot;](/papercomputers/) a graduate seminar on tabletop game design I taught last fall. Here are my [slides](/archive/talks/connectu/). They include a rationale for the course as well as some photographs of games that students prototyped. During the talk, I explained how and why &quot;Paper Computers&quot; encouraged students to develop procedural literacy, experiment with low-tech methods, engage histories and cultures of media, understand contexts of play and use, design critically, and connect with communities of practice. I then articulated these six areas with the notion of prototyping the past: in this case, making games informed by literary and political movements from the 19th and 20th centuries. Thanks to UVic for inviting me to speak at this event, and to David Leach for joining me. It was a pleasure.   
+&lt;p&gt;Congratulations to UVic English and CSPT alum, Dr. Carol Linnitt, on receiving UVic’s 
+&lt;a href=&quot;https://www.uvic.ca/news/topics/2022+distinguished-alumni-awards-uvic-graduates+news&quot;&gt;2022 Distinguished Alumni Award&lt;/a&gt;. Dr. Linnitt wrote a magnificent dissertation on “world unmaking” in the fiction of Delany, VanderMeer, and Jemisin and is currently the executive editor of &lt;a href=&quot;https://thenarwhal.ca/&quot;&gt;&lt;em&gt;The Narwhal&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-*** 
+&lt;hr /&gt;
 
-# [Low-Tech Approaches to Digital Research](#low-tech-approaches-to-digital-research)
+&lt;h1 id=&quot;back-in-the-classroom&quot;&gt;&lt;a href=&quot;#back-in-the-classroom&quot;&gt;Back in the Classroom&lt;/a&gt;&lt;/h1&gt;
 
-*26 February 2019* 
+&lt;p&gt;&lt;em&gt;8 September 2021&lt;/em&gt;&lt;/p&gt;
 
-Today I gave a talk during an NEH ODH Institute on &quot;Textual Data and Digital Texts in the Undergraduate Classroom,&quot; directed by Lauren Coats and Emily McGinn. I titled it, [&quot;Low-Tech Approaches to Digital Research&quot;](archive/talks/neh), with a focus on two questions: how to approach digital research in the classroom without assuming technical competencies in computing, and how to teach important techniques often automated or masked by tools and software. I responded to both by providing examples of low-tech prototyping as inquiry. They included the use of Markdown for web development, graphical overlays for data visualization, paper manuals for game design, cardboard models for media history, wireframes for conjectural criticism, remediations for archival work, and zines for science and technology studies. Thanks to Lauren and Emily for inviting me to participate in this timely institute, which resulted in a compelling collection of open access materials: [*Digital Texts and Textual Data: A Pedagogical Anthology*](https://hcommons.org/deposits/item/hc:28413/).
+&lt;p&gt;I’m returning to the classroom for the first time since 12 March 2020, when UVic transitioned to online formats in response to COVID-19. I’m a bit nervous about it all, but I’m also looking forward to teaching &lt;a href=&quot;https://jentery.github.io/engl230v2/&quot;&gt;“Contemporary Media and Fiction”&lt;/a&gt; this term. Fingers crossed.&lt;/p&gt;
 
-*** 
+&lt;hr /&gt;
 
-# [Tabletop Inquiry](#tabletop-inquiry)
+&lt;h1 id=&quot;designing-prompts-for-literary-audio-studies&quot;&gt;&lt;a href=&quot;#designing-prompts-for-literary-audio-studies&quot;&gt;Designing Prompts for Literary Audio Studies&lt;/a&gt;&lt;/h1&gt;
 
-*5 December 2018*
+&lt;p&gt;&lt;em&gt;20 May 2021&lt;/em&gt;&lt;/p&gt;
 
-I wrote a reflection on my [&quot;Paper Computers&quot;](/papercomputers/) seminar. It's intended for graduate students in the course; however, I hope it's of use to other people, including those who are interested in media studies. It's titled [&quot;Tabletop Inquiry&quot;](/tabletop/) and consists of three point-form lists. The [first](/tabletop/#observations) is a series of observations made while studying and prototyping paper computers this semester; it's meant to document and distill some of our seminar conversations. The [second list](/tabletop/#prompts-for-project-design) outlines some questions prompted by tabletop prototyping for project design in the humanities; it's meant to highlight how tabletop prototyping may apply to a broader set of research practices (not just to games). The [third list](/tabletop/#types-of-prototypes) itemizes types of prototypes for engaging history; it's meant to provide a working vocabulary for prototyping as a form of criticism. Thanks again to Avery Alder, Nina Belojevic, Whitney &quot;Strix&quot; Beltrán, Anne Burdick, Emily Care Boss, Alexander Galloway, Amy Hildreth Chen, Isaac Childres, Derek Hansen, Matthew Kirschenbaum, Kari Kraus, Michael Lines, Shaun Macpherson, Renee M. Shelby, Nikki Valens, and Lara Wilson for contributing to the seminar as guest speakers. It was a joy to teach. 
+&lt;p&gt;Yesterday, I presented with Samuel K. Adesubokan, Julie Funk, and Faith Ryan at the &lt;a href=&quot;archive/talks/spokenweb21/spokenWebSymposium2021.pdf&quot;&gt;2021 SpokenWeb Symposium&lt;/a&gt;. The topic of our talk was &lt;a href=&quot;archive/talks/spokenweb21/&quot;&gt;“Designing Prompts for Literary Audio Studies,”&lt;/a&gt; which was part of a plenary panel on “Teaching with Sound / Sound and Pedagogy.” We had the pleasure of presenting alongside Nicole Brittingham Furlonge, and Aphrodite Salas was kind enough to moderate. Many thanks to the SpokenWeb team for hosting us during this terrific event.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Types of Prototypes](#types-of-prototypes)
+&lt;h1 id=&quot;scholarly-podcasts&quot;&gt;&lt;a href=&quot;#scholarly-podcasts&quot;&gt;Scholarly Podcasts&lt;/a&gt;&lt;/h1&gt;
 
-*4 December 2018* 
+&lt;p&gt;&lt;em&gt;17 April 2021&lt;/em&gt;&lt;/p&gt;
 
-I developed a resource titled [&quot;Types of Prototypes&quot;](/typesofprototypes/) for people who are curious about how prototyping or &quot;remaking&quot; source materials intersects with the praxis of literary and textual criticism. It lists seven types of prototypes and explains what they help us to better understand. Then it describes how prototyping may be a form of criticism. It concludes by explaining how prototypes &quot;address us.&quot; Inspired by Kari Kraus's research, I'm using this framework for a few ongoing projects. 
+&lt;p&gt;The &lt;em&gt;BC Studies&lt;/em&gt; journal published a &lt;a href=&quot;https://bcstudies.com/resources/scholarly-podcasts/the-bc-studies-podcast/&quot;&gt;four-episode podcast&lt;/a&gt; about . . . making scholarly podcasts! Many thanks to producer, Isabelle Ava-Pointon, for interviewing Brenna Clarke Gray, David Gaertner, Michael Faris, Kyle Stedman, Charles Woods, and me as part of it all. These four episodes are a wonderful resource for faculty, students, and staff who are curious about podcasting but unsure where to begin.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [SSHRC Grant for HASTAC 2019](#sshrc-grant-for-hastac-2019)
+&lt;h1 id=&quot;from-prototyping-to-worldbuilding&quot;&gt;&lt;a href=&quot;#from-prototyping-to-worldbuilding&quot;&gt;From Prototyping to Worldbuilding&lt;/a&gt;&lt;/h1&gt;
 
-*29 November 2018* 
+&lt;p&gt;&lt;em&gt;26 March 2021&lt;/em&gt;&lt;/p&gt;
 
-David Gaertner and I received a SSHRC Connection Grant to support the [next HASTAC conference](https://hastac2019.github.io/), scheduled for 16-18 May 2019. HASTAC will partner with UVic English and the Institute for Critical Indigenous Studies at the University of British Columbia, and they will be guests on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓-speaking Musqueam (xʷməθkʷəy̓əm) people. The conference theme is &quot;Decolonizing Technologies, Reprogramming Education.&quot; Marisa Duarte, Jules Arita Koostachin, Elizabeth LaPensée, Karyn Recollet, Alana Sayers, and Leanne Betasamosake Simpson will give plenaries, and Melody McIvor will be performing. 
+&lt;p&gt;Yesterday I gave a talk online as part of Lawrence Technology University’s &lt;a href=&quot;https://www.ltu.edu/humantech/&quot;&gt;“Humanity + Technology”&lt;/a&gt; series. I spoke about how “prototyping the past” might apply to the practice of worldbuilding. The talk was &lt;a href=&quot;https://www.youtube.com/watch?v=nNN4B-eaTrc&quot;&gt;recorded&lt;/a&gt;, and I published my &lt;a href=&quot;/archive/talks/ltu/&quot;&gt;slides&lt;/a&gt;. Thanks to Paul Jaussen, Franco Delogu, Emily Kutil, and LTU’s College of Architecture and Design for inviting me, and for archiving all the “Humanity + Tech” events, including talks by &lt;a href=&quot;https://www.ltu.edu/humantech/findingnature.asp&quot;&gt;Alenda Chang&lt;/a&gt; and &lt;a href=&quot;https://www.ltu.edu/humantech/hayles.asp&quot;&gt;Katherine Hayles&lt;/a&gt;.&lt;/p&gt;
 
-Many thanks to our [organizers, sponsors, and volunteers](https://hastac2019.github.io/about.html) and to Musqueam artist, Diamond Point, who designed the [conference logo](https://hastac2019.github.io/assets/images/logo.png).
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;spokenweb-interviews-the-praxis-studio&quot;&gt;&lt;a href=&quot;#spokenweb-interviews-the-praxis-studio&quot;&gt;SpokenWeb Interviews the Praxis Studio&lt;/a&gt;&lt;/h1&gt;
 
-# [Before You Make a Thing](#before-you-make-a-thing)
+&lt;p&gt;&lt;em&gt;27 February 2021&lt;/em&gt;&lt;/p&gt;
 
-*15 November 2018*
+&lt;p&gt;Many thanks to SpokenWeb researcher, Emma Telaro, for &lt;a href=&quot;https://spokenweb.ca/on-literary-machine-listening-and-pedagogy-the-praxis-studio-with-julie-funk-faith-ryan-and-jentery-sayers/&quot;&gt;interviewing&lt;/a&gt; Julie Funk, Faith Ryan, and me about our &lt;a href=&quot;/praxis/&quot;&gt;Praxis Studio&lt;/a&gt; research on all things audio. It was a great discussion! Julie unpacked the significance of machine listening to literary and cultural studies, Faith engaged disability studies and listening as a form of access, and I talked about works of audio I enjoy teaching.&lt;/p&gt;
 
-To help undergraduate students in [&quot;Prototyping Pasts and Futures&quot;](archive/syllabi/200/) apply science and technology studies to prototyping and project design, I created a resource titled, [&quot;Before You Make a Thing.&quot;](/beforeyou/) It consists of three point-form lists. The [first](/beforeyou/#theories-and-concepts) is a series of theories and concepts drawn from assigned readings, the [second](/beforeyou/#practices) is a rundown of practices corresponding with projects we studied, and the [third](/beforeyou/#prototyping-techniques) itemizes prototyping techniques conducted in the course. I wrote the document for readers across the disciplines, partly because most students in this course are not humanities majors.  
+&lt;hr /&gt;
 
-*** 
+&lt;h1 id=&quot;the-mla-published-my-third-book&quot;&gt;&lt;a href=&quot;#the-mla-published-my-third-book&quot;&gt;The MLA Published My Third Book&lt;/a&gt;&lt;/h1&gt;
 
-# [Sketch Model](#sketch-model)
+&lt;p&gt;&lt;em&gt;2 December 2020&lt;/em&gt;&lt;/p&gt;
 
-*21 June 2018*
+&lt;p&gt;&lt;a href=&quot;/digped&quot;&gt;&lt;em&gt;Digital Pedagogy in the Humanities&lt;/em&gt;&lt;/a&gt; is here! Published online and open access by the Modern Language Association, I hope it becomes a useful resource for instructors and many others. A million thanks to my co-editors, Rebecca Frost Davis, Matt Gold, and Kathy Harris, for working with me over the years on this one and for writing a fantastic introduction to the collection.&lt;/p&gt;
 
-I just returned from Olin College of Engineering, where I was a summer fellow in the Mellon-funded Sketch Model program. Echoing Olin's [website](https://www.olin.edu/collaborate/sketch-model/), Sketch Model is &quot;a set of experimental approaches that embody the exploratory spirit of ideas-under-construction inherent in sketch models for prototyping: imagining the creative contours and operations for an expanded practice of engineering that includes the robust expressive criticality of the arts, history, and culture.&quot; Many thanks to Sara Hendren (PI), Ben Linder (PI), Debbie Chachra, and Jonathan Adler for hosting me. I gained an incredible amount of knowledge about prototyping across the disciplines (from industry and engineering to design and the humanities), and Sara and Ben did an absolutely brilliant job of bringing together a group of invested practitioners. 
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;internal-grant-for-experimental-worldbuilding&quot;&gt;&lt;a href=&quot;#internal-grant-for-experimental-worldbuilding&quot;&gt;Internal Grant for Experimental Worldbuilding&lt;/a&gt;&lt;/h1&gt;
 
-# [Routledge Published My Second Book](#routledge-published-my-second-book)
+&lt;p&gt;&lt;em&gt;1 September 2020&lt;/em&gt;&lt;/p&gt;
 
-*20 May 2018* 
+&lt;p&gt;UVic awarded me an internal grant to conduct research on experimental worldbuilding in games and speculative fiction. All the funds will support graduate students in the &lt;a href=&quot;/praxis/&quot;&gt;Praxis Studio&lt;/a&gt;. We’ll spend the next two years examining how compelling worlds are not only imagined but also constructed for players, with an emphasis on the politics and design of indie games. Many thanks to UVic for this opportunity. It’s the spark we all needed right now.&lt;/p&gt;
 
-I received [copies](/images/pages/routledgeBook.jpg) of my second book today. It's an edited collection titled, [*The Routledge Companion to Media Studies and Digital Humanities*](/companion). Thanks to everyone who supported it and contributed to it. Working with all of you was an absolute honor.
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;delia-derbyshire&quot;&gt;&lt;a href=&quot;#delia-derbyshire&quot;&gt;Delia Derbyshire&lt;/a&gt;&lt;/h1&gt;
 
-# [Starting in the Middle](#starting-in-the-middle)
+&lt;p&gt;&lt;em&gt;12 June 2020&lt;/em&gt;&lt;/p&gt;
 
-*11 May 2018* 
+&lt;p&gt;Thanks to Jason Camlot, Yuliya Kondratenko, and everyone at SpokenWeb for inviting me to conduct a &lt;a href=&quot;https://spokenweb.ca/events/virtual-listening-practice-guided-by-jentery-sayers/&quot;&gt;virtual listening session&lt;/a&gt; on the topic of Delia Derbyshire’s compositions for the BBC Radiophonic Workshop. I produced some rough and still unfinished &lt;a href=&quot;/archive/talks/spokenweb20/&quot;&gt;notes&lt;/a&gt; for the session that guided us through multiple (if not contradictory) ways of listening to Derbyshire’s work as an entanglement of sound and science fiction. This event was tremendous fun. The discussion was rich, and I enjoyed witnessing people’s responses to what they heard.&lt;/p&gt;
 
-Yesterday I gave a talk at the University of Puget Sound titled, &quot;Starting in the Middle,&quot; where I outlined eight pedagogical approaches to critical media practice: 1) negotiating We/I/Them/It with Text/Context, 2) the participatory observer (who is not &quot;detached&quot;), 3) boundary-making in design (contrasted with appeals to abstract functions and ideal features), 4) matters of contingency and interface (as distinct from evidence or proof), 5) the entanglements of language with materials, 6) iteration as inquiry (working with machines, not delegating tasks to them), 7) multimodal composition (rather than digitization as re-presentation), and 8) accounting for shadow pasts and futures (not only certainties). Thanks to Jane Carlin and Collins Memorial Library for inviting me, and to Jamie L. Spaine for coordinating my visit. It was exciting to see what Puget Sound is doing with media and [their new makerspace](https://research.pugetsound.edu/makerspace). 
+&lt;hr /&gt;
 
-*** 
+&lt;h1 id=&quot;response-to-covid-19&quot;&gt;&lt;a href=&quot;#response-to-covid-19&quot;&gt;Response to COVID-19&lt;/a&gt;&lt;/h1&gt;
 
-# [Designing Digital Studies Courses](#designing-digital-studies-courses)
+&lt;p&gt;&lt;em&gt;16 March 2020&lt;/em&gt;&lt;/p&gt;
 
-*26 April 2018* 
+&lt;p&gt;Following UVic’s recommendations, I’m transitioning my teaching and lab research to online formats for the remainder of the term. I hope you are keeping as well as can be right now.&lt;/p&gt;
 
-The University of Washington's Department of English invited me to speak at the Simpson Center for the Humanities on the topic of designing digital studies courses for graduate students. I presented some possible three-course sequences for UW English, and I also created a resource based on the talk. It's titled, [&quot;Locating Praxis in Digital Studies&quot;](/designingcourses/). There you'll find an account of my own [background and biases](/designingcourses/#my-background-and-biases) with respect to digital studies, my working definition of [&quot;praxis&quot;](/designingcourses/#praxis), an articulation of my [aims](/designingcourses/#the-aims-of-my-digital-studies-courses) when teaching media, and---likely most important---sketches of [three-course sequences](/designingcourses/#some-possible-three-course-sequences) in stewardship, computational analysis, design and communication, social justice and transformative media, digital methods, and prototyping. If you're creating digital studies courses at your university, then I hope you'll find this resource to be useful. Thanks to UW English, including Carolyn Allen, Anis Bawarshi, Brian Reed, and Kathy Woodward, for welcoming me back to Seattle for this talk. It was lovely to be at the Simpson Center again. 
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;spokenweb-receives-sshrc-grant&quot;&gt;&lt;a href=&quot;#spokenweb-receives-sshrc-grant&quot;&gt;SpokenWeb Receives SSHRC Grant&lt;/a&gt;&lt;/h1&gt;
 
-# [Design and Live Methods](#design-and-live-methods)
+&lt;p&gt;&lt;em&gt;25 September 2019&lt;/em&gt;&lt;/p&gt;
 
-*25 March 2018*
+&lt;p&gt;Congratulations to Jason Camlot and the &lt;a href=&quot;https://spokenweb.ca/about-us/team/&quot;&gt;SpokenWeb team&lt;/a&gt; on receiving a SSHRC Partnership Grant, which “aims to develop coordinated and collaborative approaches to literary historical study, digital development, and critical and pedagogical engagement with diverse collections of literary sound recordings from across Canada and beyond” (&lt;a href=&quot;https://spokenweb.ca/about-us/spokenweb/&quot;&gt;“About SpokenWeb”&lt;/a&gt;). I’m thrilled to be a collaborator on this fantastic project, and everyone at the &lt;a href=&quot;/praxis/&quot;&gt;Praxis Studio&lt;/a&gt; is looking forward to &lt;a href=&quot;/spokenweb/&quot;&gt;contributing&lt;/a&gt; to the SpokenWeb’s pedagogy initiatives.&lt;/p&gt;
 
-Since early 2017, I've been developing approaches to literary and media studies that experiment with Daniela Rosner's &quot;design as inquiry,&quot; Kari Kraus's &quot;family of subjunctive practices,&quot; and what Les Back and Nirmal Puwar call &quot;live methods.&quot; I shared some draft material at the American Institute of Graphic Arts meeting at USC in June 2017 and, more recently, during a discussion with Florida State University's Digital Scholars group. Here are my slides for those two talks: [&quot;Design and Digital Studies&quot; at AIGA](/archive/talks/aiga/) and [&quot;From Lab to Classroom&quot; at FSU](/archive/talks/fsu/). Thanks to Tarez Graban for inviting me to speak with folks at FSU, to graduate students at FSU for [responding](https://digitalscholars.wordpress.com/?s=jentery&amp;submit=Search) to my talk, and to Kate Sweetapple and Jacquie Lorber-Kasunic for presenting with me at AIGA. I'm quite excited about where this work is going. 
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;the-mlab-is-now-the-praxis-studio&quot;&gt;&lt;a href=&quot;#the-mlab-is-now-the-praxis-studio&quot;&gt;The MLab Is Now the Praxis Studio&lt;/a&gt;&lt;/h1&gt;
 
-# [Interview about &quot;What's in a Game?&quot;](#interview-about-whats-in-a-game)
+&lt;p&gt;&lt;em&gt;24 September 2019&lt;/em&gt;&lt;/p&gt;
 
-*28 February 2018*
+&lt;p&gt;It’s &lt;a href=&quot;https://twitter.com/uvicpraxis/status/1176608050263687168&quot;&gt;official&lt;/a&gt;: The Maker Lab in the Humanities is now the &lt;a href=&quot;https://uvicpraxis.github.io/&quot;&gt;Praxis Studio&lt;/a&gt; for Comparative Media Studies. We’ve wanted to change the MLab’s name for some time now, and the timing is perfect, as we’ll also relocate to UVic’s Clearihue building, which houses the University’s Faculty of Humanities. Thanks to the Faculty and the Department of English for their continued support. We will no longer update the &lt;a href=&quot;https://maker.uvic.ca/&quot;&gt;MLab’s website&lt;/a&gt;, but I will continue to direct &lt;a href=&quot;/praxis/&quot;&gt;our research&lt;/a&gt; under the Lab’s new name. Exciting times!&lt;/p&gt;
 
-Stephanie Harrington recently interviewed me about [&quot;What's in a Game?&quot;](/whatgame) for the UVic Humanities faculty newsletter: &quot;Associate Professor of English Jentery Sayers had students in his graduate ENGL 508 Digital Literary Studies seminar create indie video games that drew on literary history. Two groups of students presented their final projects in December at Open the Arcade, an event hosted in the Digital Scholarship Commons of McPherson Library. Sayers talks to Stephanie Harrington about the process of getting students with little to no coding experience to design the games *Somapo* and *Adventures of a Sticky Leaf-Dweller*.&quot; The [entire interview](https://www.uvic.ca/humanities/news/archives/get-to-know-a-teacher---jentery-sayers.php) is available online via the Faculty's website. I spoke mostly about graduate work and student achievements. Thanks, Stephanie!
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;the-pedagogy-of-paper-computers&quot;&gt;&lt;a href=&quot;#the-pedagogy-of-paper-computers&quot;&gt;The Pedagogy of Paper Computers&lt;/a&gt;&lt;/h1&gt;
 
-# [Minnesota Published My First Book](#minnesota-published-my-first-book)
+&lt;p&gt;&lt;em&gt;22 May 2019&lt;/em&gt;&lt;/p&gt;
 
-*11 January 2018*
+&lt;p&gt;This week, I gave a &lt;a href=&quot;https://www.uvic.ca/connectu/&quot;&gt;Connect U 2019&lt;/a&gt; talk at UVic on the pedagogy of &lt;a href=&quot;/papercomputers/&quot;&gt;“Paper Computers,”&lt;/a&gt; a graduate seminar on tabletop game design I taught last fall. Here are my &lt;a href=&quot;/archive/talks/connectu/&quot;&gt;slides&lt;/a&gt;. They include a rationale for the course as well as some photographs of games that students prototyped. During the talk, I explained how and why “Paper Computers” encouraged students to develop procedural literacy, experiment with low-tech methods, engage histories and cultures of media, understand contexts of play and use, design critically, and connect with communities of practice. I then articulated these six areas with the notion of prototyping the past: in this case, making games informed by literary and political movements from the 19th and 20th centuries. Thanks to UVic for inviting me to speak at this event, and to David Leach for joining me. It was a pleasure.&lt;/p&gt;
 
-It's here! My [first book](/images/pages/minnesotaBook.jpg)! It's an edited collection called, [*Making Things and Drawing Boundaries*](/mtdb). Thanks to everyone at the University of Minnesota Press, especially Dani Kasprzak; the *Debates in DH* team, including Lauren Klein and Matt Gold; and every author who contributed a chapter. I truly enjoyed working on this project, and it's wonderful to see it in the world for people to read.
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;low-tech-approaches-to-digital-research&quot;&gt;&lt;a href=&quot;#low-tech-approaches-to-digital-research&quot;&gt;Low-Tech Approaches to Digital Research&lt;/a&gt;&lt;/h1&gt;
 
-# [Co-chairing a Media and Culture Initiative](#co-chairing-a-media-and-culture-initiative)
+&lt;p&gt;&lt;em&gt;26 February 2019&lt;/em&gt;&lt;/p&gt;
 
-*12 September 2017*
+&lt;p&gt;Today I gave a talk during an NEH ODH Institute on “Textual Data and Digital Texts in the Undergraduate Classroom,” directed by Lauren Coats and Emily McGinn. I titled it, &lt;a href=&quot;archive/talks/neh&quot;&gt;“Low-Tech Approaches to Digital Research”&lt;/a&gt;, with a focus on two questions: how to approach digital research in the classroom without assuming technical competencies in computing, and how to teach important techniques often automated or masked by tools and software. I responded to both by providing examples of low-tech prototyping as inquiry. They included the use of Markdown for web development, graphical overlays for data visualization, paper manuals for game design, cardboard models for media history, wireframes for conjectural criticism, remediations for archival work, and zines for science and technology studies. Thanks to Lauren and Emily for inviting me to participate in this timely institute, which resulted in a compelling collection of open access materials: &lt;a href=&quot;https://hcommons.org/deposits/item/hc:28413/&quot;&gt;&lt;em&gt;Digital Texts and Textual Data: A Pedagogical Anthology&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
 
-Thea Cacchioni (Gender Studies) and I were recently invited to co-chair the 2017-18 &quot;Taskforce on an Institute for Culture and Media Analysis&quot; (TICMA) in [UVic's Faculty of Humanities](https://www.uvic.ca/humanities/). The TICMA will consider the potential benefits of establishing an organizational structure to host the Faculty's various activities in media and cultural studies, and the goal is to supplement and enhance this existing work by increasing its visibility on campus. We'll be meeting with UVic faculty, staff, and students throughout the year, and I'm very much looking forward to seeing what we ultimately recommend. 
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;tabletop-inquiry&quot;&gt;&lt;a href=&quot;#tabletop-inquiry&quot;&gt;Tabletop Inquiry&lt;/a&gt;&lt;/h1&gt;
 
-# [Now an Associate Professor](#now-an-associate-professor)
+&lt;p&gt;&lt;em&gt;5 December 2018&lt;/em&gt;&lt;/p&gt;
 
-*20 February 2017* 
+&lt;p&gt;I wrote a reflection on my &lt;a href=&quot;/papercomputers/&quot;&gt;“Paper Computers”&lt;/a&gt; seminar. It’s intended for graduate students in the course; however, I hope it’s of use to other people, including those who are interested in media studies. It’s titled &lt;a href=&quot;/tabletop/&quot;&gt;“Tabletop Inquiry”&lt;/a&gt; and consists of three point-form lists. The &lt;a href=&quot;/tabletop/#observations&quot;&gt;first&lt;/a&gt; is a series of observations made while studying and prototyping paper computers this semester; it’s meant to document and distill some of our seminar conversations. The &lt;a href=&quot;/tabletop/#prompts-for-project-design&quot;&gt;second list&lt;/a&gt; outlines some questions prompted by tabletop prototyping for project design in the humanities; it’s meant to highlight how tabletop prototyping may apply to a broader set of research practices (not just to games). The &lt;a href=&quot;/tabletop/#types-of-prototypes&quot;&gt;third list&lt;/a&gt; itemizes types of prototypes for engaging history; it’s meant to provide a working vocabulary for prototyping as a form of criticism. Thanks again to Avery Alder, Nina Belojevic, Whitney “Strix” Beltrán, Anne Burdick, Emily Care Boss, Alexander Galloway, Amy Hildreth Chen, Isaac Childres, Derek Hansen, Matthew Kirschenbaum, Kari Kraus, Michael Lines, Shaun Macpherson, Renee M. Shelby, Nikki Valens, and Lara Wilson for contributing to the seminar as guest speakers. It was a joy to teach.&lt;/p&gt;
 
-The University of Victoria awarded me tenure with promotion this term. I'm now an associate professor of English, and I'm thrilled. Relieved, in fact. Many thanks to my family for their unwavering support along the way, to my department, and to everyone who reviewed and processed my dossier. 
+&lt;hr /&gt;
 
-*** 
+&lt;h1 id=&quot;types-of-prototypes&quot;&gt;&lt;a href=&quot;#types-of-prototypes&quot;&gt;Types of Prototypes&lt;/a&gt;&lt;/h1&gt;
 
-# [Prototyping Pedagogy](#prototyping-pedagogy)
+&lt;p&gt;&lt;em&gt;4 December 2018&lt;/em&gt;&lt;/p&gt;
 
-*5 December 2016*
+&lt;p&gt;I developed a resource titled &lt;a href=&quot;/typesofprototypes/&quot;&gt;“Types of Prototypes”&lt;/a&gt; for people who are curious about how prototyping or “remaking” source materials intersects with the praxis of literary and textual criticism. It lists seven types of prototypes and explains what they help us to better understand. Then it describes how prototyping may be a form of criticism. It concludes by explaining how prototypes “address us.” Inspired by Kari Kraus’s research, I’m using this framework for a few ongoing projects.&lt;/p&gt;
 
-I visited Concordia University in beautiful Montreal this weekend to give a keynote on sound and pedagogy at the [Literary Audio Symposium](https://spokenweb.ca/symposia/#/literary-audio-symposium). I titled the talk, [&quot;Prototyping Pedagogy,&quot;](archive/talks/concordia/) and Tanya Clement, Al Filreis, Jonathan Sterne, and David Seubert also gave [keynotes](archive/talks/concordia/litaud.jpg). Thanks to everyone at Concordia for hosting me. I look forward to seeing what Jason Camlot and the SpokenWeb team do next as part of this truly inventive project. 
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;sshrc-grant-for-hastac-2019&quot;&gt;&lt;a href=&quot;#sshrc-grant-for-hastac-2019&quot;&gt;SSHRC Grant for HASTAC 2019&lt;/a&gt;&lt;/h1&gt;
 
-# [Two More Years of MLab Activities](#two-more-years-of-mlab-activities)
+&lt;p&gt;&lt;em&gt;29 November 2018&lt;/em&gt;&lt;/p&gt;
 
-*7 November 2016* 
+&lt;p&gt;David Gaertner and I received a SSHRC Connection Grant to support the &lt;a href=&quot;https://hastac2019.github.io/&quot;&gt;next HASTAC conference&lt;/a&gt;, scheduled for 16-18 May 2019. HASTAC will partner with UVic English and the Institute for Critical Indigenous Studies at the University of British Columbia, and they will be guests on the traditional, ancestral, and unceded territory of the hən̓q̓əmin̓əm̓-speaking Musqueam (xʷməθkʷəy̓əm) people. The conference theme is “Decolonizing Technologies, Reprogramming Education.” Marisa Duarte, Jules Arita Koostachin, Elizabeth LaPensée, Karyn Recollet, Alana Sayers, and Leanne Betasamosake Simpson will give plenaries, and Melody McIvor will be performing.&lt;/p&gt;
 
-Teddie Brock and the MLab team just published a [review of all the Lab's activities since October 2014](https://maker.uvic.ca/twoyears2/). This is our second two-year review, and it includes details and images for months through August 2016. There's a slew of links you can follow to learn more about our various projects. Congrats to everyone in the Lab for all their achievements these last two years. It's incredible.   
+&lt;p&gt;Many thanks to our &lt;a href=&quot;https://hastac2019.github.io/about.html&quot;&gt;organizers, sponsors, and volunteers&lt;/a&gt; and to Musqueam artist, Diamond Point, who designed the &lt;a href=&quot;https://hastac2019.github.io/assets/images/logo.png&quot;&gt;conference logo&lt;/a&gt;.&lt;/p&gt;
 
-****
+&lt;hr /&gt;
 
-# [NEH-ODH Grant for 3D Printing and Humanistic Inquiry](#neh-odh-grant-for-3d-printing-and-humanistic-inquiry)
+&lt;h1 id=&quot;before-you-make-a-thing&quot;&gt;&lt;a href=&quot;#before-you-make-a-thing&quot;&gt;Before You Make a Thing&lt;/a&gt;&lt;/h1&gt;
 
-*2 June 2016* 
+&lt;p&gt;&lt;em&gt;15 November 2018&lt;/em&gt;&lt;/p&gt;
 
-Congratulations to James W. Malazita and Dean Nieusma at Rensselaer Polytechnic Institute on receiving support for [&quot;3D Printing as Humanistic Inquiry&quot;](https://securegrants.neh.gov/publicquery/main.aspx?f=1&amp;gn=HD-248450-16) from the National Endowment for the Humanities, Office of the Digital Humanities. I'm delighted to be a collaborator on this one-year project. Many thanks to Jim and Dean for thinking of me. 
+&lt;p&gt;To help undergraduate students in &lt;a href=&quot;archive/syllabi/200/&quot;&gt;“Prototyping Pasts and Futures”&lt;/a&gt; apply science and technology studies to prototyping and project design, I created a resource titled, &lt;a href=&quot;/beforeyou/&quot;&gt;“Before You Make a Thing.”&lt;/a&gt; It consists of three point-form lists. The &lt;a href=&quot;/beforeyou/#theories-and-concepts&quot;&gt;first&lt;/a&gt; is a series of theories and concepts drawn from assigned readings, the &lt;a href=&quot;/beforeyou/#practices&quot;&gt;second&lt;/a&gt; is a rundown of practices corresponding with projects we studied, and the &lt;a href=&quot;/beforeyou/#prototyping-techniques&quot;&gt;third&lt;/a&gt; itemizes prototyping techniques conducted in the course. I wrote the document for readers across the disciplines, partly because most students in this course are not humanities majors.&lt;/p&gt;
 
-*** 
+&lt;hr /&gt;
 
-# [Critical Design, Deviant Critique](#critical-design-deviant-critique)
+&lt;h1 id=&quot;sketch-model&quot;&gt;&lt;a href=&quot;#sketch-model&quot;&gt;Sketch Model&lt;/a&gt;&lt;/h1&gt;
 
-*15 May 2016* 
+&lt;p&gt;&lt;em&gt;21 June 2018&lt;/em&gt;&lt;/p&gt;
 
-Arizona State University hosted a wonderful [HASTAC 2016 conference](https://hastac2016.sched.org/event/6Dua/critical-design-deviant-critique). Kim Knight, Padmini Ray Murray, Jacqueline Wernimont, and I discussed the relationship between design and critique--or [“critical design and deviant critique”](https://maker.uvic.ca/hastac16/)--in a humanities context. I engaged six particular angles on design during my portion of the discussion: design 1) as an attribution practice, 2) as inquiry, 3) for experience, 4) for responsibility, 5) in-use, and 6) for diffraction. With material from the talk, I produced a resource titled, [&quot;Critical Design&quot;](/criticaldesign), which briefly describes each of these angles and their motivations. Many thanks to Kim, Padmini, and Jacque for presenting with me. It was a lively panel with an engaging Q&amp;A session. 
+&lt;p&gt;I just returned from Olin College of Engineering, where I was a summer fellow in the Mellon-funded Sketch Model program. Echoing Olin’s &lt;a href=&quot;https://www.olin.edu/collaborate/sketch-model/&quot;&gt;website&lt;/a&gt;, Sketch Model is “a set of experimental approaches that embody the exploratory spirit of ideas-under-construction inherent in sketch models for prototyping: imagining the creative contours and operations for an expanded practice of engineering that includes the robust expressive criticality of the arts, history, and culture.” Many thanks to Sara Hendren (PI), Ben Linder (PI), Debbie Chachra, and Jonathan Adler for hosting me. I gained an incredible amount of knowledge about prototyping across the disciplines (from industry and engineering to design and the humanities), and Sara and Ben did an absolutely brilliant job of bringing together a group of invested practitioners.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Early Magnetic Recording](#early-magnetic-recording)
+&lt;h1 id=&quot;routledge-published-my-second-book&quot;&gt;&lt;a href=&quot;#routledge-published-my-second-book&quot;&gt;Routledge Published My Second Book&lt;/a&gt;&lt;/h1&gt;
 
-*22 April 2016* 
+&lt;p&gt;&lt;em&gt;20 May 2018&lt;/em&gt;&lt;/p&gt;
 
-Thanks to Rich Rath and David Golberg for inviting me to give a couple of talks at the [University of Hawaiʻi at Mānoa](https://manoa.hawaii.edu/history/digi-ah-presents-dr-jentery-sayers-university-of-victoria/) this month as part of the Dai Ho Chun Distinguished Lecturer series. It was an incredible honor. One of my talks was on [early magnetic recording](/archive/talks/hawaii/magRecordingTalk/), and while I was in Honolulu I appeared on KHPR 88.1 FM Hawaiʻi public radio with Burt Lum and Ryan Ozawa (Bytemarks Cafe), Ken DeHoff and Burl Burlingame (Pacific Aviation Museum), and Richard Wainscoat, Eugene Magnier, and Larry Denneau (Institute for Astronomy) to talk about restoring and remaking old tech. You can listen to a recording of our conversation (about 60 minutes) over at [Bytemark Cafe's website](https://bytemarkscafe.org/2016/04/20/episode-399-pan-starrs-april-20-2016/). 
+&lt;p&gt;I received &lt;a href=&quot;/images/pages/routledgeBook.jpg&quot;&gt;copies&lt;/a&gt; of my second book today. It’s an edited collection titled, &lt;a href=&quot;/companion&quot;&gt;&lt;em&gt;The Routledge Companion to Media Studies and Digital Humanities&lt;/em&gt;&lt;/a&gt;. Thanks to everyone who supported it and contributed to it. Working with all of you was an absolute honor.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Remaking Old Media](#remaking-old-media)
+&lt;h1 id=&quot;starting-in-the-middle&quot;&gt;&lt;a href=&quot;#starting-in-the-middle&quot;&gt;Starting in the Middle&lt;/a&gt;&lt;/h1&gt;
 
-*6 April 2016* 
+&lt;p&gt;&lt;em&gt;11 May 2018&lt;/em&gt;&lt;/p&gt;
 
-I visited the Center for Digital Scholarship and Curation (CDSC) at Washington State University this week. Many thanks to Kim Christen, Michael Wynne, and Trevor Bond for hosting me. While I was there I gave a talk titled, [&quot;Remaking Old Media across the Disciplines&quot;](https://www.youtube.com/watch?v=ttPUUFf9Pv4). Given the importance of historical particulars to this research, not to mention my proclivity for tangents, I decided to read a paper with slides for this one. The video includes my slides as well as the Q&amp;A session. 
+&lt;p&gt;Yesterday I gave a talk at the University of Puget Sound titled, “Starting in the Middle,” where I outlined eight pedagogical approaches to critical media practice: 1) negotiating We/I/Them/It with Text/Context, 2) the participatory observer (who is not “detached”), 3) boundary-making in design (contrasted with appeals to abstract functions and ideal features), 4) matters of contingency and interface (as distinct from evidence or proof), 5) the entanglements of language with materials, 6) iteration as inquiry (working with machines, not delegating tasks to them), 7) multimodal composition (rather than digitization as re-presentation), and 8) accounting for shadow pasts and futures (not only certainties). Thanks to Jane Carlin and Collins Memorial Library for inviting me, and to Jamie L. Spaine for coordinating my visit. It was exciting to see what Puget Sound is doing with media and &lt;a href=&quot;https://research.pugetsound.edu/makerspace&quot;&gt;their new makerspace&lt;/a&gt;.&lt;/p&gt;
 
-I enjoyed returning to WSU, which I first visited in 2009 to attend a THATCamp. Thanks again, Kim, Michael, and Trevor. The CDSC is doing brilliant work at the intersection of technologies, ethics, and social empowerment. 
+&lt;hr /&gt;
 
-***
+&lt;h1 id=&quot;designing-digital-studies-courses&quot;&gt;&lt;a href=&quot;#designing-digital-studies-courses&quot;&gt;Designing Digital Studies Courses&lt;/a&gt;&lt;/h1&gt;
 
-# [Prototyping as Composition](#prototyping-as-composition)
+&lt;p&gt;&lt;em&gt;26 April 2018&lt;/em&gt;&lt;/p&gt;
 
-*7 March 2016* 
+&lt;p&gt;The University of Washington’s Department of English invited me to speak at the Simpson Center for the Humanities on the topic of designing digital studies courses for graduate students. I presented some possible three-course sequences for UW English, and I also created a resource based on the talk. It’s titled, &lt;a href=&quot;/designingcourses/&quot;&gt;“Locating Praxis in Digital Studies”&lt;/a&gt;. There you’ll find an account of my own &lt;a href=&quot;/designingcourses/#my-background-and-biases&quot;&gt;background and biases&lt;/a&gt; with respect to digital studies, my working definition of &lt;a href=&quot;/designingcourses/#praxis&quot;&gt;“praxis”&lt;/a&gt;, an articulation of my &lt;a href=&quot;/designingcourses/#the-aims-of-my-digital-studies-courses&quot;&gt;aims&lt;/a&gt; when teaching media, and—likely most important—sketches of &lt;a href=&quot;/designingcourses/#some-possible-three-course-sequences&quot;&gt;three-course sequences&lt;/a&gt; in stewardship, computational analysis, design and communication, social justice and transformative media, digital methods, and prototyping. If you’re creating digital studies courses at your university, then I hope you’ll find this resource to be useful. Thanks to UW English, including Carolyn Allen, Anis Bawarshi, Brian Reed, and Kathy Woodward, for welcoming me back to Seattle for this talk. It was lovely to be at the Simpson Center again.&lt;/p&gt;
 
-After my talk at [Cornell](#prototyping-absence), I traveled to Syracuse University to not only speak about the overlaps of [prototyping with writing studies](archive/talks/syracuse/) but also conduct a Scalar workshop for students. I had a chance as well to visit the awe-inspiring [Belfer Audio Laboratory and Archive](https://library.syr.edu/scrc/collections/preservation/belfer-lab.php). Many thanks to Patrick Berry, Collin Brooke, Patrick Williams, and Jason Markins for hosting me, and to Jenny Doctor for giving me a tour of the Belfer Lab and Archive. Here's my abstract for the &quot;Prototyping as Composition&quot; talk: 
+&lt;hr /&gt;
 
-&quot;Across the humanities, art, design, engineering, as well as numerous memory institutions, researchers are giving digital fabrication techniques such as 3-D printing significant attention. In response, this talk examines the affordances of fabrication for scholarly communication, with particular attention to rapid prototyping, or the iterative production of abstract models in tactile form, as a compositional strategy. Against the grain of the techno-evangelism and hype often witnessed in maker cultures, I outline the relationships between writing academic essays and producing tactile objects with computer numerical control (CNC) machines such as laser cutters, millers, spindles, and printers. Instead of suggesting that writing is somehow secondary to the primary experience of making things, I underscore how prototyping is intricately entangled with archival research and the writing that emerges through that research.&quot; 
+&lt;h1 id=&quot;design-and-live-methods&quot;&gt;&lt;a href=&quot;#design-and-live-methods&quot;&gt;Design and Live Methods&lt;/a&gt;&lt;/h1&gt;
 
-*** 
+&lt;p&gt;&lt;em&gt;25 March 2018&lt;/em&gt;&lt;/p&gt;
 
-# [Prototyping Absence](#prototyping-absence)
+&lt;p&gt;Since early 2017, I’ve been developing approaches to literary and media studies that experiment with Daniela Rosner’s “design as inquiry,” Kari Kraus’s “family of subjunctive practices,” and what Les Back and Nirmal Puwar call “live methods.” I shared some draft material at the American Institute of Graphic Arts meeting at USC in June 2017 and, more recently, during a discussion with Florida State University’s Digital Scholars group. Here are my slides for those two talks: &lt;a href=&quot;/archive/talks/aiga/&quot;&gt;“Design and Digital Studies” at AIGA&lt;/a&gt; and &lt;a href=&quot;/archive/talks/fsu/&quot;&gt;“From Lab to Classroom” at FSU&lt;/a&gt;. Thanks to Tarez Graban for inviting me to speak with folks at FSU, to graduate students at FSU for &lt;a href=&quot;https://digitalscholars.wordpress.com/?s=jentery&amp;amp;submit=Search&quot;&gt;responding&lt;/a&gt; to my talk, and to Kate Sweetapple and Jacquie Lorber-Kasunic for presenting with me at AIGA. I’m quite excited about where this work is going.&lt;/p&gt;
 
-*6 March 2016* 
+&lt;hr /&gt;
 
-Last week I had the honor of giving a talk on [&quot;Prototyping Absence&quot;](https://events.cornell.edu/event/jentery_sayers_prototyping_absence_remaking_old_media) at the Society for the Humanities at Cornell University. Many thanks to Tim Murray for inviting and hosting me. It was beyond humbling to be in the [A.D. White House](https://societyhumanities.as.cornell.edu/ad-white-house) to discuss my research with scholars there. Here's my abstract for the talk:  
+&lt;h1 id=&quot;interview-about-whats-in-a-game&quot;&gt;&lt;a href=&quot;#interview-about-whats-in-a-game&quot;&gt;Interview about “What’s in a Game?”&lt;/a&gt;&lt;/h1&gt;
 
-&quot;When conducting archival research, historians of media and technology frequently encounter devices that no longer work or existed only as illustrations, fictions, or one-offs. Rather than studying such uncertainty at a remove, this talk outlines ways to prototype absences in the historical record. It draws from examples of remaking old media to demonstrate how prototyping the past affords unique approaches to examining the contingent relations between matter and meaning, without fetishizing exact reproductions of historical artifacts.&quot;
+&lt;p&gt;&lt;em&gt;28 February 2018&lt;/em&gt;&lt;/p&gt;
 
-***
+&lt;p&gt;Stephanie Harrington recently interviewed me about &lt;a href=&quot;/whatgame&quot;&gt;“What’s in a Game?”&lt;/a&gt; for the UVic Humanities faculty newsletter: “Associate Professor of English Jentery Sayers had students in his graduate ENGL 508 Digital Literary Studies seminar create indie video games that drew on literary history. Two groups of students presented their final projects in December at Open the Arcade, an event hosted in the Digital Scholarship Commons of McPherson Library. Sayers talks to Stephanie Harrington about the process of getting students with little to no coding experience to design the games &lt;em&gt;Somapo&lt;/em&gt; and &lt;em&gt;Adventures of a Sticky Leaf-Dweller&lt;/em&gt;.” The &lt;a href=&quot;https://www.uvic.ca/humanities/news/archives/get-to-know-a-teacher---jentery-sayers.php&quot;&gt;entire interview&lt;/a&gt; is available online via the Faculty’s website. I spoke mostly about graduate work and student achievements. Thanks, Stephanie!&lt;/p&gt;
 
-# [2015 ACH Elections](#2015-ach-elections)
+&lt;hr /&gt;
 
-*20 November 2015* 
+&lt;h1 id=&quot;minnesota-published-my-first-book&quot;&gt;&lt;a href=&quot;#minnesota-published-my-first-book&quot;&gt;Minnesota Published My First Book&lt;/a&gt;&lt;/h1&gt;
 
-The [Association for Computers and the Humanities](https://ach.org/blog/2015/11/20/candidate-statements/) recently nominated me to serve on its executive council for three years. ACH members have until Thursday, December 10th to vote. As a council member, I would stress the importance of pedagogy, interdisciplinary collaboration, social justice initiatives, and mentoring programs for early career practitioners. I also think laboratory- and library-based learning are fundamental to the histories and trajectories of digital humanities, and I would encourage more ACH activities involving the arts and experimental media. 
+&lt;p&gt;&lt;em&gt;11 January 2018&lt;/em&gt;&lt;/p&gt;
 
-I'm among inimitable company on the ballot: Laura Mandell, Lauren Klein, Jean Bauer, Kalani Craig, Amanda Visconti, Micki Kaufman, Jim McGrath, Scott Weingart, and Francesco Levato. Voting for any of these nominees is a win for the ACH.
+&lt;p&gt;It’s here! My &lt;a href=&quot;/images/pages/minnesotaBook.jpg&quot;&gt;first book&lt;/a&gt;! It’s an edited collection called, &lt;a href=&quot;/mtdb&quot;&gt;&lt;em&gt;Making Things and Drawing Boundaries&lt;/em&gt;&lt;/a&gt;. Thanks to everyone at the University of Minnesota Press, especially Dani Kasprzak; the &lt;em&gt;Debates in DH&lt;/em&gt; team, including Lauren Klein and Matt Gold; and every author who contributed a chapter. I truly enjoyed working on this project, and it’s wonderful to see it in the world for people to read.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Between English and Visual Arts](#between-english-and-visual-arts)
+&lt;h1 id=&quot;co-chairing-a-media-and-culture-initiative&quot;&gt;&lt;a href=&quot;#co-chairing-a-media-and-culture-initiative&quot;&gt;Co-chairing a Media and Culture Initiative&lt;/a&gt;&lt;/h1&gt;
 
-*29 June 2015* 
+&lt;p&gt;&lt;em&gt;12 September 2017&lt;/em&gt;&lt;/p&gt;
 
-The British Columbia Library Association held its [2015 conference](https://bclaconnect.ca/2015-conference/?page_id=341) in May, and I had the privilege of giving a talk on the design, development, and maintenance of UVic's Digital Fabrication Lab. The title was [&quot;Between English and Visual Arts&quot;](/archive/talks/bclibrary/), and I wrote a related MLab piece on the [infrastructural disposition](https://maker.uvic.ca/bclib15/) of lab work across the humanities and fine arts. Thanks to Anne Olsen and Erin Fields for the invitation, and to Springer for sponsoring the session.
+&lt;p&gt;Thea Cacchioni (Gender Studies) and I were recently invited to co-chair the 2017-18 “Taskforce on an Institute for Culture and Media Analysis” (TICMA) in &lt;a href=&quot;https://www.uvic.ca/humanities/&quot;&gt;UVic’s Faculty of Humanities&lt;/a&gt;. The TICMA will consider the potential benefits of establishing an organizational structure to host the Faculty’s various activities in media and cultural studies, and the goal is to supplement and enhance this existing work by increasing its visibility on campus. We’ll be meeting with UVic faculty, staff, and students throughout the year, and I’m very much looking forward to seeing what we ultimately recommend.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Prototyping as Inquiry](#prototyping-as-inquiry)
+&lt;h1 id=&quot;now-an-associate-professor&quot;&gt;&lt;a href=&quot;#now-an-associate-professor&quot;&gt;Now an Associate Professor&lt;/a&gt;&lt;/h1&gt;
 
-*8 June 2015* 
+&lt;p&gt;&lt;em&gt;20 February 2017&lt;/em&gt;&lt;/p&gt;
 
-Union College in Schenectady hosted the eighth symposium on [Engineering and Liberal Education](https://web.archive.org/web/20150717134802/https://muse.union.edu/ele-symposium/) on June 5th and 6th. I had the honor of giving a plenary at the event on the topic of [prototyping as inquiry](/archive/talks/union), and Hod Lipson gave the keynote. Many thanks to Christine Henseler for inviting me to Union's scenic campus. I enjoyed speaking with faculty, staff, and students both there and at Rensselaer Polytechnic Institute about prototyping's potential in liberal education. I also spent a few days in the Adirondacks, on beautiful Lake Saranac. 
+&lt;p&gt;The University of Victoria awarded me tenure with promotion this term. I’m now an associate professor of English, and I’m thrilled. Relieved, in fact. Many thanks to my family for their unwavering support along the way, to my department, and to everyone who reviewed and processed my dossier.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [The Pedagogy of Prototyping](#the-pedagogy-of-prototyping)
+&lt;h1 id=&quot;prototyping-pedagogy&quot;&gt;&lt;a href=&quot;#prototyping-pedagogy&quot;&gt;Prototyping Pedagogy&lt;/a&gt;&lt;/h1&gt;
 
-*25 April 2015* 
+&lt;p&gt;&lt;em&gt;5 December 2016&lt;/em&gt;&lt;/p&gt;
 
-Thanks to Michael Widner and Amir Eshel for inviting me to speak at [Stanford](https://dlcl.stanford.edu/events/prototyping-and-pedagogy-humanities) to the Division of Literatures, Cultures, and Languages' Digital Humanities Focal Group. The title of my talk was [&quot;Prototyping and Pedagogy in the Humanities&quot;](/archive/talks/stanford/). It featured an array of undergraduate and graduate research here at UVic, with some remarks about digital studies courses I've designed and taught since 2009. This was my first visit to Stanford, and while there I did some archival work in the [Ampex collection](https://searchworks.stanford.edu/view/4688789). 
+&lt;p&gt;I visited Concordia University in beautiful Montreal this weekend to give a keynote on sound and pedagogy at the &lt;a href=&quot;https://spokenweb.ca/symposia/#/literary-audio-symposium&quot;&gt;Literary Audio Symposium&lt;/a&gt;. I titled the talk, &lt;a href=&quot;archive/talks/concordia/&quot;&gt;“Prototyping Pedagogy,”&lt;/a&gt; and Tanya Clement, Al Filreis, Jonathan Sterne, and David Seubert also gave &lt;a href=&quot;archive/talks/concordia/litaud.jpg&quot;&gt;keynotes&lt;/a&gt;. Thanks to everyone at Concordia for hosting me. I look forward to seeing what Jason Camlot and the SpokenWeb team do next as part of this truly inventive project.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Executable Culture](#executable-culture)
+&lt;h1 id=&quot;two-more-years-of-mlab-activities&quot;&gt;&lt;a href=&quot;#two-more-years-of-mlab-activities&quot;&gt;Two More Years of MLab Activities&lt;/a&gt;&lt;/h1&gt;
 
-*12 April 2015* 
+&lt;p&gt;&lt;em&gt;7 November 2016&lt;/em&gt;&lt;/p&gt;
 
-I was fortunate to give the keynote at Waterloo's Experimental Digital Media (XDM) annual exhibition and symposium this year, the theme for which was [&quot;Feedback, Fedback, Feedforward&quot;](/archive/talks/waterloo/waterloo.jpg). My talk was about [&quot;Executable Culture and Arguments with Objects&quot;](archive/talks/waterloo/). After it, I spoke with Adam Cilevitz, Paisley Cozzarin, Shawn DeSouza-Coelho, Rob Parker, Sophia Pelka, Matthew Schwager, and Stephen Trothen about their fantastic XDM research. Thanks a bunch to Beth Coleman, Marcel O'Gorman, and everyone at the [Critical Media Lab](http://criticalmedia.uwaterloo.ca/crimelab/) for inviting and hosting me. The CML is doing some of the sharpest work I've seen in Canadian media studies.  
+&lt;p&gt;Teddie Brock and the MLab team just published a &lt;a href=&quot;https://maker.uvic.ca/twoyears2/&quot;&gt;review of all the Lab’s activities since October 2014&lt;/a&gt;. This is our second two-year review, and it includes details and images for months through August 2016. There’s a slew of links you can follow to learn more about our various projects. Congrats to everyone in the Lab for all their achievements these last two years. It’s incredible.&lt;/p&gt;
 
-*** 
+&lt;hr /&gt;
 
-# [Co-directing the Digital Fabrication Lab](#co-directing-the-digital-fabrication-lab)
+&lt;h1 id=&quot;neh-odh-grant-for-3d-printing-and-humanistic-inquiry&quot;&gt;&lt;a href=&quot;#neh-odh-grant-for-3d-printing-and-humanistic-inquiry&quot;&gt;NEH-ODH Grant for 3D Printing and Humanistic Inquiry&lt;/a&gt;&lt;/h1&gt;
 
-*1 April 2015*
+&lt;p&gt;&lt;em&gt;2 June 2016&lt;/em&gt;&lt;/p&gt;
 
-The Departments of English and Visual Arts at UVic are pleased to announce the new [Digital Fabrication Lab](https://www.uvic.ca/finearts/visualarts/facilities/dfl/index.php). Located in the Visual Arts building, the DFL represents an historic, first-of-its-kind partnership between the Humanities and Fine Arts. It features an array of machinery, including a laser cutter, CNC miller, CNC router, structured-light 3D scanner, and 3D printer. I will be co-directing the DFL with [Paul Walde](http://paulwalde.com/), and the MLab will integrate it with our ongoing [fabrication research](https://maker.uvic.ca/fab/).  
+&lt;p&gt;Congratulations to James W. Malazita and Dean Nieusma at Rensselaer Polytechnic Institute on receiving support for &lt;a href=&quot;https://securegrants.neh.gov/publicquery/main.aspx?f=1&amp;amp;gn=HD-248450-16&quot;&gt;“3D Printing as Humanistic Inquiry”&lt;/a&gt; from the National Endowment for the Humanities, Office of the Digital Humanities. I’m delighted to be a collaborator on this one-year project. Many thanks to Jim and Dean for thinking of me.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Goodbye, &quot;Hello World&quot;](#goodbye-hello-world)
+&lt;h1 id=&quot;critical-design-deviant-critique&quot;&gt;&lt;a href=&quot;#critical-design-deviant-critique&quot;&gt;Critical Design, Deviant Critique&lt;/a&gt;&lt;/h1&gt;
 
-*23 March 2015* 
+&lt;p&gt;&lt;em&gt;15 May 2016&lt;/em&gt;&lt;/p&gt;
 
-The MLab facilitated its final [&quot;Hello World&quot;](https://maker.uvic.ca/hello/) workshop today. The series has been a blast since day one. We started it back in 2012 and thoroughly enjoyed each event, having hosted Ed Chang, Tanya Clement, Matt Huculak, merritt k, Bethany Nowviskie, and, most recently, [Garnet Hertz](https://maker.uvic.ca/hertzphotos/), on topics ranging from distant listening, Neatline, and Juxta to Twine, game studies, and critical making. Many thanks to everyone who participated. This series helped to build an important, positive force culture among students, staff, and faculty. 
+&lt;p&gt;Arizona State University hosted a wonderful &lt;a href=&quot;https://hastac2016.sched.org/event/6Dua/critical-design-deviant-critique&quot;&gt;HASTAC 2016 conference&lt;/a&gt;. Kim Knight, Padmini Ray Murray, Jacqueline Wernimont, and I discussed the relationship between design and critique–or &lt;a href=&quot;https://maker.uvic.ca/hastac16/&quot;&gt;“critical design and deviant critique”&lt;/a&gt;–in a humanities context. I engaged six particular angles on design during my portion of the discussion: design 1) as an attribution practice, 2) as inquiry, 3) for experience, 4) for responsibility, 5) in-use, and 6) for diffraction. With material from the talk, I produced a resource titled, &lt;a href=&quot;/criticaldesign&quot;&gt;“Critical Design”&lt;/a&gt;, which briefly describes each of these angles and their motivations. Many thanks to Kim, Padmini, and Jacque for presenting with me. It was a lively panel with an engaging Q&amp;amp;A session.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Human-Machine Vision](#human-machine-vision)
+&lt;h1 id=&quot;early-magnetic-recording&quot;&gt;&lt;a href=&quot;#early-magnetic-recording&quot;&gt;Early Magnetic Recording&lt;/a&gt;&lt;/h1&gt;
 
-*15 March 2015*
+&lt;p&gt;&lt;em&gt;22 April 2016&lt;/em&gt;&lt;/p&gt;
 
-Last week, I was a guest instructor at the University of Minnesota during their annual [&quot;Architecture as Catalyst&quot;](/catalyst) series. This year's Catalyst theme was &quot;Façade,&quot; and I was joined by several other guest instructors: Leah Beuchley, Doris Kim Sung, Hideyuki Nakayama, Omar Gandhi, and Ian Harris. Each of us also gave a talk while we were there. The College of Design recorded them all and made a [playlist](https://www.youtube.com/playlist?list=PLvEWoWCaNBWzzkh8JH67okdlZZAlda1zC). The title of my talk was &quot;Human-Machine Vision: A Post-Cinematic Approach.&quot; It surveyed the various roles computer vision plays in arts and humanities research, including some work done in the [MLab](/mlab). Many thanks to Andrea Johnson for not only inviting me to Minnesota but also teaching a [Catalyst course](/catalyst) with me. 
+&lt;p&gt;Thanks to Rich Rath and David Golberg for inviting me to give a couple of talks at the &lt;a href=&quot;https://manoa.hawaii.edu/history/digi-ah-presents-dr-jentery-sayers-university-of-victoria/&quot;&gt;University of Hawaiʻi at Mānoa&lt;/a&gt; this month as part of the Dai Ho Chun Distinguished Lecturer series. It was an incredible honor. One of my talks was on &lt;a href=&quot;/archive/talks/hawaii/magRecordingTalk/&quot;&gt;early magnetic recording&lt;/a&gt;, and while I was in Honolulu I appeared on KHPR 88.1 FM Hawaiʻi public radio with Burt Lum and Ryan Ozawa (Bytemarks Cafe), Ken DeHoff and Burl Burlingame (Pacific Aviation Museum), and Richard Wainscoat, Eugene Magnier, and Larry Denneau (Institute for Astronomy) to talk about restoring and remaking old tech. You can listen to a recording of our conversation (about 60 minutes) over at &lt;a href=&quot;https://bytemarkscafe.org/2016/04/20/episode-399-pan-starrs-april-20-2016/&quot;&gt;Bytemark Cafe’s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;remaking-old-media&quot;&gt;&lt;a href=&quot;#remaking-old-media&quot;&gt;Remaking Old Media&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;6 April 2016&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I visited the Center for Digital Scholarship and Curation (CDSC) at Washington State University this week. Many thanks to Kim Christen, Michael Wynne, and Trevor Bond for hosting me. While I was there I gave a talk titled, &lt;a href=&quot;https://www.youtube.com/watch?v=ttPUUFf9Pv4&quot;&gt;“Remaking Old Media across the Disciplines”&lt;/a&gt;. Given the importance of historical particulars to this research, not to mention my proclivity for tangents, I decided to read a paper with slides for this one. The video includes my slides as well as the Q&amp;amp;A session.&lt;/p&gt;
+
+&lt;p&gt;I enjoyed returning to WSU, which I first visited in 2009 to attend a THATCamp. Thanks again, Kim, Michael, and Trevor. The CDSC is doing brilliant work at the intersection of technologies, ethics, and social empowerment.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;prototyping-as-composition&quot;&gt;&lt;a href=&quot;#prototyping-as-composition&quot;&gt;Prototyping as Composition&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;7 March 2016&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;After my talk at &lt;a href=&quot;#prototyping-absence&quot;&gt;Cornell&lt;/a&gt;, I traveled to Syracuse University to not only speak about the overlaps of &lt;a href=&quot;archive/talks/syracuse/&quot;&gt;prototyping with writing studies&lt;/a&gt; but also conduct a Scalar workshop for students. I had a chance as well to visit the awe-inspiring &lt;a href=&quot;https://library.syr.edu/scrc/collections/preservation/belfer-lab.php&quot;&gt;Belfer Audio Laboratory and Archive&lt;/a&gt;. Many thanks to Patrick Berry, Collin Brooke, Patrick Williams, and Jason Markins for hosting me, and to Jenny Doctor for giving me a tour of the Belfer Lab and Archive. Here’s my abstract for the “Prototyping as Composition” talk:&lt;/p&gt;
+
+&lt;p&gt;“Across the humanities, art, design, engineering, as well as numerous memory institutions, researchers are giving digital fabrication techniques such as 3-D printing significant attention. In response, this talk examines the affordances of fabrication for scholarly communication, with particular attention to rapid prototyping, or the iterative production of abstract models in tactile form, as a compositional strategy. Against the grain of the techno-evangelism and hype often witnessed in maker cultures, I outline the relationships between writing academic essays and producing tactile objects with computer numerical control (CNC) machines such as laser cutters, millers, spindles, and printers. Instead of suggesting that writing is somehow secondary to the primary experience of making things, I underscore how prototyping is intricately entangled with archival research and the writing that emerges through that research.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;prototyping-absence&quot;&gt;&lt;a href=&quot;#prototyping-absence&quot;&gt;Prototyping Absence&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;6 March 2016&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last week I had the honor of giving a talk on &lt;a href=&quot;https://events.cornell.edu/event/jentery_sayers_prototyping_absence_remaking_old_media&quot;&gt;“Prototyping Absence”&lt;/a&gt; at the Society for the Humanities at Cornell University. Many thanks to Tim Murray for inviting and hosting me. It was beyond humbling to be in the &lt;a href=&quot;https://societyhumanities.as.cornell.edu/ad-white-house&quot;&gt;A.D. White House&lt;/a&gt; to discuss my research with scholars there. Here’s my abstract for the talk:&lt;/p&gt;
+
+&lt;p&gt;“When conducting archival research, historians of media and technology frequently encounter devices that no longer work or existed only as illustrations, fictions, or one-offs. Rather than studying such uncertainty at a remove, this talk outlines ways to prototype absences in the historical record. It draws from examples of remaking old media to demonstrate how prototyping the past affords unique approaches to examining the contingent relations between matter and meaning, without fetishizing exact reproductions of historical artifacts.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;2015-ach-elections&quot;&gt;&lt;a href=&quot;#2015-ach-elections&quot;&gt;2015 ACH Elections&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;20 November 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://ach.org/blog/2015/11/20/candidate-statements/&quot;&gt;Association for Computers and the Humanities&lt;/a&gt; recently nominated me to serve on its executive council for three years. ACH members have until Thursday, December 10th to vote. As a council member, I would stress the importance of pedagogy, interdisciplinary collaboration, social justice initiatives, and mentoring programs for early career practitioners. I also think laboratory- and library-based learning are fundamental to the histories and trajectories of digital humanities, and I would encourage more ACH activities involving the arts and experimental media.&lt;/p&gt;
+
+&lt;p&gt;I’m among inimitable company on the ballot: Laura Mandell, Lauren Klein, Jean Bauer, Kalani Craig, Amanda Visconti, Micki Kaufman, Jim McGrath, Scott Weingart, and Francesco Levato. Voting for any of these nominees is a win for the ACH.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;between-english-and-visual-arts&quot;&gt;&lt;a href=&quot;#between-english-and-visual-arts&quot;&gt;Between English and Visual Arts&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;29 June 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The British Columbia Library Association held its &lt;a href=&quot;https://bclaconnect.ca/2015-conference/?page_id=341&quot;&gt;2015 conference&lt;/a&gt; in May, and I had the privilege of giving a talk on the design, development, and maintenance of UVic’s Digital Fabrication Lab. The title was &lt;a href=&quot;/archive/talks/bclibrary/&quot;&gt;“Between English and Visual Arts”&lt;/a&gt;, and I wrote a related MLab piece on the &lt;a href=&quot;https://maker.uvic.ca/bclib15/&quot;&gt;infrastructural disposition&lt;/a&gt; of lab work across the humanities and fine arts. Thanks to Anne Olsen and Erin Fields for the invitation, and to Springer for sponsoring the session.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;prototyping-as-inquiry&quot;&gt;&lt;a href=&quot;#prototyping-as-inquiry&quot;&gt;Prototyping as Inquiry&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;8 June 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Union College in Schenectady hosted the eighth symposium on &lt;a href=&quot;https://web.archive.org/web/20150717134802/https://muse.union.edu/ele-symposium/&quot;&gt;Engineering and Liberal Education&lt;/a&gt; on June 5th and 6th. I had the honor of giving a plenary at the event on the topic of &lt;a href=&quot;/archive/talks/union&quot;&gt;prototyping as inquiry&lt;/a&gt;, and Hod Lipson gave the keynote. Many thanks to Christine Henseler for inviting me to Union’s scenic campus. I enjoyed speaking with faculty, staff, and students both there and at Rensselaer Polytechnic Institute about prototyping’s potential in liberal education. I also spent a few days in the Adirondacks, on beautiful Lake Saranac.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;the-pedagogy-of-prototyping&quot;&gt;&lt;a href=&quot;#the-pedagogy-of-prototyping&quot;&gt;The Pedagogy of Prototyping&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;25 April 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Thanks to Michael Widner and Amir Eshel for inviting me to speak at &lt;a href=&quot;https://dlcl.stanford.edu/events/prototyping-and-pedagogy-humanities&quot;&gt;Stanford&lt;/a&gt; to the Division of Literatures, Cultures, and Languages’ Digital Humanities Focal Group. The title of my talk was &lt;a href=&quot;/archive/talks/stanford/&quot;&gt;“Prototyping and Pedagogy in the Humanities”&lt;/a&gt;. It featured an array of undergraduate and graduate research here at UVic, with some remarks about digital studies courses I’ve designed and taught since 2009. This was my first visit to Stanford, and while there I did some archival work in the &lt;a href=&quot;https://searchworks.stanford.edu/view/4688789&quot;&gt;Ampex collection&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;executable-culture&quot;&gt;&lt;a href=&quot;#executable-culture&quot;&gt;Executable Culture&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;12 April 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I was fortunate to give the keynote at Waterloo’s Experimental Digital Media (XDM) annual exhibition and symposium this year, the theme for which was &lt;a href=&quot;/archive/talks/waterloo/waterloo.jpg&quot;&gt;“Feedback, Fedback, Feedforward”&lt;/a&gt;. My talk was about &lt;a href=&quot;archive/talks/waterloo/&quot;&gt;“Executable Culture and Arguments with Objects”&lt;/a&gt;. After it, I spoke with Adam Cilevitz, Paisley Cozzarin, Shawn DeSouza-Coelho, Rob Parker, Sophia Pelka, Matthew Schwager, and Stephen Trothen about their fantastic XDM research. Thanks a bunch to Beth Coleman, Marcel O’Gorman, and everyone at the &lt;a href=&quot;http://criticalmedia.uwaterloo.ca/crimelab/&quot;&gt;Critical Media Lab&lt;/a&gt; for inviting and hosting me. The CML is doing some of the sharpest work I’ve seen in Canadian media studies.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;co-directing-the-digital-fabrication-lab&quot;&gt;&lt;a href=&quot;#co-directing-the-digital-fabrication-lab&quot;&gt;Co-directing the Digital Fabrication Lab&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;1 April 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The Departments of English and Visual Arts at UVic are pleased to announce the new &lt;a href=&quot;https://www.uvic.ca/finearts/visualarts/facilities/dfl/index.php&quot;&gt;Digital Fabrication Lab&lt;/a&gt;. Located in the Visual Arts building, the DFL represents an historic, first-of-its-kind partnership between the Humanities and Fine Arts. It features an array of machinery, including a laser cutter, CNC miller, CNC router, structured-light 3D scanner, and 3D printer. I will be co-directing the DFL with &lt;a href=&quot;http://paulwalde.com/&quot;&gt;Paul Walde&lt;/a&gt;, and the MLab will integrate it with our ongoing &lt;a href=&quot;https://maker.uvic.ca/fab/&quot;&gt;fabrication research&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;goodbye-hello-world&quot;&gt;&lt;a href=&quot;#goodbye-hello-world&quot;&gt;Goodbye, “Hello World”&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;23 March 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The MLab facilitated its final &lt;a href=&quot;https://maker.uvic.ca/hello/&quot;&gt;“Hello World”&lt;/a&gt; workshop today. The series has been a blast since day one. We started it back in 2012 and thoroughly enjoyed each event, having hosted Ed Chang, Tanya Clement, Matt Huculak, merritt k, Bethany Nowviskie, and, most recently, &lt;a href=&quot;https://maker.uvic.ca/hertzphotos/&quot;&gt;Garnet Hertz&lt;/a&gt;, on topics ranging from distant listening, Neatline, and Juxta to Twine, game studies, and critical making. Many thanks to everyone who participated. This series helped to build an important, positive force culture among students, staff, and faculty.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;human-machine-vision&quot;&gt;&lt;a href=&quot;#human-machine-vision&quot;&gt;Human-Machine Vision&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;15 March 2015&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Last week, I was a guest instructor at the University of Minnesota during their annual &lt;a href=&quot;/catalyst&quot;&gt;“Architecture as Catalyst”&lt;/a&gt; series. This year’s Catalyst theme was “Façade,” and I was joined by several other guest instructors: Leah Beuchley, Doris Kim Sung, Hideyuki Nakayama, Omar Gandhi, and Ian Harris. Each of us also gave a talk while we were there. The College of Design recorded them all and made a &lt;a href=&quot;https://www.youtube.com/playlist?list=PLvEWoWCaNBWzzkh8JH67okdlZZAlda1zC&quot;&gt;playlist&lt;/a&gt;. The title of my talk was “Human-Machine Vision: A Post-Cinematic Approach.” It surveyed the various roles computer vision plays in arts and humanities research, including some work done in the &lt;a href=&quot;/mlab&quot;&gt;MLab&lt;/a&gt;. Many thanks to Andrea Johnson for not only inviting me to Minnesota but also teaching a &lt;a href=&quot;/catalyst&quot;&gt;Catalyst course&lt;/a&gt; with me.&lt;/p&gt;
 
 &lt;!-- ***
 
@@ -4479,203 +4786,204 @@ archive/talks/southcarolina
 
 Lorem ipsum dolor sit amet, an sed modo veri epicuri, tamquam recusabo mnesarchum ea ius. Mei no utamur saperet delicatissimi, ea modo partem vidisse est, sed nullam feugiat salutandi eu. Eu mel everti copiosae. In pri mundi docendi praesent. Vis idque indoctum id, vel malorum habemus ei, id quo wisi gloriatur. Ei eos quot tation. Aeterno concludaturque quo id. Assum eripuit admodum ne per, at zril libris mel, possim mollis persius ea pro. Mandamus hendrerit sea no, choro postulant salutatus vix eu. --&gt;
 
-***
+&lt;hr /&gt;
 
-# [Transduction Literacies](#transduction-literacies)
+&lt;h1 id=&quot;transduction-literacies&quot;&gt;&lt;a href=&quot;#transduction-literacies&quot;&gt;Transduction Literacies&lt;/a&gt;&lt;/h1&gt;
 
-*10 January 2015* 
+&lt;p&gt;&lt;em&gt;10 January 2015&lt;/em&gt;&lt;/p&gt;
 
-My talk at this year's MLA convention in Vancouver was part of the [&quot;Making Writing in Third Spaces&quot;](https://apps.mla.org/conv_listings_detail?prog_id=490&amp;year=2015) panel. I drew upon work by Nina Belojevic, Matthew Fuller, Virginia Kuhn,  David Rieder, Cynthia Selfe, Jody Shipka, Annette Vee, and Victor Vitanza to unpack the notion of [&quot;transduction literacies&quot;](/archive/talks/mla15/) premised on tacit knowledge, the experiences of trial and error, an awareness of procedure (how this becomes that), and attention to mediation over media. Thanks to Bonnie Lenore Kyburz for organizing the session, and to Laurie Gries, Brian Harmon, and Byron Hawk for presenting with me. It was a fascinating discussion. 
+&lt;p&gt;My talk at this year’s MLA convention in Vancouver was part of the &lt;a href=&quot;https://apps.mla.org/conv_listings_detail?prog_id=490&amp;amp;year=2015&quot;&gt;“Making Writing in Third Spaces”&lt;/a&gt; panel. I drew upon work by Nina Belojevic, Matthew Fuller, Virginia Kuhn,  David Rieder, Cynthia Selfe, Jody Shipka, Annette Vee, and Victor Vitanza to unpack the notion of &lt;a href=&quot;/archive/talks/mla15/&quot;&gt;“transduction literacies”&lt;/a&gt; premised on tacit knowledge, the experiences of trial and error, an awareness of procedure (how this becomes that), and attention to mediation over media. Thanks to Bonnie Lenore Kyburz for organizing the session, and to Laurie Gries, Brian Harmon, and Byron Hawk for presenting with me. It was a fascinating discussion.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Two Years of MLab Activities](#two-years-of-mlab-activities)
+&lt;h1 id=&quot;two-years-of-mlab-activities&quot;&gt;&lt;a href=&quot;#two-years-of-mlab-activities&quot;&gt;Two Years of MLab Activities&lt;/a&gt;&lt;/h1&gt;
 
-*9 October 2014* 
+&lt;p&gt;&lt;em&gt;9 October 2014&lt;/em&gt;&lt;/p&gt;
 
-Shaun Macpherson and the MLab team just published our [first review of the Lab's activities](https://maker.uvic.ca/twoyears/). It dates back to September 2012, with images and links for every month through September 2014. Thanks for giving it a read! I'm so impressed by everything the MLab's researchers achieved during this brief period. 
+&lt;p&gt;Shaun Macpherson and the MLab team just published our &lt;a href=&quot;https://maker.uvic.ca/twoyears/&quot;&gt;first review of the Lab’s activities&lt;/a&gt;. It dates back to September 2012, with images and links for every month through September 2014. Thanks for giving it a read! I’m so impressed by everything the MLab’s researchers achieved during this brief period.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Data, Social Justice, and the Humanities](#data-social-justice-and-the-humanities)
+&lt;h1 id=&quot;data-social-justice-and-the-humanities&quot;&gt;&lt;a href=&quot;#data-social-justice-and-the-humanities&quot;&gt;Data, Social Justice, and the Humanities&lt;/a&gt;&lt;/h1&gt;
 
-*6 October 2014*
+&lt;p&gt;&lt;em&gt;6 October 2014&lt;/em&gt;&lt;/p&gt;
 
-On Friday, I presented during the [&quot;Data, Social Justice, and the Humanities&quot;](https://web.archive.org/web/20140920141947/https://www.lsa.umich.edu/humanities/events/digitalcurrents/ci.datasocialjusticeandthehumanitiesconferencefri3oct2014_ci.detail) event at the University of Michigan. This one-day conference explored the implications of gathering and analyzing digital data for humanities scholarship in light of social justice imperatives. Activism, archiving, and representation served as interpretive lenses to focus discussion. My talk addressed the Internet of Things (IoT) through the perspectives of digital labor and computational culture. Here are my [slides](/archive/talks/michigan14/). 
+&lt;p&gt;On Friday, I presented during the &lt;a href=&quot;https://web.archive.org/web/20140920141947/https://www.lsa.umich.edu/humanities/events/digitalcurrents/ci.datasocialjusticeandthehumanitiesconferencefri3oct2014_ci.detail&quot;&gt;“Data, Social Justice, and the Humanities”&lt;/a&gt; event at the University of Michigan. This one-day conference explored the implications of gathering and analyzing digital data for humanities scholarship in light of social justice imperatives. Activism, archiving, and representation served as interpretive lenses to focus discussion. My talk addressed the Internet of Things (IoT) through the perspectives of digital labor and computational culture. Here are my &lt;a href=&quot;/archive/talks/michigan14/&quot;&gt;slides&lt;/a&gt;.&lt;/p&gt;
 
-Many thanks to Moya Bailey, Jessie Daniels, Jacqueline Wernimont, Michelle Habell-Pallán, Sonnet Retman, Alexandra Minna Stern, Maria Cotera, Michelle Caswell, and Simone Browne for their talks, and to Sidonie Smith, Doretha Coval, Patrick Tonks, Lisa Nakamura, David A. Wallace, Paul Conway, the Institute for the Humanities, and the School of Information at the University of Michigan for their collective role in making the conference happen. &quot;Data, Social Justice, and the Humanities&quot; ([#DSJandH](https://twitter.com/search?f=realtime&amp;q=%23dsjandh&amp;src=typd) on Twitter) was a fantastic event, among the best conferences I've attended. Here's to many more like it in the near future.
+&lt;p&gt;Many thanks to Moya Bailey, Jessie Daniels, Jacqueline Wernimont, Michelle Habell-Pallán, Sonnet Retman, Alexandra Minna Stern, Maria Cotera, Michelle Caswell, and Simone Browne for their talks, and to Sidonie Smith, Doretha Coval, Patrick Tonks, Lisa Nakamura, David A. Wallace, Paul Conway, the Institute for the Humanities, and the School of Information at the University of Michigan for their collective role in making the conference happen. “Data, Social Justice, and the Humanities” (&lt;a href=&quot;https://twitter.com/search?f=realtime&amp;amp;q=%23dsjandh&amp;amp;src=typd&quot;&gt;#DSJandH&lt;/a&gt; on Twitter) was a fantastic event, among the best conferences I’ve attended. Here’s to many more like it in the near future.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [SSHRC Grant for Linked Modernisms](#sshrc-grant-for-linked-modernisms)
+&lt;h1 id=&quot;sshrc-grant-for-linked-modernisms&quot;&gt;&lt;a href=&quot;#sshrc-grant-for-linked-modernisms&quot;&gt;SSHRC Grant for Linked Modernisms&lt;/a&gt;&lt;/h1&gt;
 
-*2 September 2014* 
+&lt;p&gt;&lt;em&gt;2 September 2014&lt;/em&gt;&lt;/p&gt;
 
-Congrats again to my colleague, Stephen Ross, who received a SSHRC Insight Grant for &quot;Linked Modernisms.&quot; The grant will support the development of a web-based visualization and analysis portal for *The Routledge Encyclopedia of Modernism*. I'll be collaborating with Stephen and other UVic researchers on this one, particularly around the challenge of building a custom ontology for All. The. Modernisms. Seems easy enough, Casaubon?  
+&lt;p&gt;Congrats again to my colleague, Stephen Ross, who received a SSHRC Insight Grant for “Linked Modernisms.” The grant will support the development of a web-based visualization and analysis portal for &lt;em&gt;The Routledge Encyclopedia of Modernism&lt;/em&gt;. I’ll be collaborating with Stephen and other UVic researchers on this one, particularly around the challenge of building a custom ontology for All. The. Modernisms. Seems easy enough, Casaubon?&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [BCKDF Grant for a Humanities Makerspace](#bckdf-grant-for-a-humanities-makerspace)
+&lt;h1 id=&quot;bckdf-grant-for-a-humanities-makerspace&quot;&gt;&lt;a href=&quot;#bckdf-grant-for-a-humanities-makerspace&quot;&gt;BCKDF Grant for a Humanities Makerspace&lt;/a&gt;&lt;/h1&gt;
 
-*22 May 2014*
+&lt;p&gt;&lt;em&gt;22 May 2014&lt;/em&gt;&lt;/p&gt;
 
-I'm thrilled to say the [Maker Lab](https://maker.uvic.ca/bckdf/) received support from the British Columbia Knowledge Development Fund (BCKDF) for &quot;The Makerspace for Desktop Fabrication and Physical Computing in the Humanities.&quot; The BCKDF helps post-secondary institutions, teaching hospitals, and affiliated non-profit research agencies to invest in research infrastructure.
+&lt;p&gt;I’m thrilled to say the &lt;a href=&quot;https://maker.uvic.ca/bckdf/&quot;&gt;Maker Lab&lt;/a&gt; received support from the British Columbia Knowledge Development Fund (BCKDF) for “The Makerspace for Desktop Fabrication and Physical Computing in the Humanities.” The BCKDF helps post-secondary institutions, teaching hospitals, and affiliated non-profit research agencies to invest in research infrastructure.&lt;/p&gt;
 
-With this grant, the MLab aims to: 1) provide equipment that's currently unavailable to UVic humanities researchers, 2) augment and diversify the Lab’s existing infrastructure, 3) attract researchers in desktop fabrication and physical computing, 4) maintain a humanities makerspace at UVic, 5) foster experimental media and critical digital literacy, 6) break new ground in humanities lab practices, 7) grow the fabrication and physical computing industries through humanities research, and 8) allow the Lab to better engage and inform the public while increasing its opportunities to publish and share its findings.
+&lt;p&gt;With this grant, the MLab aims to: 1) provide equipment that’s currently unavailable to UVic humanities researchers, 2) augment and diversify the Lab’s existing infrastructure, 3) attract researchers in desktop fabrication and physical computing, 4) maintain a humanities makerspace at UVic, 5) foster experimental media and critical digital literacy, 6) break new ground in humanities lab practices, 7) grow the fabrication and physical computing industries through humanities research, and 8) allow the Lab to better engage and inform the public while increasing its opportunities to publish and share its findings.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [UA/AU Features the MLab](#uaau-features-the-mlab)
+&lt;h1 id=&quot;uaau-features-the-mlab&quot;&gt;&lt;a href=&quot;#uaau-features-the-mlab&quot;&gt;UA/AU Features the MLab&lt;/a&gt;&lt;/h1&gt;
 
-*10 April 2014* 
+&lt;p&gt;&lt;em&gt;10 April 2014&lt;/em&gt;&lt;/p&gt;
 
-The MLab appears in *University Affairs / Affaires universitaires* today, in a piece by Cassandra Hendry titled, [&quot;Exploring the Humanities through Unique Makerspaces&quot;](https://www.universityaffairs.ca/news/news-article/exploring-the-humanities-through-unique-makerspaces/). Hendry writes, &quot;Circuit boards, screwdrivers and 3D printers aren't typically found in a university’s humanities faculty, but the University of Victoria’s Maker Lab in the Humanities is no ordinary place. Opened in 2012, the Maker Lab follows the recent trend of 'makerspaces' – collaborative, community-based workshops stocked with tools and materials for people to experiment with and create new things. But, what sets the UVic lab apart is blending this 'makerspace ethos' with the humanities.&quot; 
+&lt;p&gt;The MLab appears in &lt;em&gt;University Affairs / Affaires universitaires&lt;/em&gt; today, in a piece by Cassandra Hendry titled, &lt;a href=&quot;https://www.universityaffairs.ca/news/news-article/exploring-the-humanities-through-unique-makerspaces/&quot;&gt;“Exploring the Humanities through Unique Makerspaces”&lt;/a&gt;. Hendry writes, “Circuit boards, screwdrivers and 3D printers aren’t typically found in a university’s humanities faculty, but the University of Victoria’s Maker Lab in the Humanities is no ordinary place. Opened in 2012, the Maker Lab follows the recent trend of ‘makerspaces’ – collaborative, community-based workshops stocked with tools and materials for people to experiment with and create new things. But, what sets the UVic lab apart is blending this ‘makerspace ethos’ with the humanities.”&lt;/p&gt;
 
-All of us at the MLab would like to thank Hendry for taking the time to learn about our research, and for addressing lab spaces and research infrastructures as cultural issues. 
+&lt;p&gt;All of us at the MLab would like to thank Hendry for taking the time to learn about our research, and for addressing lab spaces and research infrastructures as cultural issues.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [CFI/FCI Grant for a Humanities Makerspace](#cfifci-grant-for-a-humanities-makerspace)
+&lt;h1 id=&quot;cfifci-grant-for-a-humanities-makerspace&quot;&gt;&lt;a href=&quot;#cfifci-grant-for-a-humanities-makerspace&quot;&gt;CFI/FCI Grant for a Humanities Makerspace&lt;/a&gt;&lt;/h1&gt;
 
-*11 March 2014*
+&lt;p&gt;&lt;em&gt;11 March 2014&lt;/em&gt;&lt;/p&gt;
 
-I'm very happy to announce that the [Maker Lab](https://maker.uvic.ca/cfi/) received support from the Canada Foundation for Innovation (CFI) / Fondation canadienne pour l’innovation (FCI) John R. Evans Leaders Fund for &quot;The Makerspace for Desktop Fabrication and Physical Computing in the Humanities.&quot; This grant will provide the MLab with the infrastructure to scan, model, prototype, fabricate, customize, network, and share three-dimensional objects across digital and analog environments. 
+&lt;p&gt;I’m very happy to announce that the &lt;a href=&quot;https://maker.uvic.ca/cfi/&quot;&gt;Maker Lab&lt;/a&gt; received support from the Canada Foundation for Innovation (CFI) / Fondation canadienne pour l’innovation (FCI) John R. Evans Leaders Fund for “The Makerspace for Desktop Fabrication and Physical Computing in the Humanities.” This grant will provide the MLab with the infrastructure to scan, model, prototype, fabricate, customize, network, and share three-dimensional objects across digital and analog environments.&lt;/p&gt;
 
-With that infrastructure, the MLab aims to: 1) foster a new research environment in humanities physical computing and desktop fabrication; 2) articulate and share best practices for digitizing, modelling, manufacturing, and networking 3D objects in humanities contexts; 3) develop easy-to-adopt workflows for digitally delivering cultural materials in 3D; 4) train highly qualified personnel for collaborative fabrication and physical computing research in non-STEM fields; 5) extend the humanities through fabrication and physical computing research; 6) blend aesthetic and cultural innovations with technical innovations; and 7) actively contribute to Canada's digital economy by reducing waste and manufacturing costs, increasing awareness of new technologies, and deepening our popular understanding of fair and ethical uses of 3D modelling, fabrication, and interactive physical systems.
+&lt;p&gt;With that infrastructure, the MLab aims to: 1) foster a new research environment in humanities physical computing and desktop fabrication; 2) articulate and share best practices for digitizing, modelling, manufacturing, and networking 3D objects in humanities contexts; 3) develop easy-to-adopt workflows for digitally delivering cultural materials in 3D; 4) train highly qualified personnel for collaborative fabrication and physical computing research in non-STEM fields; 5) extend the humanities through fabrication and physical computing research; 6) blend aesthetic and cultural innovations with technical innovations; and 7) actively contribute to Canada’s digital economy by reducing waste and manufacturing costs, increasing awareness of new technologies, and deepening our popular understanding of fair and ethical uses of 3D modelling, fabrication, and interactive physical systems.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Now a Member of CSPT](#now-a-member-of-cspt)
+&lt;h1 id=&quot;now-a-member-of-cspt&quot;&gt;&lt;a href=&quot;#now-a-member-of-cspt&quot;&gt;Now a Member of CSPT&lt;/a&gt;&lt;/h1&gt;
 
-*17 February 2014* 
+&lt;p&gt;&lt;em&gt;17 February 2014&lt;/em&gt;&lt;/p&gt;
 
-This term, I was nominated to join UVic's [Cultural, Social, and Political Thought faculty](https://www.uvic.ca/interdisciplinary/cspt/), who have since approved my appointment. Thanks to CSPT director, Peyman Vahabzadeh (Sociology), for facilitating this process. I look forward to teaching CSPT courses and supporting the program's incredible students.  
+&lt;p&gt;This term, I was nominated to join UVic’s &lt;a href=&quot;https://www.uvic.ca/interdisciplinary/cspt/&quot;&gt;Cultural, Social, and Political Thought faculty&lt;/a&gt;, who have since approved my appointment. Thanks to CSPT director, Peyman Vahabzadeh (Sociology), for facilitating this process. I look forward to teaching CSPT courses and supporting the program’s incredible students.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [SSHRC Grant for Physical Computing, Fabrication, and Cultural History](#sshrc-grant-for-physical-computing-fabrication-and-cultural-history)
+&lt;h1 id=&quot;sshrc-grant-for-physical-computing-fabrication-and-cultural-history&quot;&gt;&lt;a href=&quot;#sshrc-grant-for-physical-computing-fabrication-and-cultural-history&quot;&gt;SSHRC Grant for Physical Computing, Fabrication, and Cultural History&lt;/a&gt;&lt;/h1&gt;
 
-*17 September 2013* 
+&lt;p&gt;&lt;em&gt;17 September 2013&lt;/em&gt;&lt;/p&gt;
 
-Wonderful news! Bill Turkel (Western University) and I were awarded a SSHRC Insight Grant to fund &quot;Humanities Physical Computing and Fabrication for Cultural History” for four years (2013-17). The [grant](https://maker.uvic.ca/insight/) will support a team of practitioners conducting physical computing and desktop fabrication research across the University of Victoria and Western University campuses. It will also allow us to acquire necessary supplies, present and publish our research, partner with like-minded scholars, and facilitate public events dedicated to collaborative experimentation with technologies and historical materials.
+&lt;p&gt;Wonderful news! Bill Turkel (Western University) and I were awarded a SSHRC Insight Grant to fund “Humanities Physical Computing and Fabrication for Cultural History” for four years (2013-17). The &lt;a href=&quot;https://maker.uvic.ca/insight/&quot;&gt;grant&lt;/a&gt; will support a team of practitioners conducting physical computing and desktop fabrication research across the University of Victoria and Western University campuses. It will also allow us to acquire necessary supplies, present and publish our research, partner with like-minded scholars, and facilitate public events dedicated to collaborative experimentation with technologies and historical materials.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [How to Lie with Computer Vision](#how-to-lie-with-computer-vision)
+&lt;h1 id=&quot;how-to-lie-with-computer-vision&quot;&gt;&lt;a href=&quot;#how-to-lie-with-computer-vision&quot;&gt;How to Lie with Computer Vision&lt;/a&gt;&lt;/h1&gt;
 
-*16 September 2013* 
+&lt;p&gt;&lt;em&gt;16 September 2013&lt;/em&gt;&lt;/p&gt;
 
-I had the pleasure of giving a keynote at the University of Kansas's [&quot;Return to the Material&quot;](https://idrh.ku.edu/dhforum2013) symposium this weekend. The title of my talk was [&quot;Fabrications, or How to Lie with Computer Vision&quot;](/archive/talks/kansas/keynote/). It was [recorded](https://www.youtube.com/watch?v=H4arwvdC7Z4). Whitney Trettien and Colin Allen gave keynotes as well, and all three of us offered workshops. Thanks to the inimitable Arienne Dwyer and Brian Rosenblum for inviting me. &quot;Return to the Material&quot; was a brilliant, timely, and engaging event. I hope we see more like it. 
+&lt;p&gt;I had the pleasure of giving a keynote at the University of Kansas’s &lt;a href=&quot;https://idrh.ku.edu/dhforum2013&quot;&gt;“Return to the Material”&lt;/a&gt; symposium this weekend. The title of my talk was &lt;a href=&quot;/archive/talks/kansas/keynote/&quot;&gt;“Fabrications, or How to Lie with Computer Vision”&lt;/a&gt;. It was &lt;a href=&quot;https://www.youtube.com/watch?v=H4arwvdC7Z4&quot;&gt;recorded&lt;/a&gt;. Whitney Trettien and Colin Allen gave keynotes as well, and all three of us offered workshops. Thanks to the inimitable Arienne Dwyer and Brian Rosenblum for inviting me. “Return to the Material” was a brilliant, timely, and engaging event. I hope we see more like it.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Working with Historical Audio](#working-with-historical-audio)
+&lt;h1 id=&quot;working-with-historical-audio&quot;&gt;&lt;a href=&quot;#working-with-historical-audio&quot;&gt;Working with Historical Audio&lt;/a&gt;&lt;/h1&gt;
 
-*3 August 2013* 
+&lt;p&gt;&lt;em&gt;3 August 2013&lt;/em&gt;&lt;/p&gt;
 
-This weekend, I was a plenary speaker at the [&quot;Editing Modernism On and Off the Page&quot;](https://fccs.ok.ubc.ca/2013/07/10/ubc-hosts-editing-modernism-on-and-off-the-page-summer-institute/) institute on UBC's beautiful Okanagan campus. My talk was about [&quot;Editing, Annotating, and Discovering Historical Audio.&quot;](/archive/talks/temic2013/) I drew heavily from material in my dissertation, and after the talk I was fortunate to hear George Bowering, Frank Davey, Daphne Marlatt, Fred Wah, and Sharon Thesen each read their own work. Many thanks to Karis Shearer for inviting me to UBCO. 
+&lt;p&gt;This weekend, I was a plenary speaker at the &lt;a href=&quot;https://fccs.ok.ubc.ca/2013/07/10/ubc-hosts-editing-modernism-on-and-off-the-page-summer-institute/&quot;&gt;“Editing Modernism On and Off the Page”&lt;/a&gt; institute on UBC’s beautiful Okanagan campus. My talk was about &lt;a href=&quot;/archive/talks/temic2013/&quot;&gt;“Editing, Annotating, and Discovering Historical Audio.”&lt;/a&gt; I drew heavily from material in my dissertation, and after the talk I was fortunate to hear George Bowering, Frank Davey, Daphne Marlatt, Fred Wah, and Sharon Thesen each read their own work. Many thanks to Karis Shearer for inviting me to UBCO.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [From 2D to 3D](#from-2d-to-3d)
+&lt;h1 id=&quot;from-2d-to-3d&quot;&gt;&lt;a href=&quot;#from-2d-to-3d&quot;&gt;From 2D to 3D&lt;/a&gt;&lt;/h1&gt;
 
-*22 July 2013* 
+&lt;p&gt;&lt;em&gt;22 July 2013&lt;/em&gt;&lt;/p&gt;
 
-The annual Digital Humanities conference was at the University of Nebraska-Lincoln this summer. Jeremy Boggs, Devon Elliot, and I conducted a [workshop](http://dh2013.unl.edu/abstracts/workshops-009.html) on desktop fabrication and then gave a [talk](http://dh2013.unl.edu/abstracts/ab-441.html) on the same topic, both around the theme of moving from 2D to 3D in humanities research. We published our [slides](/archive/talks/dh2013/madetomake/), and our [notes](/archive/talks/dh2013/) contain what we hope will be a useful bibliography for anyone with interests in fabrication, physical computing, and the humanities. Thank you, Jeremy and Devon, for collaborating with me on this work.   
+&lt;p&gt;The annual Digital Humanities conference was at the University of Nebraska-Lincoln this summer. Jeremy Boggs, Devon Elliot, and I conducted a &lt;a href=&quot;http://dh2013.unl.edu/abstracts/workshops-009.html&quot;&gt;workshop&lt;/a&gt; on desktop fabrication and then gave a &lt;a href=&quot;http://dh2013.unl.edu/abstracts/ab-441.html&quot;&gt;talk&lt;/a&gt; on the same topic, both around the theme of moving from 2D to 3D in humanities research. We published our &lt;a href=&quot;/archive/talks/dh2013/madetomake/&quot;&gt;slides&lt;/a&gt;, and our &lt;a href=&quot;/archive/talks/dh2013/&quot;&gt;notes&lt;/a&gt; contain what we hope will be a useful bibliography for anyone with interests in fabrication, physical computing, and the humanities. Thank you, Jeremy and Devon, for collaborating with me on this work.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [The MLab's Website Is Live](#the-mlabs-website-is-live)
+&lt;h1 id=&quot;the-mlabs-website-is-live&quot;&gt;&lt;a href=&quot;#the-mlabs-website-is-live&quot;&gt;The MLab’s Website Is Live&lt;/a&gt;&lt;/h1&gt;
 
-*23 May 2013* 
+&lt;p&gt;&lt;em&gt;23 May 2013&lt;/em&gt;&lt;/p&gt;
 
-The [website](https://maker.uvic.ca/) for the Maker Lab in the Humanities is [live](https://twitter.com/jenterysayers/status/337599352677744640?s=20). It took me a few months to design, build, and populate, but I hope the results are worth the time and effort. The site already contains over 40 posts by our team of eleven people, and thanks to artist, Grace Yang, the MLab even has a [logo](https://maker.uvic.ca/mLabLogoFull.png).  
+&lt;p&gt;The &lt;a href=&quot;https://maker.uvic.ca/&quot;&gt;website&lt;/a&gt; for the Maker Lab in the Humanities is &lt;a href=&quot;https://twitter.com/jenterysayers/status/337599352677744640?s=20&quot;&gt;live&lt;/a&gt;. It took me a few months to design, build, and populate, but I hope the results are worth the time and effort. The site already contains over 40 posts by our team of eleven people, and thanks to artist, Grace Yang, the MLab even has a &lt;a href=&quot;https://maker.uvic.ca/mLabLogoFull.png&quot;&gt;logo&lt;/a&gt;.&lt;/p&gt;
 
-We will do our best to share our research, including our [Crocodile Café exhibit](https://maker.uvic.ca/croc/) as well as our [collaborations with the MVP](https://maker.uvic.ca/mod/), as it all unfolds. We are also considering what it means for a humanities lab to function as a [makerspace](https://maker.uvic.ca/makerspace/). What *is* a humanities makerspace, and under what cultural assumptions might it operate? 
+&lt;p&gt;We will do our best to share our research, including our &lt;a href=&quot;https://maker.uvic.ca/croc/&quot;&gt;Crocodile Café exhibit&lt;/a&gt; as well as our &lt;a href=&quot;https://maker.uvic.ca/mod/&quot;&gt;collaborations with the MVP&lt;/a&gt;, as it all unfolds. We are also considering what it means for a humanities lab to function as a &lt;a href=&quot;https://maker.uvic.ca/makerspace/&quot;&gt;makerspace&lt;/a&gt;. What &lt;em&gt;is&lt;/em&gt; a humanities makerspace, and under what cultural assumptions might it operate?&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Directing the Maker Lab in the Humanities](#directing-the-maker-lab-in-the-humanities)
+&lt;h1 id=&quot;directing-the-maker-lab-in-the-humanities&quot;&gt;&lt;a href=&quot;#directing-the-maker-lab-in-the-humanities&quot;&gt;Directing the Maker Lab in the Humanities&lt;/a&gt;&lt;/h1&gt;
 
-*25 November 2012* 
+&lt;p&gt;&lt;em&gt;25 November 2012&lt;/em&gt;&lt;/p&gt;
 
-The Maker Lab in the Humanities opened its doors this term with support from UVic English and the Modernist Versions Project. This year's research team consists of Stephen Ross, Adèle Barclay, Alex Christie, Arthur Hain, Adam Hammond, Amanda Hansen, Mikka Jacobsen, Shaun Macpherson, Jana Millar Usiskin, Katie Tanigawa, and me, and I'm proud to be the MLab's founding director and principal investigator. We are designing our infrastructure around the makerspace / hackerspace model, and our website is coming soon. 
+&lt;p&gt;The Maker Lab in the Humanities opened its doors this term with support from UVic English and the Modernist Versions Project. This year’s research team consists of Stephen Ross, Adèle Barclay, Alex Christie, Arthur Hain, Adam Hammond, Amanda Hansen, Mikka Jacobsen, Shaun Macpherson, Jana Millar Usiskin, Katie Tanigawa, and me, and I’m proud to be the MLab’s founding director and principal investigator. We are designing our infrastructure around the makerspace / hackerspace model, and our website is coming soon.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Internal Grant for Allied Audio Archives](#internal-grant-for-allied-audio-archives)
+&lt;h1 id=&quot;internal-grant-for-allied-audio-archives&quot;&gt;&lt;a href=&quot;#internal-grant-for-allied-audio-archives&quot;&gt;Internal Grant for Allied Audio Archives&lt;/a&gt;&lt;/h1&gt;
 
-*6 September 2012* 
+&lt;p&gt;&lt;em&gt;6 September 2012&lt;/em&gt;&lt;/p&gt;
 
-I received an internal research grant from UVic to start the &quot;Allied Audio Archives&quot; project. The aim of the project is to collocate audio from institutions and communities across the Pacific Northwest (U.S. and Canada) and produce online exhibits that showcase and historicize regional audio cultures. I'm using the internal funding to support a graduate research assistant (Shaun Macpherson) in designing and developing our first exhibit, which will contextualize the University of Washington's [Crocodile Café Collection](https://guides.lib.uw.edu/research/croc) with interviews, ephemera, local history, and cultural criticism. 
+&lt;p&gt;I received an internal research grant from UVic to start the “Allied Audio Archives” project. The aim of the project is to collocate audio from institutions and communities across the Pacific Northwest (U.S. and Canada) and produce online exhibits that showcase and historicize regional audio cultures. I’m using the internal funding to support a graduate research assistant (Shaun Macpherson) in designing and developing our first exhibit, which will contextualize the University of Washington’s &lt;a href=&quot;https://guides.lib.uw.edu/research/croc&quot;&gt;Crocodile Café Collection&lt;/a&gt; with interviews, ephemera, local history, and cultural criticism.&lt;/p&gt;
 
-Many thanks to John Vallier at UW for helping me to facilitate this project, which began in 2010-11 when I was teaching [Media and Communication Studies](https://jenteryteaches.com/343/) at UW Bothell.
+&lt;p&gt;Many thanks to John Vallier at UW for helping me to facilitate this project, which began in 2010-11 when I was teaching &lt;a href=&quot;https://jenteryteaches.com/343/&quot;&gt;Media and Communication Studies&lt;/a&gt; at UW Bothell.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Writing with Sound](#writing-with-sound)
+&lt;h1 id=&quot;writing-with-sound&quot;&gt;&lt;a href=&quot;#writing-with-sound&quot;&gt;Writing with Sound&lt;/a&gt;&lt;/h1&gt;
 
-*26 July 2012*
+&lt;p&gt;&lt;em&gt;26 July 2012&lt;/em&gt;&lt;/p&gt;
 
-I've been thinking through the theme of &quot;Writing with Sound&quot; for about a year now, and this month I gave a [talk](https://web.archive.org/web/20161224194437/https://www.dh2012.uni-hamburg.de/conference/programme/abstracts/writing-with-sound-composing-multimodal-long-form-scholarship/) on the topic at the University of Hamburg during the 2012 Digital Humanities conference. It was [recorded](https://lecture2go.uni-hamburg.de/l2go/-/get/v/13920), and one question I considered is how critics might compose responsive content for audiences who are reading, watching, *and* listening to their material. 
+&lt;p&gt;I’ve been thinking through the theme of “Writing with Sound” for about a year now, and this month I gave a &lt;a href=&quot;https://web.archive.org/web/20161224194437/https://www.dh2012.uni-hamburg.de/conference/programme/abstracts/writing-with-sound-composing-multimodal-long-form-scholarship/&quot;&gt;talk&lt;/a&gt; on the topic at the University of Hamburg during the 2012 Digital Humanities conference. It was &lt;a href=&quot;https://lecture2go.uni-hamburg.de/l2go/-/get/v/13920&quot;&gt;recorded&lt;/a&gt;, and one question I considered is how critics might compose responsive content for audiences who are reading, watching, &lt;em&gt;and&lt;/em&gt; listening to their material.&lt;/p&gt;
 
-The talk drew heavily from my work on the Scalar platform as well as a [piece](http://mediacommons.org/tne/pieces/writing-sound) I published over at *The New Everyday* as part of Kari Kraus's wonderful collection, [&quot;Rough Cuts: Media and Design in Process&quot;](http://mediacommons.org/tne/cluster/rough-cuts-media-and-design-process), which features work by Katharine Beutner, Elizabeth Bonsignore, Nicholas Chen, Christy Dena, Rachel Donahue, Ken Eklund, Jason Farman, Ann Fraistat, Oliver Gaycken, Matthew Kirschenbaum, Henry Lowood, Nick Montfort, Rick Prelinger, Ernesto Priego, Rita Raley, Gabriela Redwine, Marc Ruppel, Mark Sample, Rita Shewbridge, Amanda Visconti, Greg Walsh, and Joshua Weiner. Many thanks to Kari for her unparalleled editorial work. 
+&lt;p&gt;The talk drew heavily from my work on the Scalar platform as well as a &lt;a href=&quot;http://mediacommons.org/tne/pieces/writing-sound&quot;&gt;piece&lt;/a&gt; I published over at &lt;em&gt;The New Everyday&lt;/em&gt; as part of Kari Kraus’s wonderful collection, &lt;a href=&quot;http://mediacommons.org/tne/cluster/rough-cuts-media-and-design-process&quot;&gt;“Rough Cuts: Media and Design in Process”&lt;/a&gt;, which features work by Katharine Beutner, Elizabeth Bonsignore, Nicholas Chen, Christy Dena, Rachel Donahue, Ken Eklund, Jason Farman, Ann Fraistat, Oliver Gaycken, Matthew Kirschenbaum, Henry Lowood, Nick Montfort, Rick Prelinger, Ernesto Priego, Rita Raley, Gabriela Redwine, Marc Ruppel, Mark Sample, Rita Shewbridge, Amanda Visconti, Greg Walsh, and Joshua Weiner. Many thanks to Kari for her unparalleled editorial work.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [SSHRC Grant for the Modernist Versions Project](#sshrc-grant-for-the-modernist-versions-project)
+&lt;h1 id=&quot;sshrc-grant-for-the-modernist-versions-project&quot;&gt;&lt;a href=&quot;#sshrc-grant-for-the-modernist-versions-project&quot;&gt;SSHRC Grant for the Modernist Versions Project&lt;/a&gt;&lt;/h1&gt;
 
-*20 June 2012* 
+&lt;p&gt;&lt;em&gt;20 June 2012&lt;/em&gt;&lt;/p&gt;
 
-Congratulations to my colleague, Stephen Ross, who is the principal investigator of the [Modernist Versions Project](https://web.uvic.ca/~mvp1922/), which received a SSHRC Partnership Development Grant for three years. I'm excited to contribute to the MVP. It aims to advance the potential for comparative interpretations of modernist texts that exist in multiple forms by digitizing, collating, versioning, and visualizing them individually and in combination. Its primary mission is to enable new critical insights that are difficult without digital or computational approaches. More details over at [UVic News](https://www.uvic.ca/news/topics/2012+rejoicing-for-joyce-among-others+media-tip).
+&lt;p&gt;Congratulations to my colleague, Stephen Ross, who is the principal investigator of the &lt;a href=&quot;https://web.uvic.ca/~mvp1922/&quot;&gt;Modernist Versions Project&lt;/a&gt;, which received a SSHRC Partnership Development Grant for three years. I’m excited to contribute to the MVP. It aims to advance the potential for comparative interpretations of modernist texts that exist in multiple forms by digitizing, collating, versioning, and visualizing them individually and in combination. Its primary mission is to enable new critical insights that are difficult without digital or computational approaches. More details over at &lt;a href=&quot;https://www.uvic.ca/news/topics/2012+rejoicing-for-joyce-among-others+media-tip&quot;&gt;UVic News&lt;/a&gt;.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [UM Press and HASTAC Publication Prize](#um-press-and-hastac-publication-prize)
+&lt;h1 id=&quot;um-press-and-hastac-publication-prize&quot;&gt;&lt;a href=&quot;#um-press-and-hastac-publication-prize&quot;&gt;UM Press and HASTAC Publication Prize&lt;/a&gt;&lt;/h1&gt;
 
-*16 June 2012* 
+&lt;p&gt;&lt;em&gt;16 June 2012&lt;/em&gt;&lt;/p&gt;
 
-HASTAC and the University of Michigan Press selected Sheila Brennan (George Mason University) and me as the recipients of their Digital Culture [publication prize](https://www.hastac.org/blogs/nancyholliman/2012/06/15/jentery-sayers-sheila-brennan-awarded-university-michigan-presshastac), which includes an advance contact and subventions. The prize will help me to revise my dissertation into an open access monograph.  
+&lt;p&gt;HASTAC and the University of Michigan Press selected Sheila Brennan (George Mason University) and me as the recipients of their Digital Culture &lt;a href=&quot;https://www.hastac.org/blogs/nancyholliman/2012/06/15/jentery-sayers-sheila-brennan-awarded-university-michigan-presshastac&quot;&gt;publication prize&lt;/a&gt;, which includes an advance contact and subventions. The prize will help me to revise my dissertation into an open access monograph.&lt;/p&gt;
 
-Thank you, Julie Thompson Klein, Cathy Davidson, David Theo Goldberg, and everyone at UM Press and HASTAC for recognizing my work in this way. And congratulations to you as well, Sheila! Exciting times ahead.
+&lt;p&gt;Thank you, Julie Thompson Klein, Cathy Davidson, David Theo Goldberg, and everyone at UM Press and HASTAC for recognizing my work in this way. And congratulations to you as well, Sheila! Exciting times ahead.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [Dropping the Digital](#dropping-the-digital)
+&lt;h1 id=&quot;dropping-the-digital&quot;&gt;&lt;a href=&quot;#dropping-the-digital&quot;&gt;Dropping the Digital&lt;/a&gt;&lt;/h1&gt;
 
-*10 April 2012* 
+&lt;p&gt;&lt;em&gt;10 April 2012&lt;/em&gt;&lt;/p&gt;
 
-The University of Pittsburgh recently celebrated the launch of *Debates in the Digital Humanities*, published by the University of Minnesota Press. Thanks to Matt Gold (editor of *Debates*) and Jamie &quot;Skye&quot; Bianco (at Pitt) for inviting me to the [book launch](https://www.dhrx.pitt.edu/2012/07/debates-in-the-digital-humanities-book-launch-and-symposium/), where I gave a talk about &quot;Dropping the Digital&quot; on a panel with Jamie, Matt, Doug Armato, Elizabeth Losh, and Stephen Ramsay. It was truly an honor to visit Pitt's 42-story Cathedral of Learning and to chat with faculty, staff, and students there. 
+&lt;p&gt;The University of Pittsburgh recently celebrated the launch of &lt;em&gt;Debates in the Digital Humanities&lt;/em&gt;, published by the University of Minnesota Press. Thanks to Matt Gold (editor of &lt;em&gt;Debates&lt;/em&gt;) and Jamie “Skye” Bianco (at Pitt) for inviting me to the &lt;a href=&quot;https://www.dhrx.pitt.edu/2012/07/debates-in-the-digital-humanities-book-launch-and-symposium/&quot;&gt;book launch&lt;/a&gt;, where I gave a talk about “Dropping the Digital” on a panel with Jamie, Matt, Doug Armato, Elizabeth Losh, and Stephen Ramsay. It was truly an honor to visit Pitt’s 42-story Cathedral of Learning and to chat with faculty, staff, and students there.&lt;/p&gt;
 
-*** 
+&lt;hr /&gt;
 
-# [Composing a Multimodal Dissertation](#composing-a-multimodal-dissertation)
+&lt;h1 id=&quot;composing-a-multimodal-dissertation&quot;&gt;&lt;a href=&quot;#composing-a-multimodal-dissertation&quot;&gt;Composing a Multimodal Dissertation&lt;/a&gt;&lt;/h1&gt;
 
-*25 October 2011* 
+&lt;p&gt;&lt;em&gt;25 October 2011&lt;/em&gt;&lt;/p&gt;
 
-The Center for Digital Research in the Humanities at the University of Nebraska-Lincoln invited me to be one of three early career scholars to present at this year's [Nebraska Digital Workshop](https://cdrh.unl.edu/news-events/workshoparchive). While I was there, I spoke about the process and technical particulars of composing a multimodal dissertation. I was joined by fellow invitees, Kirsten C. Uszkalo and Colin F. Wilder, as well as international scholars, Susan Brown and William G. Thomas, III, who also gave talks. Many thanks to Kay Walters and everyone at the Center for hosting me during my first visit to UNL's campus. The Digital Workshop is such an exciting space for critical discussion and experimentation. Thanks as well to Trevor Muñoz at the Maryland Institute for Technology in the Humanities for [writing](https://mith.umd.edu/news/witches-networks-of-intellectual-history-magnetic-recording-railroads-and-womens-writing-at-the-2011-nebraska-digital-workshop/) about the Workshop.  
+&lt;p&gt;The Center for Digital Research in the Humanities at the University of Nebraska-Lincoln invited me to be one of three early career scholars to present at this year’s &lt;a href=&quot;https://cdrh.unl.edu/news-events/workshoparchive&quot;&gt;Nebraska Digital Workshop&lt;/a&gt;. While I was there, I spoke about the process and technical particulars of composing a multimodal dissertation. I was joined by fellow invitees, Kirsten C. Uszkalo and Colin F. Wilder, as well as international scholars, Susan Brown and William G. Thomas, III, who also gave talks. Many thanks to Kay Walters and everyone at the Center for hosting me during my first visit to UNL’s campus. The Digital Workshop is such an exciting space for critical discussion and experimentation. Thanks as well to Trevor Muñoz at the Maryland Institute for Technology in the Humanities for &lt;a href=&quot;https://mith.umd.edu/news/witches-networks-of-intellectual-history-magnetic-recording-railroads-and-womens-writing-at-the-2011-nebraska-digital-workshop/&quot;&gt;writing&lt;/a&gt; about the Workshop.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [New Job at UVic](#new-job-at-uvic)
+&lt;h1 id=&quot;new-job-at-uvic&quot;&gt;&lt;a href=&quot;#new-job-at-uvic&quot;&gt;New Job at UVic&lt;/a&gt;&lt;/h1&gt;
 
-*1 July 2011* 
+&lt;p&gt;&lt;em&gt;1 July 2011&lt;/em&gt;&lt;/p&gt;
 
-Last month, I completed my English PhD at UW Seattle and an interdisciplinary teaching fellowship at UW Bothell. I am now an assistant professor of digital literary studies in the [Department of English](https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php) at the University of Victoria, where I will also start a lab. I'm thrilled to say the least. 
+&lt;p&gt;Last month, I completed my English PhD at UW Seattle and an interdisciplinary teaching fellowship at UW Bothell. I am now an assistant professor of digital literary studies in the &lt;a href=&quot;https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php&quot;&gt;Department of English&lt;/a&gt; at the University of Victoria, where I will also start a lab. I’m thrilled to say the least.&lt;/p&gt;
 
-***
+&lt;hr /&gt;
 
-# [UW Graduate Medal in the Humanities](#uw-graduate-medal-in-the-humanities)
+&lt;h1 id=&quot;uw-graduate-medal-in-the-humanities&quot;&gt;&lt;a href=&quot;#uw-graduate-medal-in-the-humanities&quot;&gt;UW Graduate Medal in the Humanities&lt;/a&gt;&lt;/h1&gt;
 
-*1 July 2011* 
+&lt;p&gt;&lt;em&gt;1 July 2011&lt;/em&gt;&lt;/p&gt;
 
-I am honored to receive the University of Washington's 2011 College of Arts and Sciences Graduate Medal in the Humanities. According to the College's newsletter, [*Perspectives*](https://web.archive.org/web/20110827094332/https://www.artsci.washington.edu/newsletter/June11/DeansMedalists.asp), &quot;[e]ach year, the College of Arts and Sciences presents the Dean's Medal to four exceptional graduating seniors, representing the College's four divisions — arts, humanities, social sciences, and natural sciences. Now the College is celebrating its graduate students as well, with the introduction of an annual Graduate Medal, also with one recipient per division. 'These annual medals are an opportunity to shine a spotlight on some of our very best students,' says Ana Mari Cauce, dean of the College of Arts and Sciences. 'Our graduate students deserve to share in that spotlight. With so many remarkable students, the challenge is to limit our selection to one undergraduate and one graduate student from each of our divisions.'&quot;
+&lt;p&gt;I am honored to receive the University of Washington’s 2011 College of Arts and Sciences Graduate Medal in the Humanities. According to the College’s newsletter, &lt;a href=&quot;https://web.archive.org/web/20110827094332/https://www.artsci.washington.edu/newsletter/June11/DeansMedalists.asp&quot;&gt;&lt;em&gt;Perspectives&lt;/em&gt;&lt;/a&gt;, “[e]ach year, the College of Arts and Sciences presents the Dean’s Medal to four exceptional graduating seniors, representing the College’s four divisions — arts, humanities, social sciences, and natural sciences. Now the College is celebrating its graduate students as well, with the introduction of an annual Graduate Medal, also with one recipient per division. ‘These annual medals are an opportunity to shine a spotlight on some of our very best students,’ says Ana Mari Cauce, dean of the College of Arts and Sciences. ‘Our graduate students deserve to share in that spotlight. With so many remarkable students, the challenge is to limit our selection to one undergraduate and one graduate student from each of our divisions.’”&lt;/p&gt;
 
-Many thanks to the College and Dean Cauce for their work, their support, and this kind gesture. Congratulations as well to the other inaugural graduate medalists: Heather Raikes (Arts), Juned Shaikh (Social Sciences), and Aurelia Honerkamp-Smith (Natural Sciences). Such stellar company! 
+&lt;p&gt;Many thanks to the College and Dean Cauce for their work, their support, and this kind gesture. Congratulations as well to the other inaugural graduate medalists: Heather Raikes (Arts), Juned Shaikh (Social Sciences), and Aurelia Honerkamp-Smith (Natural Sciences). Such stellar company!&lt;/p&gt;
 
----
+&lt;hr /&gt;
 
-*[Sketch](/images/pages/notes.png) by Beckett. Used with permission. Content on this page, some of which was originally written in WordPress or GitHub, dates back to 1 July 2011. I last updated this page on 15 April 2022.*</description>
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/pages/notes.png&quot;&gt;Sketch&lt;/a&gt; by Beckett. Used with permission. Content on this page, some of which was originally written in WordPress or GitHub, dates back to 1 July 2011. I last updated this page on 6 August 2023.&lt;/em&gt;&lt;/p&gt;
+</description>
             <link>http://jntry.work//blog.html</link>
           </item>
         
