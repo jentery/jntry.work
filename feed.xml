@@ -3,30 +3,30 @@
   <channel>
     <title>Jentery Sayers</title>
     <description></description>
-    <link>http://jntry.work//</link>
-    <atom:link href="http://jntry.work//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Jan 2024 18:05:15 -0800</pubDate>
-    <lastBuildDate>Sun, 07 Jan 2024 18:05:15 -0800</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 10 May 2024 15:09:13 -0700</pubDate>
+    <lastBuildDate>Fri, 10 May 2024 15:09:13 -0700</lastBuildDate>
     <generator>Jekyll v4.3.1</generator>
 
     
       <item>
         <title>Currently (2024)</title>
-        <description>&lt;p&gt;This Spring term I am teaching &lt;a href=&quot;https://jentery.github.io/mdia200v2/&quot;&gt;Media Studies 200: “Media in the 21st Century”&lt;/a&gt; at UVic while directing our new &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/index.php&quot;&gt;Media Studies&lt;/a&gt; program.&lt;/p&gt;
+        <description>&lt;p&gt;I’m writing a book, directing UVic’s &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/&quot;&gt;Media Studies&lt;/a&gt; program, refining material for &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/HyVj9LZJi?bc=true&amp;amp;bcCurrent=MDIA200%20-%20Media%20in%20the%2021st%20Century&amp;amp;bcGroup=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&quot;&gt;Media Studies 200&lt;/a&gt;, and designing a new course on Game Studies, which I’m scheduled to teach in the Spring.&lt;/p&gt;
 
-&lt;p&gt;I am also writing a book about how genres constitute play in video games. It articulates media theories of metagaming with activity theories of genre, and I am especially interested in the argument that video games don’t have rules (see, for instance, &lt;a href=&quot;https://manifold.umn.edu/projects/metagaming&quot;&gt;Boluk and LeMieux&lt;/a&gt;). Video games differ from board and tabletop games in this way. They forgo rules, which are voluntary, for mechanics, which are not. Genres fill the “participation gap” that emerges during this shift to mechanics. The genre set subsumes the rule set, if you will, as video games rely on &lt;a href=&quot;https://genreacrossborders.org/gxb-glossary/uptake&quot;&gt;“uptake”&lt;/a&gt; to socialize not only narratives and mechanics but also play, platforms, and players. Of course, what unfolds in the world of a video game matters for discussions of genre, yet so, too, do the extradiegetic media produced by players and industry alike. My book attends to such media as I examine games from the last decade to better understand the play of genre as play today.&lt;/p&gt;
+&lt;p&gt;My book is about the ways genre constitutes play in video games. It articulates metagaming with activity theories of genre, and I am especially interested in the argument that video games don’t have rules (see, for instance, &lt;a href=&quot;https://manifold.umn.edu/projects/metagaming&quot;&gt;Boluk and LeMieux&lt;/a&gt;). Video games differ from board, card, and tabletop games in this way. They forgo rules, which are voluntary, for mechanics, which are not. Genres fill the “participation gap” that emerges during this shift to mechanics. The genre set subsumes the rule set, if you will, as video games rely on &lt;a href=&quot;https://genreacrossborders.org/gxb-glossary/uptake&quot;&gt;“uptake”&lt;/a&gt; to socialize not only narratives and mechanics but also play, platforms, and players. Of course, what unfolds in the world of a video game matters for discussions of genre, yet so, too, do the extradiegetic media produced by players and industry alike. My book attends to such media as I examine games from the last decade to better understand the play of genre as play today.&lt;/p&gt;
 
-&lt;p&gt;I started writing the book in the late 2010s as a monograph about video game audio. I still account for audio in some of my analysis; however, I now treat it as a feature of genre.&lt;/p&gt;
+&lt;p&gt;I started writing the book in the late 2010s as a monograph about video game audio. I still account for audio in some of my analysis. Now I treat it as a feature of genre.&lt;/p&gt;
 
-&lt;p&gt;Feel free to get in touch. I’m always happy to talk more about teaching and research.&lt;/p&gt;
+&lt;p&gt;Feel free to get in touch. I’m always happy to talk more about teaching and research, and at the moment I’m focusing most of my academic energy on Game Studies.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/currently.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used and modified with permission. I created this page on 11 May 2021 and last updated it on 7 January 2024.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/currently.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used and modified with permission. I created this page on 11 May 2021 and last updated it on 10 May 2024.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 07 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//currently/</link>
-        <guid isPermaLink="true">http://jntry.work//currently/</guid>
+        <link>http://localhost:4000/currently/</link>
+        <guid isPermaLink="true">http://localhost:4000/currently/</guid>
       </item>
     
       <item>
@@ -114,8 +114,8 @@
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/recentwork.png&quot;&gt;image&lt;/a&gt; (PNG), edited in Photoshop, features cables in my drawer. I created this page on 7 August 2023 and last updated it on 7 January 2024.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Aug 2023 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//recentwork/</link>
-        <guid isPermaLink="true">http://jntry.work//recentwork/</guid>
+        <link>http://localhost:4000/recentwork/</link>
+        <guid isPermaLink="true">http://localhost:4000/recentwork/</guid>
       </item>
     
       <item>
@@ -242,8 +242,8 @@ You should submit:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/playerstories.png&quot;&gt;image&lt;/a&gt; (PNG), edited in Photoshop, of the game,&lt;/em&gt; Disco Elysium, &lt;em&gt;care of Asia Tyson and ZA/UM. Main &lt;a href=&quot;/images/posts/playerstories2.png&quot;&gt;image&lt;/a&gt; (PNG) also care of Asia Tyson and her player story about the game,&lt;/em&gt; NORCO. &lt;em&gt;I created this page on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Sep 2022 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//playerstories/</link>
-        <guid isPermaLink="true">http://jntry.work//playerstories/</guid>
+        <link>http://localhost:4000/playerstories/</link>
+        <guid isPermaLink="true">http://localhost:4000/playerstories/</guid>
       </item>
     
       <item>
@@ -327,8 +327,8 @@ Here’s a list of the comics we’ll read this term. They’re available at the
 &lt;p&gt;&lt;em&gt;The featured &lt;a href=&quot;/images/posts/comics.png&quot;&gt;image&lt;/a&gt; is a panel care of Molly Butler. The main &lt;a href=&quot;/images/posts/comics2.png&quot;&gt;image&lt;/a&gt; is an annotation of&lt;/em&gt; Ms. Marvel &lt;em&gt;care of Fiona Thompson. Both images used with written permission. I created this page on 25 January 2022 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 31 Dec 2021 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//comics/</link>
-        <guid isPermaLink="true">http://jntry.work//comics/</guid>
+        <link>http://localhost:4000/comics/</link>
+        <guid isPermaLink="true">http://localhost:4000/comics/</guid>
       </item>
     
       <item>
@@ -438,8 +438,8 @@ Published with the &lt;a href=&quot;https://www.mla.org/&quot;&gt;Modern Languag
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/digped.png&quot;&gt;image&lt;/a&gt; and main &lt;a href=&quot;/images/posts/digped2.png&quot;&gt;image&lt;/a&gt; of the book care of the Modern Language Association. I created this page on 25 January 2022 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 31 Dec 2020 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//digped/</link>
-        <guid isPermaLink="true">http://jntry.work//digped/</guid>
+        <link>http://localhost:4000/digped/</link>
+        <guid isPermaLink="true">http://localhost:4000/digped/</guid>
       </item>
     
       <item>
@@ -524,8 +524,8 @@ The only thing you should purchase (or rent) for this seminar is Toni Morrison�
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/listening.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, of my parents’ rotary phone. Main &lt;a href=&quot;/images/posts/listening2.png&quot;&gt;image&lt;/a&gt; (PNG) of the steps in the schedule for “Readers Are Listening.” I created this page on 20 July 2021 and last updated it on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 30 Dec 2020 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//listening/</link>
-        <guid isPermaLink="true">http://jntry.work//listening/</guid>
+        <link>http://localhost:4000/listening/</link>
+        <guid isPermaLink="true">http://localhost:4000/listening/</guid>
       </item>
     
       <item>
@@ -605,8 +605,8 @@ I’m asking you to access most materials online via their URLs or a passcode-pr
 &lt;p&gt;&lt;em&gt;The featured &lt;a href=&quot;/images/posts/aesthetics.png&quot;&gt;image&lt;/a&gt; (PNG), edited in Photoshop, is of&lt;/em&gt; Tetris &lt;em&gt;running on my Game Boy. The main &lt;a href=&quot;/images/posts/aesthetics2.png&quot;&gt;image&lt;/a&gt; (PNG) is of headings used in the &lt;a href=&quot;/archive/syllabi/506/#schedule&quot;&gt;schedule&lt;/a&gt; (HTML) for “Media Aesthetics.” I created this page on 16 July 2021 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 29 Dec 2020 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//aesthetics/</link>
-        <guid isPermaLink="true">http://jntry.work//aesthetics/</guid>
+        <link>http://localhost:4000/aesthetics/</link>
+        <guid isPermaLink="true">http://localhost:4000/aesthetics/</guid>
       </item>
     
       <item>
@@ -660,8 +660,8 @@ We’re located in UVic’s Clearihue building. You can email our director, Jent
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/praxis.png&quot;&gt;image&lt;/a&gt; of a cassette care of the RVA Punk compilation,&lt;/em&gt; Watch Us Go To Work. &lt;em&gt;Main &lt;a href=&quot;/images/posts/praxis3.png&quot;&gt;image&lt;/a&gt; of Asia Tyson editing&lt;/em&gt; Inside &lt;em&gt;gameplay care of Asia Tyson and used with permission. I created this page on 25 January 2022 and last updated it on 3 February 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Sep 2019 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//praxis/</link>
-        <guid isPermaLink="true">http://jntry.work//praxis/</guid>
+        <link>http://localhost:4000/praxis/</link>
+        <guid isPermaLink="true">http://localhost:4000/praxis/</guid>
       </item>
     
       <item>
@@ -706,8 +706,8 @@ The Pedagogy Task Force aims to produce research outputs (conferences, publicati
 &lt;p&gt;&lt;em&gt;SpokenWeb &lt;a href=&quot;/images/posts/spokenweb.png&quot;&gt;logo&lt;/a&gt; and main &lt;a href=&quot;/images/posts/spokenweb2.png&quot;&gt;image&lt;/a&gt; care of the SpokenWeb project. I created this page on 25 January 2022 and last updated it on 7 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Sep 2019 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//spokenweb/</link>
-        <guid isPermaLink="true">http://jntry.work//spokenweb/</guid>
+        <link>http://localhost:4000/spokenweb/</link>
+        <guid isPermaLink="true">http://localhost:4000/spokenweb/</guid>
       </item>
     
       <item>
@@ -809,8 +809,8 @@ The Pedagogy Task Force aims to produce research outputs (conferences, publicati
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/tabletop.png&quot;&gt;image&lt;/a&gt;: Milton Bradley’s US Patent 53561A (1866) for Social Game. ‘The game, as here arranged, is called the checkered game of life, and, in addition to the amusement and excitement of the game, it is intended to forcibly impress upon the minds of youth the great moral principles of virtue and vice.’ Public domain. I created this page on 5 December 2018 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 05 Dec 2018 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//tabletop/</link>
-        <guid isPermaLink="true">http://jntry.work//tabletop/</guid>
+        <link>http://localhost:4000/tabletop/</link>
+        <guid isPermaLink="true">http://localhost:4000/tabletop/</guid>
       </item>
     
       <item>
@@ -885,8 +885,8 @@ The Pedagogy Task Force aims to produce research outputs (conferences, publicati
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/beforeyou.png&quot;&gt;Image&lt;/a&gt; care of the MLab. I created this page on 15 November 2018 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Nov 2018 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//beforeyou/</link>
-        <guid isPermaLink="true">http://jntry.work//beforeyou/</guid>
+        <link>http://localhost:4000/beforeyou/</link>
+        <guid isPermaLink="true">http://localhost:4000/beforeyou/</guid>
       </item>
     
       <item>
@@ -941,8 +941,8 @@ The Pedagogy Task Force aims to produce research outputs (conferences, publicati
 &lt;p&gt;&lt;em&gt;Laser-cut &lt;a href=&quot;/images/posts/landlord.png&quot;&gt;prototype&lt;/a&gt; of Elizabeth Magie’s The Landlord’s Game (US patent 748626A, 1904) by Katherine Goertz. Used with permission. I created this page on 30 December 2017 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Nov 2018 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//typesofprototypes/</link>
-        <guid isPermaLink="true">http://jntry.work//typesofprototypes/</guid>
+        <link>http://localhost:4000/typesofprototypes/</link>
+        <guid isPermaLink="true">http://localhost:4000/typesofprototypes/</guid>
       </item>
     
       <item>
@@ -992,8 +992,8 @@ For you to:&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/archive/syllabi/508v4/508v4PaperComputers.png&quot;&gt;Poster&lt;/a&gt; and featured &lt;a href=&quot;/images/posts/paper.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Used with permission. I created this page on 19 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 16 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//papercomputers/</link>
-        <guid isPermaLink="true">http://jntry.work//papercomputers/</guid>
+        <link>http://localhost:4000/papercomputers/</link>
+        <guid isPermaLink="true">http://localhost:4000/papercomputers/</guid>
       </item>
     
       <item>
@@ -1252,8 +1252,8 @@ Practices such as making, programming, and hacking entwine in many ways with wri
 &lt;p&gt;&lt;em&gt;Cover &lt;a href=&quot;/images/posts/companion2.png&quot;&gt;image&lt;/a&gt; for the Companion by Danielle Morgan. Featured &lt;a href=&quot;/images/posts/companion.png&quot;&gt;image&lt;/a&gt; also by Danielle Morgan. Both used with permission. I created this page on 19 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jun 2018 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//companion/</link>
-        <guid isPermaLink="true">http://jntry.work//companion/</guid>
+        <link>http://localhost:4000/companion/</link>
+        <guid isPermaLink="true">http://localhost:4000/companion/</guid>
       </item>
     
       <item>
@@ -1288,8 +1288,8 @@ Spring 2019 | UVic DHum 150 | Undergraduate course for 108 students&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/unlearning2.png&quot;&gt;Poster&lt;/a&gt; and featured &lt;a href=&quot;/images/posts/unlearning.png&quot;&gt;image&lt;/a&gt; by Danielle Morgan. Both used with permission. I created this page on 19 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 14 May 2018 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//unlearning/</link>
-        <guid isPermaLink="true">http://jntry.work//unlearning/</guid>
+        <link>http://localhost:4000/unlearning/</link>
+        <guid isPermaLink="true">http://localhost:4000/unlearning/</guid>
       </item>
     
       <item>
@@ -2077,8 +2077,8 @@ Spring 2019 | UVic DHum 150 | Undergraduate course for 108 students&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/companion2.png&quot;&gt;Cover image&lt;/a&gt; for the Companion by Danielle Morgan. Featured image by Danielle Morgan, edited with texture by Kate Compton. Everything used with permission. I created this page on 19 June 2019, based on material published in the Companion in 2018, and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 02 May 2018 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//glossary/</link>
-        <guid isPermaLink="true">http://jntry.work//glossary/</guid>
+        <link>http://localhost:4000/glossary/</link>
+        <guid isPermaLink="true">http://localhost:4000/glossary/</guid>
       </item>
     
       <item>
@@ -2389,8 +2389,8 @@ Design, Fiction, and Social Dreaming&lt;/em&gt;, https://mitpress.mit.edu/books/
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/designingcourses.png&quot;&gt;image&lt;/a&gt; made using Scalar. I created this page on 26 April 2018 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Apr 2018 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//designingcourses/</link>
-        <guid isPermaLink="true">http://jntry.work//designingcourses/</guid>
+        <link>http://localhost:4000/designingcourses/</link>
+        <guid isPermaLink="true">http://localhost:4000/designingcourses/</guid>
       </item>
     
       <item>
@@ -2595,8 +2595,8 @@ This section focuses on issues of labor, equity, intersectionality, and material
 &lt;p&gt;&lt;em&gt;Cover for&lt;/em&gt; Making Things and Drawing Boundaries &lt;em&gt;and featured &lt;a href=&quot;/images/posts/mtdb.png&quot;&gt;image&lt;/a&gt; care of the University of Minnesota Press. I created this page on 25 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Jan 2018 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//mtdb/</link>
-        <guid isPermaLink="true">http://jntry.work//mtdb/</guid>
+        <link>http://localhost:4000/mtdb/</link>
+        <guid isPermaLink="true">http://localhost:4000/mtdb/</guid>
       </item>
     
       <item>
@@ -2772,8 +2772,8 @@ This section focuses on issues of labor, equity, intersectionality, and material
 &lt;p&gt;Featured &lt;a href=&quot;/images/posts/minimal2.png&quot;&gt;image&lt;/a&gt; includes the commands for the &lt;a href=&quot;https://esolangs.org/wiki/Brainfuck&quot;&gt;BF esolang&lt;/a&gt;. I created this page on 2 October 2016 and last updated it on 30 January 2022.&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//mindefinitions/</link>
-        <guid isPermaLink="true">http://jntry.work//mindefinitions/</guid>
+        <link>http://localhost:4000/mindefinitions/</link>
+        <guid isPermaLink="true">http://localhost:4000/mindefinitions/</guid>
       </item>
     
       <item>
@@ -2839,8 +2839,8 @@ This section focuses on issues of labor, equity, intersectionality, and material
 &lt;p&gt;Featured &lt;a href=&quot;/images/posts/minimal3.png&quot;&gt;image&lt;/a&gt; includes the commands for the &lt;a href=&quot;https://esolangs.org/wiki/Brainfuck&quot;&gt;BF esolang&lt;/a&gt;. I created this page on 3 October 2016 and last updated it on 30 January 2022.&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Dec 2017 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//mindeftldr/</link>
-        <guid isPermaLink="true">http://jntry.work//mindeftldr/</guid>
+        <link>http://localhost:4000/mindeftldr/</link>
+        <guid isPermaLink="true">http://localhost:4000/mindeftldr/</guid>
       </item>
     
       <item>
@@ -2873,8 +2873,8 @@ Published in &lt;a href=&quot;http://amodern.net/issues/amodern-8-translation-ma
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/translation2.png&quot;&gt;Illustration&lt;/a&gt; of an optophone’s features, care of&lt;/em&gt; Scientific American &lt;em&gt;(Nov. 1920, from “How the Blind May Read with Their Ears”), in the public domain. I created this page on 25 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//translation/</link>
-        <guid isPermaLink="true">http://jntry.work//translation/</guid>
+        <link>http://localhost:4000/translation/</link>
+        <guid isPermaLink="true">http://localhost:4000/translation/</guid>
       </item>
     
       <item>
@@ -2909,8 +2909,8 @@ Published in &lt;a href=&quot;https://interactions.acm.org/archive/view/november
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/nofuture.png&quot;&gt;image&lt;/a&gt; care of Danielle Morgan. Used with permission. Bottom &lt;a href=&quot;/images/posts/nofuture3.png&quot;&gt;image&lt;/a&gt; also care of Danielle Morgan, with permission. Middle &lt;a href=&quot;/images/posts/nofuture2.png&quot;&gt;image&lt;/a&gt; is a photograph of&lt;/em&gt; Interactions &lt;em&gt;(Nov-Dec 2016). I created this page on 11 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Nov 2017 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//nofuture/</link>
-        <guid isPermaLink="true">http://jntry.work//nofuture/</guid>
+        <link>http://localhost:4000/nofuture/</link>
+        <guid isPermaLink="true">http://localhost:4000/nofuture/</guid>
       </item>
     
       <item>
@@ -2966,8 +2966,8 @@ The Maker Lab in the Humanities (MLab) at the University of Victoria (UVic) open
 &lt;p&gt;&lt;em&gt;MLab &lt;a href=&quot;/images/posts/mlab.png&quot;&gt;logo&lt;/a&gt; by Grace Yang. Used with permission. &lt;a href=&quot;/images/posts/mlab3.png&quot;&gt;Image&lt;/a&gt; of the lab’s website care of the MLab. I created this page on 21 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//mlab/</link>
-        <guid isPermaLink="true">http://jntry.work//mlab/</guid>
+        <link>http://localhost:4000/mlab/</link>
+        <guid isPermaLink="true">http://localhost:4000/mlab/</guid>
       </item>
     
       <item>
@@ -3054,8 +3054,8 @@ The current scripts were made for testing small samples of code. To use them to 
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/optophone.png&quot;&gt;image&lt;/a&gt; by Tiffany Chan, Katherine Goertz, and Victoria Murawski. Both videos by Tiffany Chan. All used with permission. I created this page on 27 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Oct 2017 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//optophone/</link>
-        <guid isPermaLink="true">http://jntry.work//optophone/</guid>
+        <link>http://localhost:4000/optophone/</link>
+        <guid isPermaLink="true">http://localhost:4000/optophone/</guid>
       </item>
     
       <item>
@@ -3096,8 +3096,8 @@ Summer 2017 | UVic English 507 | Grad seminar for 12 students&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/minimal.png&quot;&gt;image&lt;/a&gt; includes the commands for the &lt;a href=&quot;https://esolangs.org/wiki/Brainfuck&quot;&gt;BF esolang&lt;/a&gt;. Public domain &lt;a href=&quot;/images/posts/minimal2.png&quot;&gt;image&lt;/a&gt; of an abacus, from Albert Maltby’s “Map Modeling in Geography, including the use of sand, clay, putty, paper pulp, plaster of Paris … Also Chalk Modeling in its adaptation to purposes of illustration” (1895), care of the &lt;a href=&quot;https://www.flickr.com/photos/britishlibrary/11132950653/in/photolist-ie7JLu-hXMhn4/&quot;&gt;British Library&lt;/a&gt; on Flickr and used by the GO::DH &lt;a href=&quot;https://go-dh.github.io/mincomp/&quot;&gt;Minimal Computing working group&lt;/a&gt;. I created this page on 15 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Sep 2017 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//minimalcomputing/</link>
-        <guid isPermaLink="true">http://jntry.work//minimalcomputing/</guid>
+        <link>http://localhost:4000/minimalcomputing/</link>
+        <guid isPermaLink="true">http://localhost:4000/minimalcomputing/</guid>
       </item>
     
       <item>
@@ -3130,8 +3130,8 @@ Spring 2015 and Fall 2017 | UVic DH 350 and UVic English 508 | Undergrad course 
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/whatgame.png&quot;&gt;image&lt;/a&gt; of Twiggy from&lt;/em&gt;  Adventures of a Sticky Leaf-Dweller &lt;em&gt;by Mairi Richter, Ashley Howard, Jodi Litvin, and Donny Kimber. Used with permission. &lt;a href=&quot;/images/posts/whatgame2.png&quot;&gt;Image&lt;/a&gt; of&lt;/em&gt; Mole Hill, &lt;em&gt;by krista coté, also used with permission. I created this page on 8 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 03 Aug 2017 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//whatgame/</link>
-        <guid isPermaLink="true">http://jntry.work//whatgame/</guid>
+        <link>http://localhost:4000/whatgame/</link>
+        <guid isPermaLink="true">http://localhost:4000/whatgame/</guid>
       </item>
     
       <item>
@@ -3229,8 +3229,8 @@ Spring 2015 and Fall 2017 | UVic DH 350 and UVic English 508 | Undergrad course 
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/marxbarad.png&quot;&gt;image&lt;/a&gt; of laser-cut wood by Danielle Morgan, Katherine Goertz, and me. Used with permission. I created this page on 21 November 2016 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jun 2017 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//mediatheory/</link>
-        <guid isPermaLink="true">http://jntry.work//mediatheory/</guid>
+        <link>http://localhost:4000/mediatheory/</link>
+        <guid isPermaLink="true">http://localhost:4000/mediatheory/</guid>
       </item>
     
       <item>
@@ -3265,8 +3265,8 @@ Spring 2016 and 2017 | UVic English 508 | Grad seminar for 12 students&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;For “Prototyping Texts” (Spring 2017), Danny Martin rendered Eugen Gomringer’s ‘silencio’ in concrete. &lt;a href=&quot;/images/posts/prototexts.png&quot;&gt;Photograph&lt;/a&gt; taken and used with permission. I created this page on 17 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Apr 2017 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//prototypingtexts/</link>
-        <guid isPermaLink="true">http://jntry.work//prototypingtexts/</guid>
+        <link>http://localhost:4000/prototypingtexts/</link>
+        <guid isPermaLink="true">http://localhost:4000/prototypingtexts/</guid>
       </item>
     
       <item>
@@ -3293,8 +3293,8 @@ Published in &lt;a href=&quot;https://www.routledge.com/Doing-Digital-Humanities
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/fab4.png&quot;&gt;Image&lt;/a&gt; from the Early Wearables project care of Danielle Morgan and the MLab. Other &lt;a href=&quot;/images/posts/fab.png&quot;&gt;image&lt;/a&gt;, of wood stacked in UVic’s Digital Fabrication Lab, care of the MLab. Both used with permission. I created this page on 20 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 15 Feb 2017 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//researchcreation/</link>
-        <guid isPermaLink="true">http://jntry.work//researchcreation/</guid>
+        <link>http://localhost:4000/researchcreation/</link>
+        <guid isPermaLink="true">http://localhost:4000/researchcreation/</guid>
       </item>
     
       <item>
@@ -3330,8 +3330,8 @@ Published in &lt;a href=&quot;https://www.routledge.com/Doing-Digital-Humanities
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;images/posts/jewelry.png&quot;&gt;Image&lt;/a&gt; by Danielle Morgan. Used with permission. I created this page on 15 May 2016 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Oct 2016 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//criticaldesign/</link>
-        <guid isPermaLink="true">http://jntry.work//criticaldesign/</guid>
+        <link>http://localhost:4000/criticaldesign/</link>
+        <guid isPermaLink="true">http://localhost:4000/criticaldesign/</guid>
       </item>
     
       <item>
@@ -3446,8 +3446,8 @@ The Early Wearables Kit is licensed &lt;a href=&quot;http://creativecommons.org/
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/jewelry2.png&quot;&gt;Images&lt;/a&gt; by Danielle Morgan, Nina Belojevic, and the MLab. &lt;a href=&quot;/images/posts/jewelry.png&quot;&gt;Card&lt;/a&gt; by Danielle Morgan. All used with permission. I created this page on July 6 2019 and last updated it on 9 February 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Oct 2016 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//jewelry/</link>
-        <guid isPermaLink="true">http://jntry.work//jewelry/</guid>
+        <link>http://localhost:4000/jewelry/</link>
+        <guid isPermaLink="true">http://localhost:4000/jewelry/</guid>
       </item>
     
       <item>
@@ -3480,8 +3480,8 @@ Published in &lt;a href=&quot;https://dhdebates.gc.cuny.edu/projects/debates-in-
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/drop2.png&quot;&gt;Image&lt;/a&gt; care of the&lt;/em&gt; Debates in the Digital Humanities &lt;em&gt;series published by the University of Minnesota Press and edited by Matt Gold and Lauren Klein. I created this page on 22 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Fri, 01 Jul 2016 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//dropping/</link>
-        <guid isPermaLink="true">http://jntry.work//dropping/</guid>
+        <link>http://localhost:4000/dropping/</link>
+        <guid isPermaLink="true">http://localhost:4000/dropping/</guid>
       </item>
     
       <item>
@@ -3514,8 +3514,8 @@ Summer 2013-16 | UVic, with Nina Belojevic, Tiffany Chan, Devon Elliott, Katheri
 &lt;p&gt;&lt;em&gt;Image of a &lt;a href=&quot;/images/posts/physcomp.png&quot;&gt;breadboard&lt;/a&gt; and a &lt;a href=&quot;/images/posts/fab2.png&quot;&gt;3D printer&lt;/a&gt; both care of the MLab. I created this page on 28 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jun 2016 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//physcompfab/</link>
-        <guid isPermaLink="true">http://jntry.work//physcompfab/</guid>
+        <link>http://localhost:4000/physcompfab/</link>
+        <guid isPermaLink="true">http://localhost:4000/physcompfab/</guid>
       </item>
     
       <item>
@@ -3554,8 +3554,8 @@ Fall 2016 | UVic CSPT 500 | Grad seminar for 12 students&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/marxbarad.png&quot;&gt;image&lt;/a&gt; of laser-cut wood by Danielle Morgan, Katherine Goertz, and me. Used with permission. The second image is a screen cap of the course website. I created this page on 24 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 15 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//marxbarad/</link>
-        <guid isPermaLink="true">http://jntry.work//marxbarad/</guid>
+        <link>http://localhost:4000/marxbarad/</link>
+        <guid isPermaLink="true">http://localhost:4000/marxbarad/</guid>
       </item>
     
       <item>
@@ -3586,8 +3586,8 @@ Published in &lt;a href=&quot;https://visiblelanguage.herokuapp.com/issue/172&qu
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/ptp.png&quot;&gt;First&lt;/a&gt; and &lt;a href=&quot;/images/posts/ptp2.png&quot;&gt;second&lt;/a&gt; images of a modeled, milled, and laser-cut electro-mobile skull (intended for cravats) care of Nina Belojevic, Shaun Macpherson, Danielle Morgan, and the MLab. Used with permission. I created this page on 14 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Feb 2016 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//ptp/</link>
-        <guid isPermaLink="true">http://jntry.work//ptp/</guid>
+        <link>http://localhost:4000/ptp/</link>
+        <guid isPermaLink="true">http://localhost:4000/ptp/</guid>
       </item>
     
       <item>
@@ -3620,8 +3620,8 @@ Fall 2012, 2013, and 2015 | UVic English 466 | Undergraduate course for 40 stude
 &lt;p&gt;&lt;em&gt;Images &lt;a href=&quot;/images/posts/audio.png&quot;&gt;1&lt;/a&gt; and &lt;a href=&quot;/images/posts/audio2.png&quot;&gt;2&lt;/a&gt; of Audacity edited in Photoshop. I created this page on 19 June 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 05 Sep 2015 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//audio/</link>
-        <guid isPermaLink="true">http://jntry.work//audio/</guid>
+        <link>http://localhost:4000/audio/</link>
+        <guid isPermaLink="true">http://localhost:4000/audio/</guid>
       </item>
     
       <item>
@@ -3648,8 +3648,8 @@ Published in &lt;a href=&quot;https://www.wiley.com/en-us/A+New+Companion+to+Dig
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/bits.png&quot;&gt;First&lt;/a&gt; and &lt;a href=&quot;/images/posts/bits2.png&quot;&gt;second&lt;/a&gt; images of a laser-cut box care of Nina Belojevic, Shaun Macpherson, Danielle Morgan, and the MLab. Used with permission. I created this page on 16 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 01 Sep 2015 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//bitsatoms/</link>
-        <guid isPermaLink="true">http://jntry.work//bitsatoms/</guid>
+        <link>http://localhost:4000/bitsatoms/</link>
+        <guid isPermaLink="true">http://localhost:4000/bitsatoms/</guid>
       </item>
     
       <item>
@@ -3676,8 +3676,8 @@ Published in &lt;a href=&quot;https://dspace.library.uvic.ca/bitstream/handle/18
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/posts/conversations.png&quot;&gt;First image&lt;/a&gt;, of a glitched NES game, care of Nina Belojevic. &lt;a href=&quot;/images/posts/conversations2.png&quot;&gt;Second image&lt;/a&gt;, from the cover of&lt;/em&gt; Conversations in Critical Making&lt;em&gt;, care of Garnet Hertz and CTheory. Both used with permission. I created this page on 22 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 01 Jul 2015 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//conversations/</link>
-        <guid isPermaLink="true">http://jntry.work//conversations/</guid>
+        <link>http://localhost:4000/conversations/</link>
+        <guid isPermaLink="true">http://localhost:4000/conversations/</guid>
       </item>
     
       <item>
@@ -3708,8 +3708,8 @@ Published in &lt;a href=&quot;http://hyperrhiz.io/hyperrhiz13/&quot;&gt;&lt;em&g
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/kits.png&quot;&gt;image&lt;/a&gt; and &lt;a href=&quot;/images/posts/kits2.png&quot;&gt;photograph&lt;/a&gt; of the box for the MLab’s early wearables kit care of Nina Belojevic, Tiffany Chan, Nicole Clouston, Katherine Goertz, Shaun Macpherson, Kaitlynn McQueston, Danielle Morgan, Victoria Murawski, and me. Both used with permission. I created this page on 24 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 15 Mar 2015 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//fluxkits/</link>
-        <guid isPermaLink="true">http://jntry.work//fluxkits/</guid>
+        <link>http://localhost:4000/fluxkits/</link>
+        <guid isPermaLink="true">http://localhost:4000/fluxkits/</guid>
       </item>
     
       <item>
@@ -3738,8 +3738,8 @@ Published in &lt;a href=&quot;https://src-online.ca/index.php/src/issue/view/21&
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/whyfab.png&quot;&gt;image&lt;/a&gt; of a Printrbot Jr. care of the &lt;a href=&quot;https://maker.uvic.ca/dhsi2013/&quot;&gt;MLab&lt;/a&gt;. Main &lt;a href=&quot;/images/posts/whyfab2.png&quot;&gt;image&lt;/a&gt; of telephone receivers care of &lt;a href=&quot;https://maker.uvic.ca/receiver/&quot;&gt;Katherine Goertz&lt;/a&gt; and the MLab. Both used with permission. I created this page on 1 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Tue, 03 Mar 2015 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//fabricate/</link>
-        <guid isPermaLink="true">http://jntry.work//fabricate/</guid>
+        <link>http://localhost:4000/fabricate/</link>
+        <guid isPermaLink="true">http://localhost:4000/fabricate/</guid>
       </item>
     
       <item>
@@ -3773,8 +3773,8 @@ Since its initial publication, scholars and students alike have turned to &lt;em
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/keywords2.png&quot;&gt;image&lt;/a&gt; and main &lt;a href=&quot;/images/posts/keywords3.png&quot;&gt;image&lt;/a&gt; both from&lt;/em&gt; Keywords for American Cultural Studies. &lt;em&gt;I created this page on 2 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 02 Mar 2015 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//technology/</link>
-        <guid isPermaLink="true">http://jntry.work//technology/</guid>
+        <link>http://localhost:4000/technology/</link>
+        <guid isPermaLink="true">http://localhost:4000/technology/</guid>
       </item>
     
       <item>
@@ -3823,8 +3823,8 @@ May 2015 - Present | Arts + Humanities Lab | UVic Visual Arts Building&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/fab7.png&quot;&gt;image&lt;/a&gt; and &lt;a href=&quot;/images/posts/fab6.png&quot;&gt;photograph&lt;/a&gt; from work done in the Visual Arts Building care of Nicole Clouston. Both used with permission. I created this page on 25 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Mar 2015 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//fab/</link>
-        <guid isPermaLink="true">http://jntry.work//fab/</guid>
+        <link>http://localhost:4000/fab/</link>
+        <guid isPermaLink="true">http://localhost:4000/fab/</guid>
       </item>
     
       <item>
@@ -3879,8 +3879,8 @@ Faculty Instructor: Andrea J. Johnson, AIA, LEED BD+C, UMN School of Architectur
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/catalyst.png&quot;&gt;image&lt;/a&gt; and second &lt;a href=&quot;/images/posts/catalyst2.png&quot;&gt;image&lt;/a&gt;, both of Pillsbury Hall, care of Sam Daley, Andrea Johnson, and Architecture as Catalyst at the University of Minnesota. Used with permission. I created this page on 28 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//catalyst/</link>
-        <guid isPermaLink="true">http://jntry.work//catalyst/</guid>
+        <link>http://localhost:4000/catalyst/</link>
+        <guid isPermaLink="true">http://localhost:4000/catalyst/</guid>
       </item>
     
       <item>
@@ -3919,8 +3919,8 @@ Spring 2014 and Spring 2015 | UVic English 507 | Grad seminar for 12 students&lt
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/arguing.png&quot;&gt;image&lt;/a&gt; as well as &lt;a href=&quot;/images/posts/arguing2.png&quot;&gt;image&lt;/a&gt; of “said Bernard” excerpts of Virginia Woolf’s&lt;/em&gt; The Waves &lt;em&gt;from “Arguing with Computers.” The latter was produced in dialogue with Stephen Ramsay’s “Algorithmic Criticism.” I created this page on 22 July 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Wed, 14 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//arguing/</link>
-        <guid isPermaLink="true">http://jntry.work//arguing/</guid>
+        <link>http://localhost:4000/arguing/</link>
+        <guid isPermaLink="true">http://localhost:4000/arguing/</guid>
       </item>
     
       <item>
@@ -3953,8 +3953,8 @@ Spring 2014 and Spring 2015 | UVic English 507 | Grad seminar for 12 students&lt
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/mla2.png&quot;&gt;image&lt;/a&gt; part of &lt;a href=&quot;https://www.mla.org/bundles/projectsite/images/MLA-logo.svg&quot;&gt;MLA’s official logo&lt;/a&gt;. Screen &lt;a href=&quot;/images/posts/mla3.png&quot;&gt;image&lt;/a&gt; of the website I made for the 2016 Care and Repair session. I created this page on 2 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 Jan 2015 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//mla/</link>
-        <guid isPermaLink="true">http://jntry.work//mla/</guid>
+        <link>http://localhost:4000/mla/</link>
+        <guid isPermaLink="true">http://localhost:4000/mla/</guid>
       </item>
     
       <item>
@@ -3984,8 +3984,8 @@ The digital humanities is a rapidly growing field that is transforming humanitie
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/layers.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, and main &lt;a href=&quot;/images/posts/layers2.png&quot;&gt;image&lt;/a&gt; both from Dan Anderson’s &lt;a href=&quot;https://vimeo.com/channels/metaterials/videos&quot;&gt;“Metaphor and Materiality”&lt;/a&gt; Vimeo channel. I created this page on 1 August 2019 and last updated it 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Mon, 01 Sep 2014 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//metaterials/</link>
-        <guid isPermaLink="true">http://jntry.work//metaterials/</guid>
+        <link>http://localhost:4000/metaterials/</link>
+        <guid isPermaLink="true">http://localhost:4000/metaterials/</guid>
       </item>
     
       <item>
@@ -4020,8 +4020,8 @@ Published in &lt;a href=&quot;https://quod.lib.umich.edu/j/jep/3336451.0017.3*?r
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/peerreview.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, and main &lt;a href=&quot;/images/posts/peerreview2.png&quot;&gt;image&lt;/a&gt; both from &lt;a href=&quot;https://quod.lib.umich.edu/j/jep/3336451.0017.304?view=text;rgn=main#top&quot;&gt;“Peer Review Personas.”&lt;/a&gt; I created this page on 1 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Jun 2014 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//personas/</link>
-        <guid isPermaLink="true">http://jntry.work//personas/</guid>
+        <link>http://localhost:4000/personas/</link>
+        <guid isPermaLink="true">http://localhost:4000/personas/</guid>
       </item>
     
       <item>
@@ -4076,8 +4076,8 @@ Eight pieces, plus an introduction (&lt;a href=&quot;http://cconlinejournal.org/
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/hacking.png&quot;&gt;image&lt;/a&gt; of a glitched SNES game care of &lt;a href=&quot;https://maker.uvic.ca/snes/&quot;&gt;Jon Johnson&lt;/a&gt;. Main &lt;a href=&quot;/images/posts/hacking2.png&quot;&gt;image&lt;/a&gt; of tools and 3D printer parts care of the &lt;a href=&quot;https://maker.uvic.ca/dhsi2013/&quot;&gt;MLab&lt;/a&gt;. Both used with permission. I created this page on 8 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 15 May 2014 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//hacking/</link>
-        <guid isPermaLink="true">http://jntry.work//hacking/</guid>
+        <link>http://localhost:4000/hacking/</link>
+        <guid isPermaLink="true">http://localhost:4000/hacking/</guid>
       </item>
     
       <item>
@@ -4104,8 +4104,8 @@ Published in &lt;a href=&quot;https://onlinelibrary.wiley.com/toc/17414113/2014/
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/modernism.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, care of Alex Christie, Katie Tanigawa, Stephen Ross, and the MLab-MVP team’s &lt;a href=&quot;https://maker.uvic.ca/category/zaxis/index.html&quot;&gt;z-axis research&lt;/a&gt;. Main &lt;a href=&quot;/images/posts/modernism2.png&quot;&gt;image&lt;/a&gt; care of &lt;a href=&quot;https://maker.uvic.ca/big/&quot;&gt;Jana Millar Usiskin&lt;/a&gt;, Google Images, the MVP, and the MLab. Both used with permission. I created this page on 14 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Thu, 01 May 2014 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//modernismDH/</link>
-        <guid isPermaLink="true">http://jntry.work//modernismDH/</guid>
+        <link>http://localhost:4000/modernismDH/</link>
+        <guid isPermaLink="true">http://localhost:4000/modernismDH/</guid>
       </item>
     
       <item>
@@ -4154,8 +4154,8 @@ The “Digital Humanities, Public Humanities” special issue of &lt;em&gt;New A
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/nano.png&quot;&gt;image&lt;/a&gt; from Nina Belojevic’s essay, “Circuit Bending Videogame Consoles as a Form of Applied Media Studies,” edited in Photoshop. &lt;a href=&quot;https://vimeo.com/100046187&quot;&gt;Video&lt;/a&gt; from Karl Baumann, Benjamin Stokes, François Bar, and Ben Caldwell’s essay, “The Leimert Phone Company.” Both used with permission. I created this page on 2 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 15 Mar 2014 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//phdh/</link>
-        <guid isPermaLink="true">http://jntry.work//phdh/</guid>
+        <link>http://localhost:4000/phdh/</link>
+        <guid isPermaLink="true">http://localhost:4000/phdh/</guid>
       </item>
     
       <item>
@@ -4201,8 +4201,8 @@ Intended for audiences across the intersections of literary criticism and compar
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/perfect.png&quot;&gt;image&lt;/a&gt; and main &lt;a href=&quot;/images/posts/perfect2.png&quot;&gt;image&lt;/a&gt; of a telegraphone from “Making the Perfect Record,” published in&lt;/em&gt; American Literature &lt;em&gt;85.4 (2013). &lt;a href=&quot;https://scalar.usc.edu/maker/record/media/telegraphonerelay?path=mediapath&quot;&gt;Provenance&lt;/a&gt; for main image. &lt;a href=&quot;https://scalar.usc.edu/maker/record/media/poulsenstoring?path=mediapath&quot;&gt;Provenance&lt;/a&gt; for featured image, later edited in Photoshop. I created this page on 6 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 01 Dec 2013 00:00:00 -0800</pubDate>
-        <link>http://jntry.work//perfectrecord/</link>
-        <guid isPermaLink="true">http://jntry.work//perfectrecord/</guid>
+        <link>http://localhost:4000/perfectrecord/</link>
+        <guid isPermaLink="true">http://localhost:4000/perfectrecord/</guid>
       </item>
     
       <item>
@@ -4270,8 +4270,8 @@ by Anne Cong-Huyen&lt;/em&gt; (open access &lt;a href=&quot;https://journals.dar
 &lt;p&gt;&lt;em&gt;Featured &lt;a href=&quot;/images/posts/cloud.png&quot;&gt;image&lt;/a&gt;, edited in Photoshop, and main &lt;a href=&quot;/images/posts/cloud2.png&quot;&gt;image&lt;/a&gt; both care of the&lt;/em&gt; Journal of e-Media Studies, &lt;em&gt;for which I’ve been an editorial board member since 2014. I created this page on 2 August 2019 and last updated it on 30 January 2022.&lt;/em&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 Jun 2013 00:00:00 -0700</pubDate>
-        <link>http://jntry.work//cloud/</link>
-        <guid isPermaLink="true">http://jntry.work//cloud/</guid>
+        <link>http://localhost:4000/cloud/</link>
+        <guid isPermaLink="true">http://localhost:4000/cloud/</guid>
       </item>
     
 
@@ -4284,13 +4284,13 @@ by Anne Cong-Huyen&lt;/em&gt; (open access &lt;a href=&quot;https://journals.dar
         
           <item>
             <title>about</title>
-            <description>&lt;p&gt;Hi. My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JEN-tree.” I spend 10.27% of the day looking for my glasses.&lt;/p&gt;
+            <description>&lt;p&gt;Hi. My name is Jentery Sayers (he / him). I skip a syllable and say it in two: “JEN-tree.” I spend 12.63% of the day looking for my glasses.&lt;/p&gt;
 
-&lt;p&gt;I’m interested in what media do across forms of fiction. How do they shape and escape our attention? How do we tell stories with them, and how do they tell stories about us?&lt;/p&gt;
+&lt;p&gt;I’m interested in what media do across forms of fiction: from comics, novels, and radio drama to games, bots, and prototypes. How do they shape and escape our attention? How do we tell stories with them, and how do they tell stories about us?&lt;/p&gt;
 
 &lt;p&gt;I grew up in Richmond, Virginia and went to VCU for my BA and BS degrees. Then I moved to Seattle, where I received an MA and PhD in English from UW.&lt;/p&gt;
 
-&lt;p&gt;I now work at the University of Victoria (UVic) on &lt;u&gt;W&lt;/u&gt;SÁNEĆ and lək̓ʷəŋən territories. I teach in UVic’s new &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/&quot;&gt;Media Studies&lt;/a&gt; program, which I direct. I also teach literary and cultural studies in &lt;a href=&quot;https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php&quot;&gt;English&lt;/a&gt;, web design in &lt;a href=&quot;https://www.uvic.ca/humanities/english/professionalcommunication/&quot;&gt;Professional Communication&lt;/a&gt;, and media theory in &lt;a href=&quot;https://www.uvic.ca/interdisciplinary/cspt/&quot;&gt;Cultural, Social, and Political Thought&lt;/a&gt; (CSPT). I’ve been at UVic since 2011.&lt;/p&gt;
+&lt;p&gt;I now work at the University of Victoria (UVic) on &lt;u&gt;W&lt;/u&gt;SÁNEĆ and Lək̓ʷəŋən territories. I teach in UVic’s new &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/&quot;&gt;Media Studies&lt;/a&gt; program, which I direct. I also teach literary and cultural studies in &lt;a href=&quot;https://www.uvic.ca/humanities/english/people/regularfaculty/sayers-jentery.php&quot;&gt;English&lt;/a&gt; and media theory in &lt;a href=&quot;https://www.uvic.ca/interdisciplinary/cspt/&quot;&gt;Cultural, Social, and Political Thought&lt;/a&gt; (CSPT). I’ve been at UVic since 2011.&lt;/p&gt;
 
 &lt;h1 id=&quot;this-site&quot;&gt;This Site&lt;/h1&gt;
 
@@ -4302,7 +4302,7 @@ by Anne Cong-Huyen&lt;/em&gt; (open access &lt;a href=&quot;https://journals.dar
 
 &lt;p&gt;Drop me a line if you’re a student with interests in media studies or a researcher who may want to collaborate. I’d be glad to chat.&lt;/p&gt;
 
-&lt;p&gt;I’m at &lt;a href=&quot;mailto:jentery@uvic.ca&quot;&gt;jentery@uvic.ca&lt;/a&gt; and a few other &lt;a href=&quot;https://linktr.ee/jentery&quot;&gt;places&lt;/a&gt;. You may find me on campus in &lt;a href=&quot;https://www.uvic.ca/search/maps-buildings/buildings/clearihue.php&quot;&gt;Clearihue D331&lt;/a&gt;, and you can send mail (!!!) to:&lt;/p&gt;
+&lt;p&gt;I’m at &lt;a href=&quot;mailto:jentery@uvic.ca&quot;&gt;jentery@uvic.ca&lt;/a&gt; and a few other &lt;a href=&quot;https://linktr.ee/jentery&quot;&gt;places&lt;/a&gt;, including &lt;a href=&quot;https://orcid.org/0000-0002-7181-1703&quot;&gt;ORCID&lt;/a&gt;. You may find me on campus in &lt;a href=&quot;https://www.uvic.ca/search/maps-buildings/buildings/clearihue.php&quot;&gt;Clearihue D331&lt;/a&gt;, and you can send mail (!!!) to:&lt;/p&gt;
 
 &lt;p&gt;Jentery Sayers &lt;br /&gt;
 Department of English &lt;br /&gt;
@@ -4312,9 +4312,9 @@ Victoria, BC V8W 2Y2&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;em&gt;&lt;a href=&quot;images/pages/about.png&quot;&gt;Illustration&lt;/a&gt; of me by Danielle Morgan. Used with permission. I created this page on 4 May 2021 and last updated it on 7 January 2024.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;a href=&quot;images/pages/about.png&quot;&gt;Illustration&lt;/a&gt; of me by Danielle Morgan. Used with permission. I created this page on 4 May 2021 and last updated it on 10 May 2024.&lt;/em&gt;&lt;/p&gt;
 </description>
-            <link>http://jntry.work//about.html</link>
+            <link>http://localhost:4000/about.html</link>
           </item>
         
       
@@ -4327,7 +4327,81 @@ Victoria, BC V8W 2Y2&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;h1 id=&quot;uvic-has-a-media-studies-program-now&quot;&gt;&lt;a href=&quot;#uvic-has-a-media-studies-program-now&quot;&gt;UVic Has a Media Studies Program Now&lt;/a&gt;&lt;/h1&gt;
+&lt;h1 id=&quot;2024-25-media-studies-courses&quot;&gt;&lt;a href=&quot;#2024-25-media-studies-courses&quot;&gt;2024-25 Media Studies Courses&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;10 May 2024&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m thrilled to say UVic &lt;a href=&quot;https://www.uvic.ca/humanities/media-studies/index.php&quot;&gt;Media Studies&lt;/a&gt; is offering five courses in 2024-25. That’s more than double the number we offered this year.&lt;/p&gt;
+
+&lt;p&gt;I’ll teach &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/HyVj9LZJi?bc=true&amp;amp;bcCurrent=MDIA200%20-%20Media%20in%20the%2021st%20Century&amp;amp;bcGroup=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&quot;&gt;MDIA 200&lt;/a&gt;, “Media in the 21st Century,” in the Fall and Spring. Pierre-Luc Landry (French and Francophone Studies) will teach our inaugural section of &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/SyMpH_Z1j?group=Media%20Studies%20(MDIA)&amp;amp;bc=true&amp;amp;bcCurrent=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&amp;amp;bc=true&amp;amp;bcCurrent=MDIA300%20-%20Critical%20Media%20Practice&amp;amp;bcGroup=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&quot;&gt;MDIA 300&lt;/a&gt;, “Critical Media Practice,” and Janelle Jenstad (English) will teach &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/ryYgOdWkj?group=Media%20Studies%20(MDIA)&amp;amp;bc=true&amp;amp;bcCurrent=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&amp;amp;bc=true&amp;amp;bcCurrent=MDIA350%20-%20Cultures%20of%20the%20Book&amp;amp;bcGroup=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courseshttps://www.uvic.ca/calendar/future/undergrad/index.php&quot;&gt;MDIA 350&lt;/a&gt;, “Cultures of the Book,” for the second time. We’ve a new course on the books, too: MDIA 360, “Game Studies,” which Sara Humphreys (ATWP) will teach in the Fall and I’ll teach in the Spring, and Alexandrine Boudreault-Fournier (Anthropology) will teach our inaugural section of &lt;a href=&quot;https://www.uvic.ca/calendar/future/undergrad/index.php#/courses/rJRGF_byo?group=Media%20Studies%20(MDIA)&amp;amp;bc=true&amp;amp;bcCurrent=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&amp;amp;bc=true&amp;amp;bcCurrent=MDIA375%20-%20Cultures%20of%20Sound&amp;amp;bcGroup=Media%20Studies%20(MDIA)&amp;amp;bcItemType=courses&quot;&gt;MDIA 375&lt;/a&gt;, “Cultures of Sound.” We’ve an exciting year ahead!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;my-orcid&quot;&gt;&lt;a href=&quot;#my-orcid&quot;&gt;My ORCID&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;9 May 2024&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Nerd alert! I took a minute earlier this week to populate my &lt;a href=&quot;https://orcid.org/0000-0002-7181-1703&quot;&gt;Open Researcher and Contributor ID record&lt;/a&gt;. I created some entries manually; however, many of them were generated automatically by BASE, Scopus, Crossref Metadata, The Lens, MLA’s international bib, and the like. The automatically generated data is nowhere near perfect. I encountered numerous errors, but I suppose those hiccups are the tradeoff for efficiency and ease of use. I’ll be interested to observe the benefits and drawbacks of using ORCID over a period of five or so years. More from me in 2030?&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;the-play-of-genre-in-video-games&quot;&gt;&lt;a href=&quot;#the-play-of-genre-in-video-games&quot;&gt;The Play of Genre in Video Games&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;19 April 2024&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Yesterday, I gave a keynote at &lt;a href=&quot;https://www.queensu.ca/english/about/events/reimagining-the-victorians-conference&quot;&gt;“Re-Imagining the Victorians,”&lt;/a&gt; facilitated by Brooke Cameron and Sydney Wildman at Queen’s University. My talk drew material from my current book project. I called it, &lt;a href=&quot;archive/talks/queens24&quot;&gt;“Victorian Activities and the Play of Genre in Video Games.”&lt;/a&gt; After surveying what the Victorian period teaches us about games today, I focused on two neo-Victorian games: &lt;em&gt;80 Days&lt;/em&gt; and &lt;em&gt;Strange Horticulture&lt;/em&gt;. The Q&amp;amp;A was fantastic, as were other talks at the conference. Peruse the &lt;a href=&quot;archive/talks/queens24/reImaginingTheVictorians2024.pdf&quot;&gt;program&lt;/a&gt; if you’ve a moment.&lt;/p&gt;
+
+&lt;p&gt;Many thanks to Brooke and Sydney for hosting me. I look forward to more discussions at the intersections of Victorian Studies and Game Studies.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;congrats-to-margaret-kilcline-and-odu&quot;&gt;&lt;a href=&quot;#congrats-to-margaret-kilcline-and-odu&quot;&gt;Congrats to Margaret Kilcline and ODU&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;12 March 2024&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Check this out! Some wonderful &lt;a href=&quot;https://www.odu.edu/al/article/creative-ideas-sprout-and-thrive-inside-mpark&quot;&gt;news from ODU&lt;/a&gt;: “It’s compact in size, but there’s nothing small about the ambitions behind a new, humanities-focused makerspace at Old Dominion University. Called mpark, it opened late 2023 in Room 2027 of the university’s Batten Arts and Letters Building. Outfitted with a 3D printer, Arduino electronics learning kits, sewing machines, video recorders, cameras, printers and other tools and software, it functions as a miniature makerspace ‘that nurtures nonhierarchical collaborations across disciplines,’ wrote Margaret Kilcline/Konkol, an assistant professor of American literature and digital humanities and director of the new workshop.”&lt;/p&gt;
+
+&lt;p&gt;Margaret adds: “I got my first taste of the magic of makerspaces at University of Victoria’s Digital Humanities Summer Institute. Jentery Sayers and Matt Huculak and others were at the center of an exciting makerspace movement in the UVic English Department and over the course of a one-week intensive workshop (I call it nerd camp at its finest), they introduced me and about 15 other souls to modeling and prototyping using SketchUp, AutoCAD, Arduinos, and laser cutters.”&lt;/p&gt;
+
+&lt;p&gt;Thanks for the nod, Margaret. Everyone here at the &lt;a href=&quot;/praxis&quot;&gt;Praxis Studio&lt;/a&gt; is pulling for you and mpark.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;chatting-about-games-with-uvics-esa&quot;&gt;&lt;a href=&quot;#chatting-about-games-with-uvics-esa&quot;&gt;Chatting about Games with UVic’s ESA&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;5 February 2024&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I had a lively conversation with Leia Soulsbury and Braedon Lowey on the &lt;a href=&quot;https://podcasters.spotify.com/pod/show/uvic-esa&quot;&gt;&lt;em&gt;Clearihue Corner&lt;/em&gt;&lt;/a&gt; podcast produced by UVic’s English Students’ Association. We talked about games and interactive fiction from a literary perspective, and we wandered into other topics as well: from play, labor, romance, and the economy of games to issues of representation, self-expression, adaptation, design, and narration. The conversation is Episode 5 in Season 4 of the &lt;em&gt;Clearihue Corner&lt;/em&gt;, and it’s titled &lt;a href=&quot;https://podcasters.spotify.com/pod/show/uvic-esa/episodes/S4E05--Interactive-Fiction-is-All-Fun-and-Games-Office-Hours-with-Dr--Jentery-Sayers-e2f5hno&quot;&gt;“Interactive Fiction Is All Fun and Games.”&lt;/a&gt; Thanks so much, Leia and Braedon, for the invitation and taking the time to speak with me. I was chatty! Also, your description of the episode makes me smile:&lt;/p&gt;
+
+&lt;p&gt;“You are scrolling through Spotify and stop at a podcast called the Clearihue Corner. &lt;br /&gt;
+&amp;gt;Investigate&lt;br /&gt;
+This episode features a professor named Jentery Sayers, and seems to be about fiction in interactive forms: twine games, video games, choose your own adventure novels, and more. It features in depth discussion about how to analyze and talk about these kinds of narratives. Would you like to listen? &lt;br /&gt;
+&amp;gt;Yes &lt;br /&gt;
+You press play, and the podcast begins.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;degrowing-digital-projects&quot;&gt;&lt;a href=&quot;#degrowing-digital-projects&quot;&gt;Degrowing Digital Projects&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;18 November 2023&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;I just wrapped up a brief visit to Texas A&amp;amp;M’s &lt;a href=&quot;https://liberalarts.tamu.edu/codhr/&quot;&gt;Center of Digital Humanities Research&lt;/a&gt; (CoDHR), where I met with faculty, students, and staff to discuss various topics, including games, pedagogy, infrastructure, data visualization, and minimal computing. I also gave a talk as part of their &lt;a href=&quot;https://liberalarts.tamu.edu/codhr/programs/speaker-series/&quot;&gt;Digital Humanities Speaker Series&lt;/a&gt;. I titled it, &lt;a href=&quot;archive/talks/tamu/&quot;&gt;“Degrowing Digital Projects.”&lt;/a&gt; CoDHR made a neat &lt;a href=&quot;archive/talks/tamu/degrowing.png&quot;&gt;poster&lt;/a&gt; for the event, and here’s my abstract:&lt;/p&gt;
+
+&lt;p&gt;“While digital projects in the humanities are frequently associated with innovation, less attention may be paid to their care and maintenance over time. This talk draws from recent research in activity theory and minimal computing as well as allied fields, such as game studies, to address the ‘degrowth’ of digital projects from the labor perspective. First, I outline the motives and trajectories of this perspective, and then I communicate the importance of value-sensitive design to determining three things: 1) a project’s needs and desires, 2) what work is required and from whom, and 3) how to sustain the labor involved. Degrowth aims to reduce computation’s alienating effects in the interests of social organization and collective expertise, and it does so by foregrounding the cultures and habits of digital projects over their technical particulars. These issues matter for the livelihood of practitioners as gig economics and precarious labor become the norm in the technology sector.”&lt;/p&gt;
+
+&lt;p&gt;Many thanks to Maura Ives, Bryan Tarpley, Kayley Hart, and everyone in Texas A&amp;amp;M’s digital humanities working group for hosting me. It was a fabulous time.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;congrats-to-julie-funk&quot;&gt;&lt;a href=&quot;#congrats-to-julie-funk&quot;&gt;Congrats to Julie Funk&lt;/a&gt;&lt;/h1&gt;
+
+&lt;p&gt;&lt;em&gt;15 July 2023&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Congratulations to UVic English-CSPT PhD student, &lt;a href=&quot;https://www.juliemfunk.com/&quot;&gt;Julie Funk&lt;/a&gt;, who was awarded the 2023-24 Dean’s Dissertation Year Scholarship in the Humanities. Julie’s dissertation engages storytelling across contemporary media to address the biopower of hormones and the neoliberal techniques various industries use to manage them.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;uvic-now-has-a-media-studies-program&quot;&gt;&lt;a href=&quot;#uvic-now-has-a-media-studies-program&quot;&gt;UVic Now Has a Media Studies Program&lt;/a&gt;&lt;/h1&gt;
 
 &lt;p&gt;&lt;em&gt;1 July 2023&lt;/em&gt;&lt;/p&gt;
 
@@ -4992,7 +5066,7 @@ Lorem ipsum dolor sit amet, an sed modo veri epicuri, tamquam recusabo mnesarchu
 
 &lt;p&gt;&lt;em&gt;&lt;a href=&quot;/images/pages/notes.png&quot;&gt;Sketch&lt;/a&gt; by Beckett. Used with permission. Content on this page, some of which was originally written in WordPress or GitHub, dates back to 1 July 2011. I last updated this page on 6 August 2023.&lt;/em&gt;&lt;/p&gt;
 </description>
-            <link>http://jntry.work//blog.html</link>
+            <link>http://localhost:4000/blog.html</link>
           </item>
         
       
